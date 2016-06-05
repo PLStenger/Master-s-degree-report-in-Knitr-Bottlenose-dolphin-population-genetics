@@ -60,6 +60,8 @@
 \newfloat{enca}{htpb}{zzz}
 \floatname{enca}{Encadré}
 
+\usepackage{bibunits}
+
 
 \begin{document}
 
@@ -302,18 +304,44 @@ Les NGS présentent aussi des difficultés liées à la puissance de calcul néc
 
 Malgré ces nombreuses difficultés, la puissance des NGS permet aujourd'hui d'envisager des avancées rapides en terme de conservation \citep{shafer2015genomics}. L'identification de structure de populations à très fine échelle \citep{o2015rare} ou l'obtention de très grandes quantité de données génétiques sur des espèces difficiles à observer et échantilloner sur le terrain (e.g. le grand dauphin \emph{Tursiops truncatus}, \citealp{schipper2008status}) sont autant de facteurs clés pour l'identification d'ESU (Evolutionary Significant Unit, \citealp{ryder1986species}) et la mise en place de MU (Management Unit, \citealp{hawkins2016fisheries}) indispensables à la conservation des espèces \citep{casiraghi2016}.
 
-\begin{otherlanguage}{english}
-	\singlespacing
-	\begin{multicols}{2}[\section*{Références bibliographiques}]
-		\begingroup
-		\def\chapter*#1{}
-		\small
-		\footnotesize
-		\bibliographystyle{newbst}
-		\bibliography{BibliographieEA}
-		\endgroup
-	\end{multicols}
-\end{otherlanguage}
+
+\chapter* {Bibliographie}
+\addcontentsline{toc}{chapter}{Bibliographie}
+\markboth{BIBLIOGRAPHIE}{BIBLIOGRAPHIE}
+
+\bibliographystyle{newbst}
+\bibliography {BibliographieEA, Bibliographie}
+
+\section{bib EA}
+
+\begin {bibunit} [newbst]
+\nocite{*}
+\putbib [BibliographieEA]
+\end {bibunit}
+
+\section{Bib rap}
+
+
+\begin {bibunit} [newbst]
+\nocite{*}
+\putbib [Bibliographie]
+\end {bibunit}
+
+
+%\begin{otherlanguage}{english}
+%	\singlespacing
+%	\begin{multicols}{2}[\section*{Références bibliographiques}]
+%		\begingroup
+%		\def\chapter*#1{}
+%		\small
+%		\footnotesize
+%		\bibliographystyle{newbst}
+%		\bibliography{BibliographieEA}
+%		\endgroup
+%	\end{multicols}
+%\end{otherlanguage}
+
+%\bibliography{BibliographieEA}
 
 \newpage
 
@@ -521,7 +549,7 @@ Enfin, les regroupements produits par la DAPC sont tout à fait cohérents avec 
 \begin{figure}[htbp]
 	\centering
 		\includegraphics[width=.7\textwidth]{DAPC}
-	\caption{DAPC}La DAPC présente bien les trois clusters distinctement. Le cluster 1 (rose) correspond à la population des individus de la Méditerranée Nord Occidentale (MNO), le cluster 2 (bleu) à la population des individus de Gibraltar et le cluster 3 (violet) à la population des individus de Galice. Le graphique des ``DA eigenvalues'' correspond au pourcentage d'information porté par les axes. L'axe un (horizontal) porte environ 90 pour-cent d'information, et l'axe deux (vertical) en porte environ 10. Les composantes principales sont elles mêmes des combinaisons linéaires des variables de départ, c'est à dire des loci. Les individus proches sont alors ceux qui ont des allèles comparables.
+	\caption[DAPC]{La DAPC présente bien les trois clusters distinctement. Le cluster 1 (rose) correspond à la population des individus de la Méditerranée Nord Occidentale (MNO), le cluster 2 (bleu) à la population des individus de Gibraltar et le cluster 3 (violet) à la population des individus de Galice. Le graphique des ``DA eigenvalues'' correspond au pourcentage d'information porté par les axes. L'axe un (horizontal) porte environ 90 pour-cent d'information, et l'axe deux (vertical) en porte environ 10. Les composantes principales sont elles mêmes des combinaisons linéaires des variables de départ, c'est à dire des loci. Les individus proches sont alors ceux qui ont des allèles comparables.}
 	\label{fig:DAPC}
 \end{figure}
 
@@ -781,7 +809,6 @@ Although the dolphin \emph{Tursiops truncatus} is a patrimonial species, well kn
 
 \end{abstract}
 
-\end{changemargin}
 
 \end{center}
 
