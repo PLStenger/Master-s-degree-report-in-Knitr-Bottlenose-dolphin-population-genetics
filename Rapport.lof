@@ -1,18 +1,19 @@
 \select@language {french}
-\contentsline {figure}{\numberline {1}{\ignorespaces \IeC {\'E}volution du co\IeC {\^u}t de s\IeC {\'e}quen\IeC {\c c}age d'un g\IeC {\'e}nome humain}}{6}{figure.1}
+\contentsline {figure}{\numberline {1}{\ignorespaces \IeC {\'E}volution du co\IeC {\^u}t de s\IeC {\'e}quen\IeC {\c c}age d'un g\IeC {\'e}nome humain}}{5}{figure.1}
 \select@language {english}
 \select@language {french}
-\contentsline {figure}{\numberline {2}{\ignorespaces Localisation des \IeC {\'e}chantillons et concentrations d'ADN obtenues \IeC {\`a} l'issue des extractions}}{16}{figure.2}
-\contentsline {figure}{\numberline {3}{\ignorespaces Photographie d'un gel d'agarose plac\IeC {\'e} sur une plaque \IeC {\`a} UV}}{17}{figure.3}
-\contentsline {figure}{\numberline {4}{\ignorespaces Vraisemblance ($LnPD$) en fonction de $K$.}}{22}{figure.4}
-\contentsline {figure}{\numberline {5}{\ignorespaces Deviance Information Criterion (DIC) en fonction de $K$.}}{23}{figure.5}
-\contentsline {figure}{\numberline {6}{\ignorespaces Bayesian Information Criterion (BIC) en fonction de $K$.}}{23}{figure.6}
-\contentsline {figure}{\numberline {7}{\ignorespaces Probabilit\IeC {\'e}s d'assignations individuelles \IeC {\`a} chaque population inf\IeC {\'e}r\IeC {\'e}e par TESS}}{24}{figure.7}
-\contentsline {figure}{\numberline {8}{\ignorespaces Cartes de probabilit\IeC {\'e} d'appartenance aux populations inf\IeC {\'e}r\IeC {\'e}es.}}{25}{figure.8}
-\contentsline {figure}{\numberline {9}{\ignorespaces La DAPC pr\IeC {\'e}sente bien les trois clusters distinctement. Le cluster 1 (rose) correspond \IeC {\`a} la population des individus de la M\IeC {\'e}diterran\IeC {\'e}e Nord Occidentale (MNO), le cluster 2 (bleu) \IeC {\`a} la population des individus de Gibraltar et le cluster 3 (violet) \IeC {\`a} la population des individus de Galice. Le graphique des ``DA eigenvalues'' correspond au pourcentage d'information port\IeC {\'e} par les axes. L'axe un (horizontal) porte environ 90 pour-cent d'information, et l'axe deux (vertical) en porte environ 10. Les composantes principales sont elles m\IeC {\^e}mes des combinaisons lin\IeC {\'e}aires des variables de d\IeC {\'e}part, c'est \IeC {\`a} dire des loci. Les individus proches sont alors ceux qui ont des all\IeC {\`e}les comparables}}{26}{figure.9}
-\contentsline {figure}{\numberline {10}{\ignorespaces Vraisemblance ($LnPD$) en fonction de $K$.}}{26}{figure.10}
-\contentsline {figure}{\numberline {11}{\ignorespaces R\IeC {\'e}seau d'haplotypes.}}{28}{figure.11}
+\contentsline {figure}{\numberline {2}{\ignorespaces Localisation des \IeC {\'e}chantillons et concentrations d'ADN obtenues \IeC {\`a} l'issue des extractions}}{15}{figure.2}
+\contentsline {figure}{\numberline {3}{\ignorespaces Photographie d'un gel d'agarose plac\IeC {\'e} sur une plaque \IeC {\`a} UV}}{16}{figure.3}
+\contentsline {figure}{\numberline {4}{\ignorespaces Vraisemblance ($LnPD$) en fonction de $K$.}}{21}{figure.4}
+\contentsline {figure}{\numberline {5}{\ignorespaces Deviance Information Criterion (DIC) en fonction de $K$.}}{22}{figure.5}
+\contentsline {figure}{\numberline {6}{\ignorespaces Bayesian Information Criterion (BIC) en fonction de $K$.}}{22}{figure.6}
+\contentsline {figure}{\numberline {7}{\ignorespaces Probabilit\IeC {\'e}s d'assignations individuelles \IeC {\`a} chaque population inf\IeC {\'e}r\IeC {\'e}e par TESS}}{23}{figure.7}
+\contentsline {figure}{\numberline {8}{\ignorespaces Cartes de probabilit\IeC {\'e} d'appartenance aux populations inf\IeC {\'e}r\IeC {\'e}es.}}{24}{figure.8}
+\contentsline {figure}{\numberline {9}{\ignorespaces DAPC}}{25}{figure.9}
+\contentsline {figure}{\numberline {10}{\ignorespaces Vraisemblance ($LnPD$) en fonction de $K$.}}{25}{figure.10}
+\contentsline {figure}{\numberline {11}{\ignorespaces R\IeC {\'e}seau d'haplotypes.}}{27}{figure.11}
 \select@language {english}
 \select@language {french}
+\contentsline {figure}{\numberline {12}{\ignorespaces {Caract\IeC {\'e}ristiques des 25 marqueurs microsatellites utilis\IeC {\'e}s} }}{40}{figure.12}
 \select@language {english}
 \select@language {french}
