@@ -75,6 +75,8 @@
     % Title
     \HRule \\[0.4cm]
     { \huge \bfseries Trouver titre: Génétique des pop des Flippers\\[0.4cm] }
+	
+	   { \huge \bfseries Test pour Github\\[0.4cm] }
 
     % Author and supervisor
     \begin{minipage}{0.4\textwidth}
