@@ -148,14 +148,12 @@ Et enfin merci à mes parents, qui ont permis la réalisation de mes études, qu
 % -------------------- Description de la structure d'acceuil--------------------
 
 \begin{center}
- \textsc{\LARGE Description de la structure d'acceuil}\\[2cm]
+ \textsc{\LARGE Description de la structure d'accueil}\\[2cm]
 \end{center}
 
-Le LIENSs (LIttoral ENvironnement et Sociétés - UMR 7266) est une Unité Mixte de Recherche (CNRS / Université de La Rochelle) qui met en avant sa pluridisciplinarité afin de répondre aux enjeux du développement durable en lien avec le littoral.
+La structure d'accueil de ce stage fut le Centre d’Études Biologiques de Chizé qui est une unité mixte de recherche (UMR 7372 – CNRS (Centre National de Recherche Scientifique) – Université de La Rochelle). Ce centre est composé de trois équipes de recherche. Ce stage a été fait au sein de l’équipe « Prédateurs marins » qui recherche notamment les conséquences de la variabilité climatique et océanique sur la distribution des ressources ainsi que sur la démographie des prédateurs marins.
 
-J’ai été accueilli par l’équipe AMARE (Réponses des Animaux MARins à la variabilité Environnementale) du LIENSs. Leurs activités de recherche permettent une meilleure description et compréhension des réponses physiologiques comportementales ainsi que des capacités adaptatives des organismes des milieux littoraux soumis à des contraintes forçantes (climatiques & anthropiques). 
-
-C'est ici que j'ai pu réaliser toutes les analyses génétiques (en laboratoire et sur logiciels) avec le Dr Benoit Simon-Bouhet.
+Le laboratoire d'accueil fût LIENSs (LIttoral ENvironnement et Sociétés - UMR 7266) est une Unité Mixte de Recherche (CNRS / Université de La Rochelle) qui met en avant sa pluridisciplinarité afin de répondre aux enjeux du développement durable en lien avec le littoral. C'est ici que j'ai pu réaliser toutes les analyses génétiques (en laboratoire et sur logiciels) avec le Dr Benoit Simon-Bouhet.
 
 ~~\\
 
@@ -164,6 +162,15 @@ Le second organisme avec le quel j'ai pu collaborer est le GIS3M (Groupement d�
 L’objectif du GIS3M est de favoriser l'association des compétences dans le domaine de la recherche sur les mammifères marins de Méditerranée. Notamment en permettant de rassembler les chercheurs et spécialistes pluridisciplinaires, ainsi que d'apporter une aide matérielle et financière autour de projets de recherche collaboratifs.
 
 Je n'ai pas pu être sur le site de l'association du GIS3M à Sausset-les-Pins, mais j'ai eu l'occasion de me déplacer sur Marseille du 29 novembre au 3 décembre 2015 afin de pouvoir rencontrer les membres de l'association, de participer à une réunion des partenaires du projet GDEGeM (Grand Dauphin Etude et Gestion en Méditerranée) dans lequel s'est inscrit ce stage. Cette réunion s'est déroulée à la DREAL (Direction Régionale de l'Environnement, de l'Aménagement et du Logement) de Marseille. J'ai aussi pu assister et aider à la mise en place de l'``International Workshop Bottlenose dolphin conservation and monitoring in the North-Western Mediterranean Sea'' qui s'est déroulé à la Villa Méditerranée de Marseille les 1 et 2 décembre.
+
+\newpage
+\tableofcontents
+
+
+\newpage
+\listoffigures  % table des figures
+\listoftables   % table des tableaux
+\listof{enca}{Liste des encadrés}
 
 \newpage
 
@@ -187,7 +194,7 @@ Je n'ai pas pu être sur le site de l'association du GIS3M à Sausset-les-Pins, 
 
 %\end{BCouleur} % Fin fond gris
 ~~\\
-\textbf{Mots clés:} \emph{NGS, Population, Génétique, Conservation}
+\textbf{Mots clés:} \emph{NGS, Population, Génétique, Conservation, Structure de population}
 ~~\\
 
 \newpage
@@ -201,7 +208,7 @@ Je n'ai pas pu être sur le site de l'association du GIS3M à Sausset-les-Pins, 
 %\secounter{page}{1} 
 
 \begin {bibunit} [newbst]
-
+\addcontentsline{toc}{part}{État de l'art} 
 Le taux d'extinction des espèces animales à la surface du globe est actuellement 1000 fois supérieur au taux normal supposé \citep{pimm2014aa}. Les conséquences des actions anthropiques sur l'environnement en général et sur la biodiversité en particulier sont telles que certains auteurs n'hésitent pas à parler d'anthropocène pour caractériser l'ère géologique dans laquelle l'Homme semble avoir fait entrer la Terre depuis la fin du XIX\ieme{}~siècle \citep{crutzen23ff}. Dans ce contexte, les efforts de protection de la biodiversité et de conservation des espèces sont plus que jamais d'actualité.\footnote{Google Scholar indique par exemple que 398 articles publiés en 2015 contiennent, dans leur titre, l'expression ``biodiversity conservation''.} Depuis le milieu du XX\ieme{}~siècle, la prise de conscience de l'impact des activités humaines sur le milieu marin a conduit le législateur à créer des zones de protection en mer comme avec le double objectif de maintenir les activités humaines tout en protégeant la biodiversité \citep{frost2016} L'efficacité des aires marines protégées repose sur la détermination préalable de la structure des populations, qui est très difficile à déterminer en milieu marin \citep{Jonsson2016} pour deux raisons principales:
 
 \begin{enumerate}
@@ -322,6 +329,7 @@ Malgré ces nombreuses difficultés, la puissance des NGS permet aujourd'hui d'e
 
 
 \begin {bibunit} [newbst]
+\addcontentsline{toc}{part}{Rapport}
 \section{Introduction}
 
 Dans les eaux méditerranéennes françaises, les aires marines protégées incluant 2 parcs nationaux, 1 parc marin, 36 (ZSC) Zones Spéciales de Conservation ou ZPS (Zones de Protection Spéciales) et 5 ASPIM (Aire Spécialement Protégée d’Importance Méditerranéenne), couvrent 34\% de la ZEE (Zone Économique Exclusive) \citep{workshop}. Ce réseau de protection est justifié par le fait que la mer Méditerranée est un point chaud de la biodiversité marine \citep{coll2010biodiversity}. Néanmoins, les tendances temporelles indiquent que la surexploitation et que la destruction de l'habitat ont été les principaux facteurs humains impliquants des changements historiques dans la biodiversité \citep{danovaro2003pollution, coll2010biodiversity}. Tous ces impacts devraient croître en importance à l'avenir, en particulier avec le changement climatique et la dégradation de l'habitat \citep{coll2012mediterranean}. 
@@ -671,11 +679,6 @@ Ces résultats permettent d'apporter de nouvelles informations sur la distributi
 
 \end {bibunit}
 
-\newpage
-% \tableofcontents
-\listoffigures  % table des figures
-\listoftables   % table des tableaux
-\listof{enca}{Liste des encadrés}
 
 \newpage
 \section{Annexes}
