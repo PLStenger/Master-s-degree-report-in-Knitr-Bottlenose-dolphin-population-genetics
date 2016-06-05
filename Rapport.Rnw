@@ -124,6 +124,28 @@ Et enfin merci à mes parents, qui ont permis la réalisation de mes études, qu
 
 \newpage
 
+% -------------------- Description de la structure d'acceuil--------------------
+
+\begin{center}
+ \textsc{\LARGE Description de la structure d'acceuil}\\[2cm]
+\end{center}
+
+Le LIENSs (LIttoral ENvironnement et Sociétés - UMR 7266) est une Unité Mixte de Recherche (CNRS / Université de La Rochelle) qui met en avant sa pluridisciplinarité afin de répondre aux enjeux du développement durable en lien avec le littoral.
+
+J’ai été accueilli par l’équipe AMARE (Réponses des Animaux MARins à la variabilité Environnementale) du LIENSs. Leurs activités de recherche permettent une meilleure description et compréhension des réponses physiologiques comportementales ainsi que des capacités adaptatives des organismes des milieux littoraux soumis à des contraintes forçantes (climatiques & anthropiques). 
+
+C'est ici que j'ai pu réaliser toutes les analyses génétiques (en laboratoire et sur logiciels) avec le Dr Benoit Simon-Bouhet.
+
+~~\\
+
+Le second organisme avec le quel j'ai pu collaborer est le GIS3M (Groupement d’Intérêt Scientifique pour les Mammifères Marins de Méditerranée) qui est une association crée le 7 août 2007. Actuellement situé à Sausset-les-Pins dans les Bouches-du-Rhône, elle compte 23 membres depuis 2015, dont la présidente est le Dr Hélène Labach.
+
+L’objectif du GIS3M est de favoriser l'association des compétences dans le domaine de la recherche sur les mammifères marins de Méditerranée. Notamment en permettant de rassembler les chercheurs et spécialistes pluridisciplinaires, ainsi que d'apporter une aide matérielle et financière autour de projets de recherche collaboratifs.
+
+Je n'ai pas pu être sur le site de l'association du GIS3M à Sausset-les-Pins, mais j'ai eu l'occasion de me déplacer sur Marseille du 29 novembre au 3 décembre 2015 afin de pouvoir rencontrer les membres de l'association, de participer à une réunion des partenaires du projet GDEGeM (Grand Dauphin Etude et Gestion en Méditerranée) dans lequel s'est inscrit ce stage. Cette réunion s'est déroulée à la DREAL (Direction Régionale de l'Environnement, de l'Aménagement et du Logement) de Marseille. J'ai aussi pu assister et aider à la mise en place de l'``International Workshop Bottlenose dolphin conservation and monitoring in the North-Western Mediterranean Sea'' qui s'est déroulé à la Villa Méditerranée de Marseille les 1 et 2 décembre.
+
+\newpage
+
 \title{{\Huge État de l'art}\\[3pc]Séquençage haut débit et inférences de la structure de populations : perspectives nouvelles et limites}
 \author{Pierre-Louis \textsc{Stenger}}
 \date{}
