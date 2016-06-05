@@ -22,8 +22,6 @@
 % Création de 2 styles d'en-têtes et pieds de page : 1 pour le corps du texte et un pour la page de garde toc, etc
 \usepackage{etoolbox,lastpage,fancyhdr}
 
-
-
 \fancypagestyle{plain}{%
   \fancyhf{}%
   \fancyfoot{}%
@@ -37,7 +35,7 @@
   \fancyhead[R]{\emph{Master SPE}}
   \fancyfoot[L]{\emph{Pierre-Louis Stenger}}
   \fancyfoot[C]{}
-  \fancyfoot[R]{\thepage\ / \pageref{LastPage}}
+  \fancyfoot[R]{\thepage\ / 43}
   \renewcommand{\headrulewidth}{0.4pt}
   \renewcommand{\footrulewidth}{0.4pt}
 }
@@ -60,17 +58,18 @@
 \newfloat{enca}{htpb}{zzz}
 \floatname{enca}{Encadré}
 
+% Bibliographie multiple
 \usepackage{bibunits}
 
 
 \begin{document}
 
+% -------------------- Page de présentation --------------------
+
 \begin{titlepage}
   \begin{sffamily}
   \begin{center}
-
-% -------------------- Page de présentation --------------------
-
+	  
 \thispagestyle{empty}
 
    \begin{figure}
@@ -144,12 +143,23 @@ Un merci tout particulier à mes collègues stagiaires de bureau, et collègues 
 Et enfin merci à mes parents, qui ont permis la réalisation de mes études, qui ont toujours étaient là pour moi et sans qui je n'aurais pas pu faire ce qui me plait aujourd'hui.
 
 \newpage
+\tableofcontents
+
+
+\newpage
+\listoffigures  % table des figures
+\listoftables   % table des tableaux
+\listof{enca}{Liste des encadrés}
+
+\newpage
 
 % -------------------- Description de la structure d'acceuil--------------------
 
 \begin{center}
  \textsc{\LARGE Description de la structure d'accueil}\\[2cm]
 \end{center}
+\pagenumbering{arabic} \setcounter{page}{1} 
+\addcontentsline{toc}{section}{Description de la structure d'accueil}
 
 La structure d'accueil de ce stage fut le Centre d’Études Biologiques de Chizé qui est une unité mixte de recherche (UMR 7372 – CNRS (Centre National de Recherche Scientifique) – Université de La Rochelle). Ce centre est composé de trois équipes de recherche. Ce stage a été fait au sein de l’équipe « Prédateurs marins » qui recherche notamment les conséquences de la variabilité climatique et océanique sur la distribution des ressources ainsi que sur la démographie des prédateurs marins.
 
@@ -163,52 +173,29 @@ L’objectif du GIS3M est de favoriser l'association des compétences dans le do
 
 Je n'ai pas pu être sur le site de l'association du GIS3M à Sausset-les-Pins, mais j'ai eu l'occasion de me déplacer sur Marseille du 29 novembre au 3 décembre 2015 afin de pouvoir rencontrer les membres de l'association, de participer à une réunion des partenaires du projet GDEGeM (Grand Dauphin Etude et Gestion en Méditerranée) dans lequel s'est inscrit ce stage. Cette réunion s'est déroulée à la DREAL (Direction Régionale de l'Environnement, de l'Aménagement et du Logement) de Marseille. J'ai aussi pu assister et aider à la mise en place de l'``International Workshop Bottlenose dolphin conservation and monitoring in the North-Western Mediterranean Sea'' qui s'est déroulé à la Villa Méditerranée de Marseille les 1 et 2 décembre.
 
-\newpage
-\tableofcontents
-
-
-\newpage
-\listoffigures  % table des figures
-\listoftables   % table des tableaux
-\listof{enca}{Liste des encadrés}
 
 \newpage
 
 \title{{\Huge État de l'art}\\[3pc]Séquençage haut débit et inférences de la structure de populations : perspectives nouvelles et limites}
 \author{Pierre-Louis \textsc{Stenger}}
 \date{}
-%\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-%\begin{document}
+
 \frontmatter
 
 \maketitle 
 
-
-
-%\begin{BCouleur}  % Début fond gris
-
-%\begin{abstract}
-%Résumé
-%\end{abstract}
-
-
-%\end{BCouleur} % Fin fond gris
 ~~\\
 \textbf{Mots clés:} \emph{NGS, Population, Génétique, Conservation, Structure de population}
 ~~\\
 
 \newpage
 
-
 \mainmatter
 
-
-\pagenumbering{arabic} \setcounter{page}{1} 
-
-%\secounter{page}{1} 
+%\pagenumbering{arabic} \setcounter{page}{1} 
 
 \begin {bibunit} [newbst]
-\addcontentsline{toc}{part}{État de l'art} 
+\addcontentsline{toc}{section}{État de l'art} 
 Le taux d'extinction des espèces animales à la surface du globe est actuellement 1000 fois supérieur au taux normal supposé \citep{pimm2014aa}. Les conséquences des actions anthropiques sur l'environnement en général et sur la biodiversité en particulier sont telles que certains auteurs n'hésitent pas à parler d'anthropocène pour caractériser l'ère géologique dans laquelle l'Homme semble avoir fait entrer la Terre depuis la fin du XIX\ieme{}~siècle \citep{crutzen23ff}. Dans ce contexte, les efforts de protection de la biodiversité et de conservation des espèces sont plus que jamais d'actualité.\footnote{Google Scholar indique par exemple que 398 articles publiés en 2015 contiennent, dans leur titre, l'expression ``biodiversity conservation''.} Depuis le milieu du XX\ieme{}~siècle, la prise de conscience de l'impact des activités humaines sur le milieu marin a conduit le législateur à créer des zones de protection en mer comme avec le double objectif de maintenir les activités humaines tout en protégeant la biodiversité \citep{frost2016} L'efficacité des aires marines protégées repose sur la détermination préalable de la structure des populations, qui est très difficile à déterminer en milieu marin \citep{Jonsson2016} pour deux raisons principales:
 
 \begin{enumerate}
@@ -329,7 +316,7 @@ Malgré ces nombreuses difficultés, la puissance des NGS permet aujourd'hui d'e
 
 
 \begin {bibunit} [newbst]
-\addcontentsline{toc}{part}{Rapport}
+\addcontentsline{toc}{section}{Rapport}
 \section{Introduction}
 
 Dans les eaux méditerranéennes françaises, les aires marines protégées incluant 2 parcs nationaux, 1 parc marin, 36 (ZSC) Zones Spéciales de Conservation ou ZPS (Zones de Protection Spéciales) et 5 ASPIM (Aire Spécialement Protégée d’Importance Méditerranéenne), couvrent 34\% de la ZEE (Zone Économique Exclusive) \citep{workshop}. Ce réseau de protection est justifié par le fait que la mer Méditerranée est un point chaud de la biodiversité marine \citep{coll2010biodiversity}. Néanmoins, les tendances temporelles indiquent que la surexploitation et que la destruction de l'habitat ont été les principaux facteurs humains impliquants des changements historiques dans la biodiversité \citep{danovaro2003pollution, coll2010biodiversity}. Tous ces impacts devraient croître en importance à l'avenir, en particulier avec le changement climatique et la dégradation de l'habitat \citep{coll2012mediterranean}. 
@@ -638,7 +625,7 @@ Le taux de migrants entre population a aussi était calculé, avec 2.605 migrant
 Pour ce réseau, basé sur les données mitochondriales, cinq individus provenant d'Italie ont été volontairement coloriés (en marron). Ces individus non pas pu être exploités pour les données microsatellites.
 Ce réseau de 32 haplotypes (réalisé à partir des données placées sous Network) démontre que la population de Galice (Haplotypes 13 et 32) est relativement à part. Les individus italiens sont relativement bien répartis dans ce réseau, comme les deux autres populations (de MNO et de Gibraltar). Ce qui démontrent un échange d'individus entre ces trois populations, mais un échange faible avec la population galicienne.
 
-\section*{Discussion} 
+\section{Discussion} 
 
 Les résultats de cette étude ont révélé différents degrés de différenciation génétique dans la zone d'étude de la Méditerranée étendue à la Galice. Un schéma global de structuration de la population a été détectée par DAPC et les cartes de krigeage, et, dans une moindre mesure, par une approche de classification bayésienne. Les données d'ADN mitochondrial et microsatellites ont révélé une plus forte divergence entre les sites d'échantillonnage géographiquement éloignés (e.g. Galice et Méditerranée Nord Occidentale (MNO)).
 
@@ -797,12 +784,6 @@ Although the dolphin \emph{Tursiops truncatus} is a patrimonial species, well kn
 
 \end{abstract}
 \end{center}
-
-%\chapter* {Bibliographie}
-%\addcontentsline{toc}{chapter}{Bibliographie}
-%\markboth{BIBLIOGRAPHIE}{BIBLIOGRAPHIE}
-
-%\bibliographystyle{newbst}
-%\bibliography {BibliographieEA, Bibliographie}
+\thispagestyle{empty}
 
 \end{document}
