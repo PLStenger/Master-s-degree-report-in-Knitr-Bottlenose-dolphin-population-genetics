@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.6.9)  5 JUN 2016 11:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.6.9)  5 JUN 2016 12:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1699,40 +1699,40 @@ line 545.
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.592 
+l.590 
        <./DAPC.png>] [23pdfTeX warning (ext4): destination with the same identi
 fier (name{figure.10}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.613 
+l.611 
       pdfTeX warning (ext4): destination with the same identifier (name{table.2
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.613 
+l.611 
       pdfTeX warning (ext4): destination with the same identifier (name{table.3
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.613 
+l.611 
       pdfTeX warning (ext4): destination with the same identifier (name{table.4
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.613 
+l.611 
        <./figure/lnpd2-1.pdf>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `!tbp') on input line 614.
+               Default added (so using `!tbp') on input line 612.
 
 <reseau.png, id=403, 881.2925pt x 480.79625pt>
 File: reseau.png Graphic file (type png)
  <use reseau.png>
-Package pdftex.def Info: reseau.png used on input line 637.
+Package pdftex.def Info: reseau.png used on input line 635.
 (pdftex.def)             Requested size: 352.51076pt x 192.31508pt.
 
 
@@ -1743,9 +1743,9 @@ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.640 \FloatBarrier
+l.638 \FloatBarrier
                    ]
-Overfull \hbox (10.81061pt too wide) in paragraph at lines 649--650
+Overfull \hbox (10.81061pt too wide) in paragraph at lines 647--648
 []\OT1/cmr/m/n/12 (-20) Les grands dau-phins ^^Sechantillonn^^Ses lors de cette
  ^^Setude et les in-di-vi-dus m^^Sediterran^^Seens
  []
@@ -1755,69 +1755,69 @@ Overfull \hbox (10.81061pt too wide) in paragraph at lines 649--650
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.653 U
+l.651 U
        ne population en MNO, dans laquelle on ne retrouve qu'uniquement des ...
  <./reseau.png>]
 
 Package natbib Warning: Citation `carnabuci2016' on page 26 undefined on input 
-line 657.
+line 655.
 
 
 Package natbib Warning: Citation `natoli2005habitat' on page 26 undefined on in
-put line 659.
+put line 657.
 
 [26]
 
 Package natbib Warning: Citation `natoli2004population' on page 27 undefined on
- input line 661.
+ input line 659.
 
 
 Package natbib Warning: Citation `natoli2005habitat' on page 27 undefined on in
-put line 661.
+put line 659.
 
 
 Package natbib Warning: Citation `gnone2011distribution' on page 27 undefined o
-n input line 661.
+n input line 659.
+
+
+Package natbib Warning: Citation `louis2014' on page 27 undefined on input line
+ 659.
 
 
 Package natbib Warning: Citation `louis2014' on page 27 undefined on input line
  661.
 
 
-Package natbib Warning: Citation `louis2014' on page 27 undefined on input line
- 663.
-
-
 Package natbib Warning: Citation `phdLouis2014' on page 27 undefined on input l
-ine 663.
+ine 661.
 
 
 Package natbib Warning: Citation `louis2014' on page 27 undefined on input line
- 663.
+ 661.
 
 
 Package natbib Warning: Citation `lowther2014' on page 27 undefined on input li
-ne 663.
+ne 661.
 
 
 Package natbib Warning: Citation `lowther2014' on page 27 undefined on input li
-ne 663.
+ne 661.
 
 
 Package natbib Warning: Citation `louis2014' on page 27 undefined on input line
- 663.
+ 661.
 
 
 Package natbib Warning: Citation `duffield1983hematology' on page 27 undefined 
-on input line 663.
+on input line 661.
 
 
 Package natbib Warning: Citation `gaspari2015population' on page 27 undefined o
-n input line 663.
+n input line 661.
 
 
 Package natbib Warning: Citation `holcer2012ecology' on page 27 undefined on in
-put line 663.
+put line 661.
 
 
 Underfull \vbox (badness 4266) has occurred while \output is active []
@@ -1825,113 +1825,147 @@ Underfull \vbox (badness 4266) has occurred while \output is active []
  [27]
 
 Package natbib Warning: Citation `Laran2016' on page 28 undefined on input line
- 665.
+ 663.
+
+
+Package natbib Warning: Citation `krutzen2004population' on page 28 undefined o
+n input line 665.
+
+
+Package natbib Warning: Citation `sellas2005mitochondrial' on page 28 undefined
+ on input line 665.
+
+
+Package natbib Warning: Citation `ansmann2012dolphins' on page 28 undefined on 
+input line 665.
+
+
+Package natbib Warning: Citation `gaspari2015population' on page 28 undefined o
+n input line 667.
+
+
+Package natbib Warning: Citation `hoelzel1998genetic' on page 28 undefined on i
+nput line 667.
 
 
 Package natbib Warning: Citation `krutzen2004population' on page 28 undefined o
 n input line 667.
 
 
-Package natbib Warning: Citation `sellas2005mitochondrial' on page 28 undefined
- on input line 667.
-
-
-Package natbib Warning: Citation `ansmann2012dolphins' on page 28 undefined on 
-input line 667.
-
-
-Package natbib Warning: Citation `gaspari2015population' on page 28 undefined o
-n input line 669.
-
-
-Package natbib Warning: Citation `hoelzel1998genetic' on page 28 undefined on i
-nput line 669.
-
-
-Package natbib Warning: Citation `krutzen2004population' on page 28 undefined o
-n input line 669.
-
-
 Package natbib Warning: Citation `moller2004genetic' on page 28 undefined on in
-put line 669.
+put line 667.
 
 
 Package natbib Warning: Citation `natoli2005habitat' on page 28 undefined on in
-put line 669.
+put line 667.
 
 
 Package natbib Warning: Citation `gaspari2015population' on page 28 undefined o
-n input line 669.
+n input line 667.
 
 [28] [29]
 No file Rapport.bbl.
 
-Overfull \hbox (1.58911pt too wide) in paragraph at lines 724--724
+Overfull \hbox (1.58911pt too wide) in paragraph at lines 722--722
  []|\OT1/cmr/m/n/6 Longueur 
  []
 
 
-Overfull \hbox (11.62643pt too wide) in paragraph at lines 724--724
+Overfull \hbox (11.62643pt too wide) in paragraph at lines 722--722
  []|\OT1/cmr/m/n/6 (TG)13CT(TG)2CA(TG)2(TA)2(TG)4| 
  []
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 730.
+               Default added (so using `tbp') on input line 728.
+
+[30pdfTeX warning (ext4): destination with the same identifier (name{table.6}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.764 \newpage
+              ] [31]
+
+./Rapport.tex:783: LaTeX Error: \begin{otherlanguage} on input line 774 ended b
+y \end{center}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.783 \end{center}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
 Package natbib Warning: There were undefined citations.
 
 
 AED: lastpage setting LastPage
-[30pdfTeX warning (ext4): destination with the same identifier (name{table.6}) 
-has been already used, duplicate ignored
+[32]
 
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.766 \end{document}
-                    ] [31]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 766.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 766.
- (./Rapport.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 766.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 766.
+./Rapport.tex:785: LaTeX Error: \begin{center} on input line 766 ended by \end{
+document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.785 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 785.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 785.
+(./Rapport.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 785.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 785.
 Package rerunfilecheck Info: File `Rapport.out' has not changed.
 (rerunfilecheck)             Checksum: 600A4690BD2B63F635F1C20A8C708263;1222.
- ) 
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 766 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
- 12312 strings out of 493117
- 178623 string characters out of 6135434
+ 12342 strings out of 493117
+ 178912 string characters out of 6135434
  350339 words of memory out of 5000000
- 15284 multiletter control sequences out of 15000+600000
- 19907 words of font info for 129 fonts, out of 8000000 for 9000
+ 15288 multiletter control sequences out of 15000+600000
+ 21344 words of font info for 143 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,14n,43p,4875b,618s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
-></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
-/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></u
-sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
-/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
-ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loc
-al/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local
-/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/te
-xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texli
-ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texliv
-e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/
-2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive
-/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/local/texlive
-/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/
-2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/20
-14/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2014/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2014/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Rapport.pdf (35 pages, 3821663 bytes).
+ 41i,14n,43p,4875b,633s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmcsc10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi6.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.
+pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pf
+b></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><
+/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></us
+r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr
+/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/l
+ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/
+local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/
+local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
+ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/loc
+al/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local
+/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/
+texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on Rapport.pdf (36 pages, 3836086 bytes).
 PDF statistics:
- 544 PDF objects out of 1000 (max. 8388607)
- 460 compressed objects within 5 object streams
- 103 named destinations out of 1000 (max. 500000)
- 30909 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 553 PDF objects out of 1000 (max. 8388607)
+ 467 compressed objects within 5 object streams
+ 104 named destinations out of 1000 (max. 500000)
+ 33469 words of extra memory for PDF output out of 35830 (max. 10000000)
 
