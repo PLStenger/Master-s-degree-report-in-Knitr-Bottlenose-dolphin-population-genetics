@@ -77,7 +77,7 @@
       \begin{minipage}[c]{.1\linewidth}
          \includegraphics[scale=0.25, left]{GIS3Mlogo}
       \end{minipage} \hfill
-	  \centering\textsc{\Large Université de La Rochelle}
+	  \centering\textsc{\Large Université de La Rochelle}\hspace{1cm}
       \begin{minipage}[c]{.15\linewidth}
          \includegraphics[scale=0.06, right]{logoU}
       \end{minipage}
@@ -109,15 +109,14 @@
 		\& \\
 		\textrm{\large{Hélène}} \textsc{\large{Labach}}
 
-
     \vfill
-
     % Bottom of the page
     {\large Janvier 2016 — Juin 2016}
 
   \end{center}
   \end{sffamily}
 \end{titlepage}
+
 
 % -------------------- Remerciements--------------------
 
