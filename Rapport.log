@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.6.9)  5 JUN 2016 15:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.6.9)  5 JUN 2016 15:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -489,7 +489,234 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 )
-(./Rapport.aux)
+(./Rapport.aux
+
+Package natbib Warning: Citation `GSFLX' multiply defined.
+
+
+Package natbib Warning: Citation `iontorrent' multiply defined.
+
+
+Package natbib Warning: Citation `illumina' multiply defined.
+
+
+Package natbib Warning: Citation `baily1992detection' multiply defined.
+
+
+Package natbib Warning: Citation `baird2008aa' multiply defined.
+
+
+Package natbib Warning: Citation `bazin2006population' multiply defined.
+
+
+Package natbib Warning: Citation `beerli2001maximum' multiply defined.
+
+
+Package natbib Warning: Citation `bonin2004aa' multiply defined.
+
+
+Package natbib Warning: Citation `broquet2009molecular' multiply defined.
+
+
+Package natbib Warning: Citation `casiraghi2016' multiply defined.
+
+
+Package natbib Warning: Citation `corander2003bayesian' multiply defined.
+
+
+Package natbib Warning: Citation `crandall2000' multiply defined.
+
+
+Package natbib Warning: Citation `crutzen23ff' multiply defined.
+
+
+Package natbib Warning: Citation `davey2010radseq' multiply defined.
+
+
+Package natbib Warning: Citation `davey2011genome' multiply defined.
+
+
+Package natbib Warning: Citation `dewoody2000microsatellite' multiply defined.
+
+
+Package natbib Warning: Citation `drake1998rates' multiply defined.
+
+
+Package natbib Warning: Citation `ekblom2014field' multiply defined.
+
+
+Package natbib Warning: Citation `Ey06' multiply defined.
+
+
+Package natbib Warning: Citation `franccois2010spatially' multiply defined.
+
+
+Package natbib Warning: Citation `frost2016' multiply defined.
+
+
+Package natbib Warning: Citation `funk2012harnessing' multiply defined.
+
+
+Package natbib Warning: Citation `gagnaire2015aa' multiply defined.
+
+
+Package natbib Warning: Citation `galtsoff1930fecundity' multiply defined.
+
+
+Package natbib Warning: Citation `garner2015genomics' multiply defined.
+
+
+Package natbib Warning: Citation `gomez2009systematic' multiply defined.
+
+
+Package natbib Warning: Citation `guillot2012' multiply defined.
+
+
+Package natbib Warning: Citation `haas2011chimeric' multiply defined.
+
+
+Package natbib Warning: Citation `hallfors2015addressing' multiply defined.
+
+
+Package natbib Warning: Citation `hawkins2016fisheries' multiply defined.
+
+
+Package natbib Warning: Citation `hayden20141' multiply defined.
+
+
+Package natbib Warning: Citation `hohenlohe2012extensive' multiply defined.
+
+
+Package natbib Warning: Citation `huang2000analysis' multiply defined.
+
+
+Package natbib Warning: Citation `Jonsson2016' multiply defined.
+
+
+Package natbib Warning: Citation `lam2012detecting' multiply defined.
+
+
+Package natbib Warning: Citation `latch2006relative' multiply defined.
+
+
+Package natbib Warning: Citation `lighten2014aa' multiply defined.
+
+
+Package natbib Warning: Citation `luikart2003power' multiply defined.
+
+
+Package natbib Warning: Citation `Mannocci2012' multiply defined.
+
+
+Package natbib Warning: Citation `martinsohn2009fishpoptrace' multiply defined.
+
+
+
+Package natbib Warning: Citation `mastretta2015restriction' multiply defined.
+
+
+Package natbib Warning: Citation `mccormack2013next' multiply defined.
+
+
+Package natbib Warning: Citation `mccusker2010positive' multiply defined.
+
+
+Package natbib Warning: Citation `mcmahon2014and' multiply defined.
+
+
+Package natbib Warning: Citation `mikheyev2014first' multiply defined.
+
+
+Package natbib Warning: Citation `MK06a' multiply defined.
+
+
+Package natbib Warning: Citation `MPA' multiply defined.
+
+
+Package natbib Warning: Citation `newman2000stock' multiply defined.
+
+
+Package natbib Warning: Citation `niu2010artificial' multiply defined.
+
+
+Package natbib Warning: Citation `novak2016predictive' multiply defined.
+
+
+Package natbib Warning: Citation `o2015rare' multiply defined.
+
+
+Package natbib Warning: Citation `peterson2012double' multiply defined.
+
+
+Package natbib Warning: Citation `peyretaillade2011extreme' multiply defined.
+
+
+Package natbib Warning: Citation `pimm2014aa' multiply defined.
+
+
+Package natbib Warning: Citation `pogson1995genetic' multiply defined.
+
+
+Package natbib Warning: Citation `pritchard2000inference' multiply defined.
+
+
+Package natbib Warning: Citation `rousset1997genetic' multiply defined.
+
+
+Package natbib Warning: Citation `rousset2000genetic' multiply defined.
+
+
+Package natbib Warning: Citation `ryder1986species' multiply defined.
+
+
+Package natbib Warning: Citation `schipper2008status' multiply defined.
+
+
+Package natbib Warning: Citation `selkoe2011marine' multiply defined.
+
+
+Package natbib Warning: Citation `shafer2015genomics' multiply defined.
+
+
+Package natbib Warning: Citation `shendure2008next' multiply defined.
+
+
+Package natbib Warning: Citation `shokralla2012next' multiply defined.
+
+
+Package natbib Warning: Citation `spitz2011prey' multiply defined.
+
+
+Package natbib Warning: Citation `spitz2006diet' multiply defined.
+
+
+Package natbib Warning: Citation `stapley2010adaptation' multiply defined.
+
+
+Package natbib Warning: Citation `steiner2013conservation' multiply defined.
+
+
+Package natbib Warning: Citation `szulkin2016population' multiply defined.
+
+
+Package natbib Warning: Citation `taberlet2012towards' multiply defined.
+
+
+Package natbib Warning: Citation `tajima1989effect' multiply defined.
+
+
+Package natbib Warning: Citation `templeton2013dna' multiply defined.
+
+
+Package natbib Warning: Citation `waples1998separating' multiply defined.
+
+
+Package natbib Warning: Citation `wilson2003bayesian' multiply defined.
+
+
+Package natbib Warning: Citation `zielinski2014development' multiply defined.
+
+)
 \openout1 = `Rapport.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 112.
@@ -744,20 +971,20 @@ File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 File: uni-3.def 2013/05/13 UCS: Unicode data U+0300..U+03FF
 )
 
-./Rapport.tex:200: Package ucs Error: Please activate option 'combine'.
+./Rapport.tex:202: Package ucs Error: Please activate option 'combine'.
 
 See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.200 ...ittoraux soumis à des contraintes forç
+l.202 ...ittoraux soumis à des contraintes forç
                                                   antes (climatiques & anthr...
 
 Composed characters can only be rendered correctly, when the option 'combine' i
 s activated
 
-./Rapport.tex:200: Misplaced alignment tab character &.
-l.200 ...es contraintes forçantes (climatiques &
+./Rapport.tex:202: Misplaced alignment tab character &.
+l.202 ...es contraintes forçantes (climatiques &
                                                    anthropiques).
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -767,17 +994,17 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 204--205
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
 
  []
 
 [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 222.
+(Font)              <14.4> on input line 224.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 222.
+(Font)              <7> on input line 224.
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--236
+Underfull \hbox (badness 10000) in paragraph at lines 235--238
 
  []
 
@@ -795,22 +1022,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 233--236
 
 
 
-Package natbib Warning: Citation `pimm2014aa' on page 1 undefined on input line
- 251.
-
-
-Package natbib Warning: Citation `crutzen23ff' on page 1 undefined on input lin
-e 251.
-
-
-Package natbib Warning: Citation `frost2016' on page 1 undefined on input line 
-251.
-
-
-Package natbib Warning: Citation `Jonsson2016' on page 1 undefined on input lin
-e 251.
-
-
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
@@ -820,1115 +1031,1255 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.252 
-       [1]
-
-Package natbib Warning: Citation `schipper2008status' on page 2 undefined on in
-put line 254.
-
-
-Package natbib Warning: Citation `galtsoff1930fecundity' on page 2 undefined on
- input line 255.
-
-
-Package natbib Warning: Citation `gagnaire2015aa' on page 2 undefined on input 
-line 255.
-
-
-Package natbib Warning: Citation `Mannocci2012' on page 2 undefined on input li
-ne 258.
-
-
-Package natbib Warning: Citation `newman2000stock' on page 2 undefined on input
- line 260.
-
-
-Package natbib Warning: Citation `spitz2006diet' on page 2 undefined on input l
-ine 261.
-
-
-Package natbib Warning: Citation `spitz2011prey' on page 2 undefined on input l
-ine 261.
-
-
-Package natbib Warning: Citation `pogson1995genetic' on page 2 undefined on inp
-ut line 262.
-
-
-Package natbib Warning: Citation `huang2000analysis' on page 2 undefined on inp
-ut line 262.
-
-
-Package natbib Warning: Citation `bazin2006population' on page 2 undefined on i
-nput line 265.
-
-
-Package natbib Warning: Citation `MK06a' on page 2 undefined on input line 265.
-
-
-
-Package natbib Warning: Citation `Ey06' on page 2 undefined on input line 265.
-
-
-Package natbib Warning: Citation `tajima1989effect' on page 2 undefined on inpu
-t line 265.
-
-
-Package natbib Warning: Citation `beerli2001maximum' on page 2 undefined on inp
-ut line 265.
-
-
-Package natbib Warning: Citation `franccois2010spatially' on page 2 undefined o
-n input line 265.
-
-
-Package natbib Warning: Citation `guillot2012' on page 2 undefined on input lin
-e 265.
-
-
-Package natbib Warning: Citation `wilson2003bayesian' on page 2 undefined on in
-put line 265.
-
-
-Package natbib Warning: Citation `drake1998rates' on page 2 undefined on input 
-line 265.
-
-
-Package natbib Warning: Citation `waples1998separating' on page 2 undefined on 
-input line 265.
-
-
-Package natbib Warning: Citation `latch2006relative' on page 2 undefined on inp
-ut line 265.
-
-[2]
+l.254 
+       [1] [2]
 Package hyperref Info: bookmark level for unknown enca defaults to 0 on input l
-ine 268.
-
-
-Package natbib Warning: Citation `rousset1997genetic' on page 3 undefined on in
-put line 279.
-
-
-Package natbib Warning: Citation `rousset2000genetic' on page 3 undefined on in
-put line 279.
-
-
-Package natbib Warning: Citation `gagnaire2015aa' on page 3 undefined on input 
-line 279.
-
-
-Package natbib Warning: Citation `dewoody2000microsatellite' on page 3 undefine
-d on input line 279.
-
-
-Package natbib Warning: Citation `mccusker2010positive' on page 3 undefined on 
-input line 279.
-
-
-Package natbib Warning: Citation `selkoe2011marine' on page 3 undefined on inpu
-t line 279.
-
+ine 270.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-Package natbib Warning: Citation `pritchard2000inference' on page 3 undefined o
-n input line 281.
-
-
-Package natbib Warning: Citation `franccois2010spatially' on page 3 undefined o
-n input line 281.
-
-
-Package natbib Warning: Citation `guillot2012' on page 3 undefined on input lin
-e 281.
-
-
-Package natbib Warning: Citation `broquet2009molecular' on page 3 undefined on 
-input line 281.
-
-
-Package natbib Warning: Citation `pritchard2000inference' on page 3 undefined o
-n input line 281.
-
-
-Package natbib Warning: Citation `corander2003bayesian' on page 3 undefined on 
-input line 281.
-
-
-Package natbib Warning: Citation `gagnaire2015aa' on page 3 undefined on input 
-line 281.
-
-
-Package natbib Warning: Citation `novak2016predictive' on page 3 undefined on i
-nput line 281.
-
-[3] [4]
-
-Package natbib Warning: Citation `bazin2006population' on page 5 undefined on i
-nput line 283.
-
-
-Package natbib Warning: Citation `hallfors2015addressing' on page 5 undefined o
-n input line 283.
-
-
-Package natbib Warning: Citation `crandall2000' on page 5 undefined on input li
-ne 283.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 283--284
+ [3] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
 
  []
 
+[5]
 
-Package natbib Warning: Citation `shafer2015genomics' on page 5 undefined on in
-put line 285.
+Package xcolor Warning: Incompatible color definition on input line 292.
 
-
-Package natbib Warning: Citation `garner2015genomics' on page 5 undefined on in
-put line 285.
-
-
-Package natbib Warning: Citation `luikart2003power' on page 5 undefined on inpu
-t line 285.
-
-
-Package natbib Warning: Citation `GSFLX' on page 5 undefined on input line 285.
-
-
-
-Package natbib Warning: Citation `illumina' on page 5 undefined on input line 2
-85.
-
-
-Package natbib Warning: Citation `shokralla2012next' on page 5 undefined on inp
-ut line 285.
-
-
-Package natbib Warning: Citation `iontorrent' on page 5 undefined on input line
- 285.
-
-
-Package natbib Warning: Citation `mikheyev2014first' on page 5 undefined on inp
-ut line 285.
-
-
-Package natbib Warning: Citation `hayden20141' on page 5 undefined on input lin
-e 287.
-
-
-Package natbib Warning: Citation `ekblom2014field' on page 5 undefined on input
- line 287.
-
-
-Package natbib Warning: Citation `shafer2015genomics' on page 5 undefined on in
-put line 287.
-
-
-Package natbib Warning: Citation `davey2010radseq' on page 5 undefined on input
- line 287.
-
-
-Underfull \vbox (badness 2608) has occurred while \output is active []
-
- [5]
-
-Package xcolor Warning: Incompatible color definition on input line 290.
-
-<figure/moore-1.pdf, id=198, 505.89pt x 289.08pt>
+<figure/moore-1.pdf, id=349, 505.89pt x 289.08pt>
 File: figure/moore-1.pdf Graphic file (type pdf)
  <use figure/moore-1.pdf>
-Package pdftex.def Info: figure/moore-1.pdf used on input line 292.
+Package pdftex.def Info: figure/moore-1.pdf used on input line 294.
 (pdftex.def)             Requested size: 426.7973pt x 244.69139pt.
-
-
-Package natbib Warning: Citation `waples1998separating' on page 6 undefined on 
-input line 302.
-
-
-Package natbib Warning: Citation `gagnaire2015aa' on page 6 undefined on input 
-line 302.
-
-
-Package natbib Warning: Citation `szulkin2016population' on page 6 undefined on
- input line 302.
-
-
-Package natbib Warning: Citation `mccormack2013next' on page 6 undefined on inp
-ut line 302.
-
-
-Package natbib Warning: Citation `martinsohn2009fishpoptrace' on page 6 undefin
-ed on input line 302.
-
-
-Package natbib Warning: Citation `shafer2015genomics' on page 6 undefined on in
-put line 302.
-
-
-Package natbib Warning: Citation `martinsohn2009fishpoptrace' on page 6 undefin
-ed on input line 302.
-
-
-Package natbib Warning: Citation `stapley2010adaptation' on page 6 undefined on
- input line 303.
-
-
-Package natbib Warning: Citation `steiner2013conservation' on page 6 undefined 
-on input line 303.
-
-
-Package natbib Warning: Citation `funk2012harnessing' on page 6 undefined on in
-put line 303.
-
-
-Package natbib Warning: Citation `mcmahon2014and' on page 6 undefined on input 
-line 303.
-
-
-Package natbib Warning: Citation `shafer2015genomics' on page 6 undefined on in
-put line 303.
-
-<figure/lositan-1.pdf, id=200, 867.24pt x 433.62pt>
-File: figure/lositan-1.pdf Graphic file (type pdf)
- <use figure/lositan-1.pdf>
-Package pdftex.def Info: figure/lositan-1.pdf used on input line 310.
-(pdftex.def)             Requested size: 398.33977pt x 199.16988pt.
-
-
-Package natbib Warning: Citation `davey2011genome' on page 6 undefined on input
- line 319.
-
-
-Package natbib Warning: Citation `baily1992detection' on page 6 undefined on in
-put line 319.
-
-
-Package natbib Warning: Citation `taberlet2012towards' on page 6 undefined on i
-nput line 319.
-
-
-Package natbib Warning: Citation `templeton2013dna' on page 6 undefined on inpu
-t line 319.
-
-
-Package natbib Warning: Citation `bonin2004aa' on page 6 undefined on input lin
-e 319.
-
-
-Package natbib Warning: Citation `baird2008aa' on page 6 undefined on input lin
-e 319.
-
-
-Package natbib Warning: Citation `peterson2012double' on page 6 undefined on in
-put line 319.
-
-
-Package natbib Warning: Citation `hohenlohe2012extensive' on page 6 undefined o
-n input line 319.
-
-
-Package natbib Warning: Citation `niu2010artificial' on page 6 undefined on inp
-ut line 319.
-
-
-Package natbib Warning: Citation `gomez2009systematic' on page 6 undefined on i
-nput line 319.
-
-
-Package natbib Warning: Citation `haas2011chimeric' on page 6 undefined on inpu
-t line 319.
-
-
-Package natbib Warning: Citation `mastretta2015restriction' on page 6 undefined
- on input line 319.
-
-
-Package natbib Warning: Citation `shendure2008next' on page 6 undefined on inpu
-t line 319.
 
 [6pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.320 
+l.306 
        <./figure/moore-1.pdf>]
+<figure/lositan-1.pdf, id=394, 867.24pt x 433.62pt>
+File: figure/lositan-1.pdf Graphic file (type pdf)
+ <use figure/lositan-1.pdf>
+Package pdftex.def Info: figure/lositan-1.pdf used on input line 312.
+(pdftex.def)             Requested size: 398.33977pt x 199.16988pt.
 
-Package natbib Warning: Citation `zielinski2014development' on page 7 undefined
- on input line 321.
-
-
-Package natbib Warning: Citation `lighten2014aa' on page 7 undefined on input l
-ine 321.
-
-
-Package natbib Warning: Citation `lighten2014aa' on page 7 undefined on input l
-ine 321.
-
-
-Package natbib Warning: Citation `lam2012detecting' on page 7 undefined on inpu
-t line 321.
-
-
-Package natbib Warning: Citation `shafer2015genomics' on page 7 undefined on in
-put line 321.
-
-
-Package natbib Warning: Citation `garner2015genomics' on page 7 undefined on in
-put line 321.
-
-
-Package natbib Warning: Citation `peyretaillade2011extreme' on page 7 undefined
- on input line 321.
-
-
-Underfull \vbox (badness 4181) has occurred while \output is active []
-
- [7 <./figure/lositan-1.pdf>]
-
-Package natbib Warning: Citation `shafer2015genomics' on page 8 undefined on in
-put line 323.
-
-
-Package natbib Warning: Citation `o2015rare' on page 8 undefined on input line 
-323.
-
-
-Package natbib Warning: Citation `schipper2008status' on page 8 undefined on in
-put line 323.
-
-
-Package natbib Warning: Citation `ryder1986species' on page 8 undefined on inpu
-t line 323.
-
-
-Package natbib Warning: Citation `hawkins2016fisheries' on page 8 undefined on 
-input line 323.
-
-
-Package natbib Warning: Citation `casiraghi2016' on page 8 undefined on input l
-ine 323.
-
-No file Rapport.bbl.
+[7 <./figure/lositan-1.pdf>] (./Rapport.bbl (./babelbst.tex (./Frenchbst.tex))
 [8]
+Underfull \hbox (badness 10000) in paragraph at lines 109--112
+[]\OT1/cmr/m/sc/10 (+20) Drake JW\OT1/cmr/m/n/10 (+20) , \OT1/cmr/m/sc/10 (+20)
+ Charlesworth B\OT1/cmr/m/n/10 (+20) ,
+ []
 
-Package natbib Warning: Citation `workshop' on page 9 undefined on input line 3
-42.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 150.
 
+Underfull \hbox (badness 10000) in paragraph at lines 159--164
+[]\OT1/cmr/m/sc/10 (+20) Garner BA\OT1/cmr/m/n/10 (+20) , \OT1/cmr/m/sc/10 (+20
+) Hand BK\OT1/cmr/m/n/10 (+20) , \OT1/cmr/m/sc/10 (+20) Amish SJ\OT1/cmr/m/n/10
+ (+20) ,
+ []
 
-Package natbib Warning: Citation `coll2010biodiversity' on page 9 undefined on 
-input line 342.
-
-
-Package natbib Warning: Citation `danovaro2003pollution' on page 9 undefined on
- input line 342.
-
-
-Package natbib Warning: Citation `coll2010biodiversity' on page 9 undefined on 
-input line 342.
-
-
-Package natbib Warning: Citation `coll2012mediterranean' on page 9 undefined on
- input line 342.
-
-
-Package natbib Warning: Citation `hoelzel1998genetic' on page 9 undefined on in
-put line 344.
+[9] [10]
+Overfull \hbox (0.82742pt too wide) in paragraph at lines 342--348
+\OT1/cmr/m/n/10 (-20) mans.  \OT1/cmr/m/it/10 (-20) Molec-u-lar bi-ol-ogy and e
+vo-lu-tion\OT1/cmr/m/n/10 (-20) , \OT1/cmr/bx/n/10 32\OT1/cmr/m/n/10 (-20) :653
+--
+ []
 
 
-Package natbib Warning: Citation `MPA' on page 9 undefined on input line 344.
+Underfull \hbox (badness 10000) in paragraph at lines 418--424
+[]\OT1/cmr/m/sc/10 (+20) Shafer AB\OT1/cmr/m/n/10 (+20) , \OT1/cmr/m/sc/10 (+20
+) Wolf JB\OT1/cmr/m/n/10 (+20) , \OT1/cmr/m/sc/10 (+20) Alves PC\OT1/cmr/m/n/10
+ (+20) ,
+ []
 
 
-Package natbib Warning: Citation `krutzen2004population' on page 9 undefined on
- input line 346.
+Underfull \hbox (badness 10000) in paragraph at lines 418--424
+\OT1/cmr/m/sc/10 (+20) Bergstr[]om L\OT1/cmr/m/n/10 (+20) , \OT1/cmr/m/sc/10 (+
+20) Bru-ford MW\OT1/cmr/m/n/10 (+20) ,
+ []
 
 
-Package natbib Warning: Citation `hoelzel1998genetic' on page 9 undefined on in
-put line 346.
+Underfull \hbox (badness 6691) in paragraph at lines 418--424
+\OT1/cmr/m/sc/10 (+20) Br[]annstr[]om I\OT1/cmr/m/n/10 (+20) , \OT1/cmr/m/sc/10
+ (+20) Colling G\OT1/cmr/m/n/10 (+20) , \OT1/cmr/m/sc/10 (+20) Dal[]en
+ []
+
+[11]) [12]
+
+Package natbib Warning: Citation `workshop' on page 13 undefined on input line 
+344.
 
 
-Package natbib Warning: Citation `carnabuci2016' on page 9 undefined on input l
-ine 346.
+Package natbib Warning: Citation `coll2010biodiversity' on page 13 undefined on
+ input line 344.
 
 
-Package natbib Warning: Citation `ryder1986species' on page 9 undefined on inpu
-t line 346.
+Package natbib Warning: Citation `danovaro2003pollution' on page 13 undefined o
+n input line 344.
 
 
-Package natbib Warning: Citation `hawkins2016fisheries' on page 9 undefined on 
-input line 346.
+Package natbib Warning: Citation `coll2010biodiversity' on page 13 undefined on
+ input line 344.
 
 
-Package natbib Warning: Citation `carnabuci2016' on page 9 undefined on input l
-ine 346.
+Package natbib Warning: Citation `coll2012mediterranean' on page 13 undefined o
+n input line 344.
 
 
-Package natbib Warning: Citation `Jonsson2016' on page 9 undefined on input lin
-e 346.
+Package natbib Warning: Citation `hoelzel1998genetic' on page 13 undefined on i
+nput line 346.
 
 
-Package natbib Warning: Citation `schipper2008status' on page 9 undefined on in
-put line 346.
+Package natbib Warning: Citation `krutzen2004population' on page 13 undefined o
+n input line 348.
 
 
-Package natbib Warning: Citation `hoelzel2002low' on page 9 undefined on input 
+Package natbib Warning: Citation `hoelzel1998genetic' on page 13 undefined on i
+nput line 348.
+
+
+Package natbib Warning: Citation `carnabuci2016' on page 13 undefined on input 
 line 348.
 
 
-Package natbib Warning: Citation `bearzi2009ecology' on page 9 undefined on inp
-ut line 350.
+Package natbib Warning: Citation `carnabuci2016' on page 13 undefined on input 
+line 348.
 
 
-Package natbib Warning: Citation `bearzi2006common' on page 9 undefined on inpu
-t line 352.
+Package natbib Warning: Citation `hoelzel2002low' on page 13 undefined on input
+ line 350.
 
 
-Package natbib Warning: Citation `Laran2016' on page 9 undefined on input line 
-352.
+Package natbib Warning: Citation `bearzi2009ecology' on page 13 undefined on in
+put line 352.
 
 
-Package natbib Warning: Citation `evans2004monitoring' on page 9 undefined on i
-nput line 352.
-
-[9]
-
-Package natbib Warning: Citation `natoli2004molecular' on page 10 undefined on 
-input line 354.
+Package natbib Warning: Citation `bearzi2006common' on page 13 undefined on inp
+ut line 354.
 
 
-Package natbib Warning: Citation `natoli2005habitat' on page 10 undefined on in
-put line 354.
-
-
-Package natbib Warning: Citation `louis2014' on page 10 undefined on input line
+Package natbib Warning: Citation `Laran2016' on page 13 undefined on input line
  354.
 
 
-Package natbib Warning: Citation `jarne1996microsatellites' on page 10 undefine
-d on input line 354.
-
-
-Package natbib Warning: Citation `estoup2002homoplasy' on page 10 undefined on 
+Package natbib Warning: Citation `evans2004monitoring' on page 13 undefined on 
 input line 354.
 
+[13]
 
-Package natbib Warning: Citation `jarne1996microsatellites' on page 10 undefine
-d on input line 354.
-
-
-Package natbib Warning: Citation `avise1987intraspecific' on page 10 undefined 
-on input line 354.
+Package natbib Warning: Citation `natoli2004molecular' on page 14 undefined on 
+input line 356.
 
 
-Package natbib Warning: Citation `avise1987intraspecific' on page 10 undefined 
-on input line 354.
+Package natbib Warning: Citation `natoli2005habitat' on page 14 undefined on in
+put line 356.
 
 
-Package natbib Warning: Citation `excoffier1992analysis' on page 10 undefined o
-n input line 354.
+Package natbib Warning: Citation `louis2014' on page 14 undefined on input line
+ 356.
 
 
-Package natbib Warning: Citation `natoli2004molecular' on page 10 undefined on 
-input line 354.
+Package natbib Warning: Citation `jarne1996microsatellites' on page 14 undefine
+d on input line 356.
 
 
-Package natbib Warning: Citation `natoli2005habitat' on page 10 undefined on in
-put line 354.
+Package natbib Warning: Citation `estoup2002homoplasy' on page 14 undefined on 
+input line 356.
 
 
-Overfull \hbox (2.36511pt too wide) in paragraph at lines 354--355
+Package natbib Warning: Citation `jarne1996microsatellites' on page 14 undefine
+d on input line 356.
+
+
+Package natbib Warning: Citation `avise1987intraspecific' on page 14 undefined 
+on input line 356.
+
+
+Package natbib Warning: Citation `avise1987intraspecific' on page 14 undefined 
+on input line 356.
+
+
+Package natbib Warning: Citation `excoffier1992analysis' on page 14 undefined o
+n input line 356.
+
+
+Package natbib Warning: Citation `natoli2004molecular' on page 14 undefined on 
+input line 356.
+
+
+Package natbib Warning: Citation `natoli2005habitat' on page 14 undefined on in
+put line 356.
+
+
+Overfull \hbox (2.36511pt too wide) in paragraph at lines 356--357
 []\OT1/cmr/m/n/12 (-20) L'inf^^Serence de leur struc-ture de po-pu-la-tion \OT1
 /cmr/m/it/12 (-20) via \OT1/cmr/m/n/12 (-20) l'uti-li-sa-tion de mar-queurs g^^
 Sen^^Setiques
  []
 
 
-Package natbib Warning: Citation `phdLouis2014' on page 10 undefined on input l
-ine 356.
+Package natbib Warning: Citation `phdLouis2014' on page 14 undefined on input l
+ine 358.
 
 
 Underfull \vbox (badness 1072) has occurred while \output is active []
 
- [10]
-<concentrations.png, id=255, 1354.05875pt x 895.345pt>
+ [14]
+<concentrations.png, id=553, 1354.05875pt x 895.345pt>
 File: concentrations.png Graphic file (type png)
 
 <use concentrations.png>
-Package pdftex.def Info: concentrations.png used on input line 368.
+Package pdftex.def Info: concentrations.png used on input line 370.
 (pdftex.def)             Requested size: 426.79135pt x 282.19911pt.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 375.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 377.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 375.
- [11pdfTeX warning (ext4): destination with the same identifier (name{figure.2}
-) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.376 
-       <./concentrations.png>]
-
-Package natbib Warning: Citation `rosel2003pcr' on page 12 undefined on input l
-ine 378.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 377.
 
 
-Package natbib Warning: Citation `rosel2003pcr' on page 12 undefined on input l
-ine 379.
+Package natbib Warning: Citation `rosel2003pcr' on page 15 undefined on input l
+ine 380.
 
 
-Package natbib Warning: Citation `richard1994dna' on page 12 undefined on input
- line 379.
+Package natbib Warning: Citation `rosel2003pcr' on page 15 undefined on input l
+ine 381.
 
 
-Package natbib Warning: Citation `berube1996identification' on page 12 undefine
-d on input line 379.
+Package natbib Warning: Citation `richard1994dna' on page 15 undefined on input
+ line 381.
 
 
-Package natbib Warning: Citation `berube1996identification' on page 12 undefine
-d on input line 379.
+Package natbib Warning: Citation `berube1996identification' on page 15 undefine
+d on input line 381.
 
-<photo.png, id=264, 470.75874pt x 96.36pt>
+
+Package natbib Warning: Citation `berube1996identification' on page 15 undefine
+d on input line 381.
+
+
+Underfull \vbox (badness 2680) has occurred while \output is active []
+
+ [15]
+<photo.png, id=562, 470.75874pt x 96.36pt>
 File: photo.png Graphic file (type png)
  <use photo.png>
-Package pdftex.def Info: photo.png used on input line 383.
+Package pdftex.def Info: photo.png used on input line 385.
 (pdftex.def)             Requested size: 298.75264pt x 61.1526pt.
 
 
-Package natbib Warning: Citation `baker1998' on page 12 undefined on input line
- 391.
+Package natbib Warning: Citation `baker1998' on page 16 undefined on input line
+ 393.
 
 
-Package natbib Warning: Citation `dalebout2005' on page 12 undefined on input l
-ine 391.
+Package natbib Warning: Citation `dalebout2005' on page 16 undefined on input l
+ine 393.
 
 
-Package natbib Warning: Citation `hall1999' on page 12 undefined on input line 
-391.
+Package natbib Warning: Citation `hall1999' on page 16 undefined on input line 
+393.
 
 
-Overfull \hbox (31.96332pt too wide) in paragraph at lines 391--392
+Overfull \hbox (31.96332pt too wide) in paragraph at lines 393--394
 \OT1/cmr/m/n/12 (-20) Dlp1.5 (5'-\OT1/cmr/m/sc/12 tcacccaaagctgrarttcta\OT1/cmr
 /m/n/12 (-20) -3', \OT1/cmr/bx/n/12 ?\OT1/cmr/m/n/12 (-20) ) et Dlp8G (5'-\OT1/
 cmr/m/sc/12 ggagtactatgtcctgtaacca\OT1/cmr/m/n/12 (-20) -
  []
 
-[12]
-
-Package natbib Warning: Citation `louis2014' on page 13 undefined on input line
- 395.
-
-
-Package natbib Warning: Citation `louis2014' on page 13 undefined on input line
- 395.
-
-
-Package natbib Warning: Citation `louis2014' on page 13 undefined on input line
- 395.
-
-
-Package natbib Warning: Citation `rousset2008' on page 13 undefined on input li
-ne 401.
-
-
-Package natbib Warning: Citation `holm1979' on page 13 undefined on input line 
-401.
-
-
-Package natbib Warning: Citation `oosterhoot2004' on page 13 undefined on input
- line 402.
-
-
-Package natbib Warning: Citation `peakall2012' on page 13 undefined on input li
-ne 402.
-
-
-Package natbib Warning: Citation `kalinowski2006' on page 13 undefined on input
- line 402.
-
-
-Package natbib Warning: Citation `viricel2014' on page 13 undefined on input li
-ne 402.
-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13pdfTeX warning (ext4): destination with the same identifier (name{figure.3}
+ [16pdfTeX warning (ext4): destination with the same identifier (name{figure.2}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.403 
-       <./photo.png>]
+l.394 
+       <./concentrations.png>]
 
-Package natbib Warning: Citation `phdLouis2014' on page 14 undefined on input l
-ine 407.
+Package natbib Warning: Citation `louis2014' on page 17 undefined on input line
+ 397.
 
-LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <12> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 409.
 
-Package natbib Warning: Citation `pritchard2000' on page 14 undefined on input 
-line 409.
+Package natbib Warning: Citation `louis2014' on page 17 undefined on input line
+ 397.
 
 
-Package natbib Warning: Citation `pritchard2000' on page 14 undefined on input 
-line 411.
+Package natbib Warning: Citation `louis2014' on page 17 undefined on input line
+ 397.
 
-[14]
-
-Package natbib Warning: Citation `durand2009' on page 15 undefined on input lin
-e 413.
-
-
-Package natbib Warning: Citation `durand2009' on page 15 undefined on input lin
-e 415.
-
-
-Package natbib Warning: Citation `durand2009' on page 15 undefined on input lin
-e 415.
-
-
-Package natbib Warning: Citation `rct2015' on page 15 undefined on input line 4
-20.
-
-
-Package natbib Warning: Citation `nychka2015' on page 15 undefined on input lin
-e 420.
-
-
-Package natbib Warning: Citation `becker2016' on page 15 undefined on input lin
-e 420.
-
-
-Package natbib Warning: Citation `soetaert2014' on page 15 undefined on input l
-ine 420.
-
-
-Package natbib Warning: Citation `pante2013' on page 15 undefined on input line
- 420.
-
-
-Package natbib Warning: Citation `jombart2008' on page 15 undefined on input li
-ne 423.
-
-
-Package natbib Warning: Citation `jombart2008' on page 15 undefined on input li
-ne 426.
-
-[15]
-
-Package natbib Warning: Citation `jombart2008' on page 16 undefined on input li
-ne 428.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 429--430
-
- []
-
-
-Package natbib Warning: Citation `weir1984' on page 16 undefined on input line 
-440.
-
-
-Package natbib Warning: Citation `michalakis1996' on page 16 undefined on input
- line 440.
-
-
-Package natbib Warning: Citation `rousset2008' on page 16 undefined on input li
-ne 440.
-
-
-Package natbib Warning: Citation `rousset2008' on page 16 undefined on input li
-ne 442.
-
-
-Package natbib Warning: Citation `rct2015' on page 16 undefined on input line 4
-42.
-
-
-Package natbib Warning: Citation `hurlbert1971' on page 16 undefined on input l
-ine 442.
-
-[16]
-
-Package natbib Warning: Citation `paradis2010' on page 17 undefined on input li
-ne 446.
-
-
-Package natbib Warning: Citation `rct2015' on page 17 undefined on input line 4
-46.
-
-
-Package natbib Warning: Citation `barton1986' on page 17 undefined on input lin
-e 446.
-
-
-Package natbib Warning: Citation `bandelt1999' on page 17 undefined on input li
-ne 446.
-
-
-Package natbib Warning: Citation `cassens2003' on page 17 undefined on input li
-ne 446.
-
-
-Package natbib Warning: Citation `excoffier2010' on page 17 undefined on input 
-line 448.
-
-
-Package natbib Warning: Citation `santorum2014' on page 17 undefined on input l
-ine 448.
-
-
-Package natbib Warning: Citation `tajima1983' on page 17 undefined on input lin
-e 450.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 450.
-
-Package natbib Warning: Citation `tajima1989' on page 17 undefined on input lin
-e 450.
-
-
-Package natbib Warning: Citation `librado2009' on page 17 undefined on input li
-ne 450.
-
-
-Package natbib Warning: Citation `phdLouis2014' on page 17 undefined on input l
-ine 460.
-
-[17]
-
-Package natbib Warning: Citation `pritchard2000' on page 18 undefined on input 
-line 468.
-
-
-Package natbib Warning: Citation `durand2009' on page 18 undefined on input lin
-e 468.
-
-
-Package natbib Warning: Citation `jombart2008' on page 18 undefined on input li
-ne 469.
-
-<figure/lnpd-1.pdf, id=320, 433.62pt x 158.5925pt>
-File: figure/lnpd-1.pdf Graphic file (type pdf)
- <use figure/lnpd-1.pdf>
-Package pdftex.def Info: figure/lnpd-1.pdf used on input line 473.
-(pdftex.def)             Requested size: 426.79135pt x 156.10197pt.
-
-
-Package natbib Warning: Citation `pritchard2000' on page 18 undefined on input 
-line 477.
-
-
-Package natbib Warning: Citation `pritchard2000' on page 18 undefined on input 
-line 477.
-
-<figure/dic-1.pdf, id=321, 433.62pt x 158.5925pt>
-File: figure/dic-1.pdf Graphic file (type pdf)
- <use figure/dic-1.pdf>
-Package pdftex.def Info: figure/dic-1.pdf used on input line 484.
-(pdftex.def)             Requested size: 426.79135pt x 156.10197pt.
-
-
-Package natbib Warning: Citation `durand2009' on page 18 undefined on input lin
-e 488.
-
-
-Package natbib Warning: Citation `durand2009' on page 18 undefined on input lin
-e 488.
-
-<figure/bic-1.pdf, id=322, 433.62pt x 158.5925pt>
-File: figure/bic-1.pdf Graphic file (type pdf)
- <use figure/bic-1.pdf>
-Package pdftex.def Info: figure/bic-1.pdf used on input line 496.
-(pdftex.def)             Requested size: 426.79135pt x 156.10197pt.
-
-
-Package natbib Warning: Citation `jombart2008' on page 18 undefined on input li
-ne 500.
-
-
-Package natbib Warning: Citation `jombart2008' on page 18 undefined on input li
-ne 500.
-
-[18pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
+[17pdfTeX warning (ext4): destination with the same identifier (name{figure.3})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.506 
-       <./figure/lnpd-1.pdf>] [19pdfTeX warning (ext4): destination with the sa
-me identifier (name{figure.5}) has been already used, duplicate ignored
+l.400 \subsection
+                 {Vérification de la qualité des données} <./photo.png>]
+
+Package natbib Warning: Citation `rousset2008' on page 18 undefined on input li
+ne 403.
+
+
+Package natbib Warning: Citation `holm1979' on page 18 undefined on input line 
+403.
+
+
+Package natbib Warning: Citation `oosterhoot2004' on page 18 undefined on input
+ line 404.
+
+
+Package natbib Warning: Citation `peakall2012' on page 18 undefined on input li
+ne 404.
+
+
+Package natbib Warning: Citation `kalinowski2006' on page 18 undefined on input
+ line 404.
+
+
+Package natbib Warning: Citation `viricel2014' on page 18 undefined on input li
+ne 404.
+
+
+Package natbib Warning: Citation `phdLouis2014' on page 18 undefined on input l
+ine 409.
+
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <12> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 411.
+
+Package natbib Warning: Citation `pritchard2000' on page 18 undefined on input 
+line 411.
+
+
+Package natbib Warning: Citation `pritchard2000' on page 18 undefined on input 
+line 413.
+
+[18]
+
+Package natbib Warning: Citation `durand2009' on page 19 undefined on input lin
+e 415.
+
+
+Package natbib Warning: Citation `durand2009' on page 19 undefined on input lin
+e 417.
+
+
+Package natbib Warning: Citation `durand2009' on page 19 undefined on input lin
+e 417.
+
+
+Package natbib Warning: Citation `rct2015' on page 19 undefined on input line 4
+22.
+
+
+Package natbib Warning: Citation `nychka2015' on page 19 undefined on input lin
+e 422.
+
+
+Package natbib Warning: Citation `becker2016' on page 19 undefined on input lin
+e 422.
+
+
+Package natbib Warning: Citation `soetaert2014' on page 19 undefined on input l
+ine 422.
+
+
+Package natbib Warning: Citation `pante2013' on page 19 undefined on input line
+ 422.
+
+
+Package natbib Warning: Citation `jombart2008' on page 19 undefined on input li
+ne 425.
+
+
+Package natbib Warning: Citation `jombart2008' on page 19 undefined on input li
+ne 428.
+
+[19]
+
+Package natbib Warning: Citation `jombart2008' on page 20 undefined on input li
+ne 430.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 431--432
+
+ []
+
+
+Package natbib Warning: Citation `weir1984' on page 20 undefined on input line 
+442.
+
+
+Package natbib Warning: Citation `michalakis1996' on page 20 undefined on input
+ line 442.
+
+
+Package natbib Warning: Citation `rousset2008' on page 20 undefined on input li
+ne 442.
+
+
+Package natbib Warning: Citation `rousset2008' on page 20 undefined on input li
+ne 444.
+
+
+Package natbib Warning: Citation `rct2015' on page 20 undefined on input line 4
+44.
+
+
+Package natbib Warning: Citation `hurlbert1971' on page 20 undefined on input l
+ine 444.
+
+[20]
+
+Package natbib Warning: Citation `paradis2010' on page 21 undefined on input li
+ne 448.
+
+
+Package natbib Warning: Citation `rct2015' on page 21 undefined on input line 4
+48.
+
+
+Package natbib Warning: Citation `barton1986' on page 21 undefined on input lin
+e 448.
+
+
+Package natbib Warning: Citation `bandelt1999' on page 21 undefined on input li
+ne 448.
+
+
+Package natbib Warning: Citation `cassens2003' on page 21 undefined on input li
+ne 448.
+
+
+Package natbib Warning: Citation `excoffier2010' on page 21 undefined on input 
+line 450.
+
+
+Package natbib Warning: Citation `santorum2014' on page 21 undefined on input l
+ine 450.
+
+
+Package natbib Warning: Citation `tajima1983' on page 21 undefined on input lin
+e 452.
+
+
+Package natbib Warning: Citation `tajima1989' on page 21 undefined on input lin
+e 452.
+
+
+Package natbib Warning: Citation `librado2009' on page 21 undefined on input li
+ne 452.
+
+
+Package natbib Warning: Citation `phdLouis2014' on page 21 undefined on input l
+ine 462.
+
+[21]
+
+Package natbib Warning: Citation `pritchard2000' on page 22 undefined on input 
+line 470.
+
+
+Package natbib Warning: Citation `durand2009' on page 22 undefined on input lin
+e 470.
+
+
+Package natbib Warning: Citation `jombart2008' on page 22 undefined on input li
+ne 471.
+
+<figure/lnpd-1.pdf, id=619, 433.62pt x 158.5925pt>
+File: figure/lnpd-1.pdf Graphic file (type pdf)
+ <use figure/lnpd-1.pdf>
+Package pdftex.def Info: figure/lnpd-1.pdf used on input line 475.
+(pdftex.def)             Requested size: 426.79135pt x 156.10197pt.
+
+
+Package natbib Warning: Citation `pritchard2000' on page 22 undefined on input 
+line 479.
+
+
+Package natbib Warning: Citation `pritchard2000' on page 22 undefined on input 
+line 479.
+
+<figure/dic-1.pdf, id=620, 433.62pt x 158.5925pt>
+File: figure/dic-1.pdf Graphic file (type pdf)
+ <use figure/dic-1.pdf>
+Package pdftex.def Info: figure/dic-1.pdf used on input line 486.
+(pdftex.def)             Requested size: 426.79135pt x 156.10197pt.
+
+
+Package natbib Warning: Citation `durand2009' on page 22 undefined on input lin
+e 490.
+
+
+Package natbib Warning: Citation `durand2009' on page 22 undefined on input lin
+e 490.
+
+[22pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
+ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.506 
+l.491 \end{figure}
+                   <./figure/lnpd-1.pdf>]
+<figure/bic-1.pdf, id=632, 433.62pt x 158.5925pt>
+File: figure/bic-1.pdf Graphic file (type pdf)
+ <use figure/bic-1.pdf>
+Package pdftex.def Info: figure/bic-1.pdf used on input line 498.
+(pdftex.def)             Requested size: 426.79135pt x 156.10197pt.
+
+
+Package natbib Warning: Citation `jombart2008' on page 23 undefined on input li
+ne 502.
+
+
+Package natbib Warning: Citation `jombart2008' on page 23 undefined on input li
+ne 502.
+
+<figure/barplot-1.pdf, id=635, 578.16pt x 144.54pt>
+File: figure/barplot-1.pdf Graphic file (type pdf)
+ <use figure/barplot-1.pdf>
+Package pdftex.def Info: figure/barplot-1.pdf used on input line 511.
+(pdftex.def)             Requested size: 426.79135pt x 106.69766pt.
+
+[23pdfTeX warning (ext4): destination with the same identifier (name{figure.5})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.538 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 6}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.506 
+l.538 
        <./figure/dic-1.pdf> <./figure/bic-1.pdf>]
-<figure/barplot-1.pdf, id=356, 578.16pt x 144.54pt>
-File: figure/barplot-1.pdf Graphic file (type pdf)
- <use figure/barplot-1.pdf>
-Package pdftex.def Info: figure/barplot-1.pdf used on input line 509.
-(pdftex.def)             Requested size: 426.79135pt x 106.69766pt.
-
-<map_clusters_3.png, id=361, 427.5975pt x 531.9875pt>
+<map_clusters_3.png, id=660, 427.5975pt x 531.9875pt>
 File: map_clusters_3.png Graphic file (type png)
  <use map_clusters_3.png>
-Package pdftex.def Info: map_clusters_3.png used on input line 539.
+Package pdftex.def Info: map_clusters_3.png used on input line 541.
 (pdftex.def)             Requested size: 384.1096pt x 477.88329pt.
 
-<DAPC.png, id=363, 702.625pt x 532.99126pt>
+<DAPC.png, id=662, 702.625pt x 532.99126pt>
 File: DAPC.png Graphic file (type png)
  <use DAPC.png>
-Package pdftex.def Info: DAPC.png used on input line 548.
+Package pdftex.def Info: DAPC.png used on input line 550.
 (pdftex.def)             Requested size: 298.75264pt x 226.62808pt.
- [20pdfTeX warning (ext4): destination with the same identifier (name{figure.7}
+
+<figure/lnpd2-1.pdf, id=663, 433.62pt x 158.5925pt>
+File: figure/lnpd2-1.pdf Graphic file (type pdf)
+ <use figure/lnpd2-1.pdf>
+Package pdftex.def Info: figure/lnpd2-1.pdf used on input line 560.
+(pdftex.def)             Requested size: 426.79135pt x 156.10197pt.
+
+
+Package natbib Warning: Citation `pritchard2000' on page 24 undefined on input 
+line 564.
+
+
+Package natbib Warning: Citation `pritchard2000' on page 24 undefined on input 
+line 564.
+
+
+Underfull \vbox (badness 1661) has occurred while \output is active []
+
+ [24pdfTeX warning (ext4): destination with the same identifier (name{figure.7}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.551 \end{figure}
-                  pdfTeX warning (ext4): destination with the same identifier (
-name{table.1}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.551 \end{figure}
-                   <./figure/barplot-1.pdf>] [21pdfTeX warning (ext4): destinat
-ion with the same identifier (name{figure.8}) has been already used, duplicate 
-ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.551 \end{figure}
-                   <./map_clusters_3.png>]
-<figure/lnpd2-1.pdf, id=383, 433.62pt x 158.5925pt>
-File: figure/lnpd2-1.pdf Graphic file (type pdf)
- <use figure/lnpd2-1.pdf>
-Package pdftex.def Info: figure/lnpd2-1.pdf used on input line 558.
-(pdftex.def)             Requested size: 426.79135pt x 156.10197pt.
-
-
-Package natbib Warning: Citation `pritchard2000' on page 22 undefined on input 
-line 562.
-
-
-Package natbib Warning: Citation `pritchard2000' on page 22 undefined on input 
-line 562.
-
-[22pdfTeX warning (ext4): destination with the same identifier (name{figure.9})
- has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.607 
-       <./DAPC.png>] [23pdfTeX warning (ext4): destination with the same identi
-fier (name{figure.10}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.628 
-      pdfTeX warning (ext4): destination with the same identifier (name{table.2
+l.570 
+      pdfTeX warning (ext4): destination with the same identifier (name{table.1
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.628 
+l.570 
+       <./figure/barplot-1.pdf>] [25pdfTeX warning (ext4): destination with the
+ same identifier (name{figure.8}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.570 
+       <./map_clusters_3.png>] [26pdfTeX warning (ext4): destination with the s
+ame identifier (name{figure.9}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.570 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+10}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.570 
+       <./DAPC.png> <./figure/lnpd2-1.pdf>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 631.
+
+[27pdfTeX warning (ext4): destination with the same identifier (name{table.2}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.650 
       pdfTeX warning (ext4): destination with the same identifier (name{table.3
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.628 
+l.650 
       pdfTeX warning (ext4): destination with the same identifier (name{table.4
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.628 
-       <./figure/lnpd2-1.pdf>]
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `!tbp') on input line 629.
-
-<reseau.png, id=407, 881.2925pt x 480.79625pt>
+l.650 
+      ] <reseau.png, id=705, 881.2925pt x 480.79625pt>
 File: reseau.png Graphic file (type png)
  <use reseau.png>
-Package pdftex.def Info: reseau.png used on input line 652.
+Package pdftex.def Info: reseau.png used on input line 654.
 (pdftex.def)             Requested size: 352.51076pt x 192.31508pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[24pdfTeX warning (ext4): destination with the same identifier (name{table.5}) 
+[28pdfTeX warning (ext4): destination with the same identifier (name{table.5}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.655 \FloatBarrier
-                   ]
-Overfull \hbox (10.81061pt too wide) in paragraph at lines 664--665
+l.661 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+11}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.661 
+       <./reseau.png>]
+Overfull \hbox (10.81061pt too wide) in paragraph at lines 666--667
 []\OT1/cmr/m/n/12 (-20) Les grands dau-phins ^^Sechantillonn^^Ses lors de cette
  ^^Setude et les in-di-vi-dus m^^Sediterran^^Seens
  []
 
-[25pdfTeX warning (ext4): destination with the same identifier (name{figure.11}
-) has been already used, duplicate ignored
 
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.668 U
-       ne population en MNO, dans laquelle on ne retrouve qu'uniquement des ...
- <./reseau.png>]
+Package natbib Warning: Citation `carnabuci2016' on page 29 undefined on input 
+line 674.
 
-Package natbib Warning: Citation `carnabuci2016' on page 26 undefined on input 
-line 672.
+[29]
 
-
-Package natbib Warning: Citation `natoli2005habitat' on page 26 undefined on in
-put line 674.
-
-[26]
-
-Package natbib Warning: Citation `natoli2004population' on page 27 undefined on
- input line 676.
-
-
-Package natbib Warning: Citation `natoli2005habitat' on page 27 undefined on in
+Package natbib Warning: Citation `natoli2005habitat' on page 30 undefined on in
 put line 676.
 
 
-Package natbib Warning: Citation `gnone2011distribution' on page 27 undefined o
-n input line 676.
+Package natbib Warning: Citation `natoli2004population' on page 30 undefined on
+ input line 678.
 
 
-Package natbib Warning: Citation `louis2014' on page 27 undefined on input line
- 676.
-
-
-Package natbib Warning: Citation `louis2014' on page 27 undefined on input line
- 678.
-
-
-Package natbib Warning: Citation `phdLouis2014' on page 27 undefined on input l
-ine 678.
-
-
-Package natbib Warning: Citation `louis2014' on page 27 undefined on input line
- 678.
-
-
-Package natbib Warning: Citation `lowther2014' on page 27 undefined on input li
-ne 678.
-
-
-Package natbib Warning: Citation `lowther2014' on page 27 undefined on input li
-ne 678.
-
-
-Package natbib Warning: Citation `louis2014' on page 27 undefined on input line
- 678.
-
-
-Package natbib Warning: Citation `duffield1983hematology' on page 27 undefined 
-on input line 678.
-
-
-Package natbib Warning: Citation `gaspari2015population' on page 27 undefined o
-n input line 678.
-
-
-Package natbib Warning: Citation `holcer2012ecology' on page 27 undefined on in
+Package natbib Warning: Citation `natoli2005habitat' on page 30 undefined on in
 put line 678.
 
 
-Underfull \vbox (badness 4266) has occurred while \output is active []
+Package natbib Warning: Citation `gnone2011distribution' on page 30 undefined o
+n input line 678.
 
- [27]
 
-Package natbib Warning: Citation `Laran2016' on page 28 undefined on input line
+Package natbib Warning: Citation `louis2014' on page 30 undefined on input line
+ 678.
+
+
+Package natbib Warning: Citation `louis2014' on page 30 undefined on input line
  680.
 
 
-Package natbib Warning: Citation `krutzen2004population' on page 28 undefined o
-n input line 682.
+Package natbib Warning: Citation `phdLouis2014' on page 30 undefined on input l
+ine 680.
 
 
-Package natbib Warning: Citation `sellas2005mitochondrial' on page 28 undefined
- on input line 682.
+Package natbib Warning: Citation `louis2014' on page 30 undefined on input line
+ 680.
 
 
-Package natbib Warning: Citation `ansmann2012dolphins' on page 28 undefined on 
-input line 682.
+Package natbib Warning: Citation `lowther2014' on page 30 undefined on input li
+ne 680.
 
 
-Package natbib Warning: Citation `gaspari2015population' on page 28 undefined o
+Package natbib Warning: Citation `lowther2014' on page 30 undefined on input li
+ne 680.
+
+
+Package natbib Warning: Citation `louis2014' on page 30 undefined on input line
+ 680.
+
+
+Package natbib Warning: Citation `duffield1983hematology' on page 30 undefined 
+on input line 680.
+
+
+Package natbib Warning: Citation `gaspari2015population' on page 30 undefined o
+n input line 680.
+
+
+Package natbib Warning: Citation `holcer2012ecology' on page 30 undefined on in
+put line 680.
+
+
+Underfull \vbox (badness 1264) has occurred while \output is active []
+
+ [30]
+Underfull \vbox (badness 1314) has occurred while \output is active []
+
+ [31]
+
+Package natbib Warning: Citation `Laran2016' on page 32 undefined on input line
+ 682.
+
+
+Package natbib Warning: Citation `krutzen2004population' on page 32 undefined o
 n input line 684.
 
 
-Package natbib Warning: Citation `hoelzel1998genetic' on page 28 undefined on i
-nput line 684.
+Package natbib Warning: Citation `sellas2005mitochondrial' on page 32 undefined
+ on input line 684.
 
 
-Package natbib Warning: Citation `krutzen2004population' on page 28 undefined o
-n input line 684.
+Package natbib Warning: Citation `ansmann2012dolphins' on page 32 undefined on 
+input line 684.
 
 
-Package natbib Warning: Citation `moller2004genetic' on page 28 undefined on in
-put line 684.
+Package natbib Warning: Citation `gaspari2015population' on page 32 undefined o
+n input line 686.
 
 
-Package natbib Warning: Citation `natoli2005habitat' on page 28 undefined on in
-put line 684.
+Package natbib Warning: Citation `hoelzel1998genetic' on page 32 undefined on i
+nput line 686.
 
 
-Package natbib Warning: Citation `gaspari2015population' on page 28 undefined o
-n input line 684.
+Package natbib Warning: Citation `krutzen2004population' on page 32 undefined o
+n input line 686.
 
-[28] [29]
-No file Rapport.bbl.
 
-Overfull \hbox (1.58911pt too wide) in paragraph at lines 739--739
+Package natbib Warning: Citation `moller2004genetic' on page 32 undefined on in
+put line 686.
+
+
+Package natbib Warning: Citation `natoli2005habitat' on page 32 undefined on in
+put line 686.
+
+
+Package natbib Warning: Citation `gaspari2015population' on page 32 undefined o
+n input line 686.
+
+[32] [33] (./Rapport.bbl (./babelbst.tex (./Frenchbst.tex))pdfTeX warning (ext4
+): destination with the same identifier (name{cite.GSFLX}) has been already use
+d, duplicate ignored
+<to be read again> 
+                   \relax 
+l.13 \bibitem[{GSF(2011)}]{GSFLX}
+                                 pdfTeX warning (ext4): destination with the sa
+me identifier (name{cite.iontorrent}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.17 \bibitem[{ion(2014)}]{iontorrent}
+                                      pdfTeX warning (ext4): destination with t
+he same identifier (name{cite.illumina}) has been already used, duplicate ignor
+ed
+<to be read again> 
+                   \relax 
+l.21 \bibitem[{ill(2014)}]{illumina}
+                                    pdfTeX warning (ext4): destination with the
+ same identifier (name{cite.baily1992detection}) has been already used, duplica
+te ignored
+<to be read again> 
+                   \relax 
+l.26   Stoker}]{baily1992detection}
+                                   pdfTeX warning (ext4): destination with the 
+same identifier (name{cite.baird2008aa}) has been already used, duplicate ignor
+ed
+<to be read again> 
+                   \relax 
+l.34 ..., Selker, Cresko \& Johnson}]{baird2008aa}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.bazin2006population}) has been alread
+y used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.42   Galtier}]{bazin2006population}
+                                     pdfTeX warning (ext4): destination with th
+e same identifier (name{cite.beerli2001maximum}) has been already used, duplica
+te ignored
+<to be read again> 
+                   \relax 
+l.47 ... \& Felsenstein(2001)}]{beerli2001maximum}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.bonin2004aa}) has been already used, 
+duplicate ignored
+<to be read again> 
+                   \relax 
+l.55 ...anon, Brochmann \& Taberlet}]{bonin2004aa}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.broquet2009molecular}) has been alrea
+dy used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.61 ...uet \& Petit(2009)}]{broquet2009molecular}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.casiraghi2016}) has been already used
+, duplicate ignored
+<to be read again> 
+                   \relax 
+l.68   Bruno \& Labra}]{casiraghi2016}
+                                      pdfTeX warning (ext4): destination with t
+he same identifier (name{cite.corander2003bayesian}) has been already used, dup
+licate ignored
+<to be read again> 
+                   \relax 
+l.74   Sillanp{\"a}{\"a}}]{corander2003bayesian}
+                                                pdfTeX warning (ext4): destinat
+ion with the same identifier (name{cite.crandall2000}) has been already used, d
+uplicate ignored
+<to be read again> 
+                   \relax 
+l.80   Wayne}]{crandall2000}
+                            pdfTeX warning (ext4): destination with the same id
+entifier (name{cite.crutzen23ff}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.86 \bibitem[{Crutzen(2002)}]{crutzen23ff}
+                                           pdfTeX warning (ext4): destination w
+ith the same identifier (name{cite.davey2010radseq}) has been already used, dup
+licate ignored
+<to be read again> 
+                   \relax 
+l.90 ...{Davey \& Blaxter(2010)}]{davey2010radseq}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.davey2011genome}) has been already us
+ed, duplicate ignored
+<to be read again> 
+                   \relax 
+l.96   \& Blaxter}]{davey2011genome}
+                                    pdfTeX warning (ext4): destination with the
+ same identifier (name{cite.dewoody2000microsatellite}) has been already used, 
+duplicate ignored
+<to be read again> 
+                   \relax 
+l.102 ... Avise(2000)}]{dewoody2000microsatellite}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.drake1998rates}) has been already use
+d, duplicate ignored
+<to be read again> 
+                   \relax 
+l.108   Crow}]{drake1998rates}
+                              
+Underfull \hbox (badness 10000) in paragraph at lines 109--112
+[]\OT1/cmr/m/sc/10.95 (+20) Drake JW\OT1/cmr/m/n/10.95 (+20) , \OT1/cmr/m/sc/10
+.95 (+20) Charlesworth B\OT1/cmr/m/n/10.95 (+20) ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--112
+\OT1/cmr/m/sc/10.95 (+20) Charlesworth D \OT1/cmr/m/n/10.95 (+20) & \OT1/cmr/m/
+sc/10.95 (+20) Crow JF
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{cite.ekblom20
+14field}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.113 ...[{Ekblom \& Wolf(2014)}]{ekblom2014field}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.Ey06}) has been already used, duplica
+te ignored
+<to be read again> 
+                   \relax 
+l.118 \bibitem[{Eyre-Walker(2006)}]{Ey06}
+                                         pdfTeX warning (ext4): destination wit
+h the same identifier (name{cite.franccois2010spatially}) has been already used
+, duplicate ignored
+<to be read again> 
+                   \relax 
+l.123 ...\& Durand(2010)}]{franccois2010spatially}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.frost2016}) has been already used, du
+plicate ignored
+<to be read again> 
+                   \relax 
+l.129 ...on, Stoker \& Withers~Harvey}]{frost2016}
+                                                   [34]pdfTeX warning (ext4): d
+estination with the same identifier (name{cite.funk2012harnessing}) has been al
+ready used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.138   Allendorf}]{funk2012harnessing}
+                                       pdfTeX warning (ext4): destination with 
+the same identifier (name{cite.gagnaire2015aa}) has been already used, duplicat
+e ignored
+<to be read again> 
+                   \relax 
+l.144 ... Arnaud-Haond \& Bierne}]{gagnaire2015aa}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.galtsoff1930fecundity}) has been alre
+ady used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.152 ...[{Galtsoff(1930)}]{galtsoff1930fecundity}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.garner2015genomics}) has been already
+ used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.158   \emph{\bbletal{}}}]{garner2015genomics}
+                                               pdfTeX warning (ext4): destinati
+on with the same identifier (name{cite.gomez2009systematic}) has been already u
+sed, duplicate ignored
+<to be read again> 
+                   \relax 
+l.166   Schmidt}]{gomez2009systematic}
+                                      
+Underfull \hbox (badness 6316) in paragraph at lines 167--170
+\OT1/cmr/m/sc/10.95 (+20) TM \OT1/cmr/m/n/10.95 (+20) (2009) Sys-tem-atic ar-ti
+-facts in
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{cite.guillot2
+012}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.172   Claude}]{guillot2012}
+                             pdfTeX warning (ext4): destination with the same i
+dentifier (name{cite.haas2011chimeric}) has been already used, duplicate ignore
+d
+<to be read again> 
+                   \relax 
+l.180   \emph{\bbletal{}}}]{haas2011chimeric}
+                                             pdfTeX warning (ext4): destination
+ with the same identifier (name{cite.hallfors2015addressing}) has been already 
+used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.189 ... Wu \& Hellmann}]{hallfors2015addressing}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.hawkins2016fisheries}) has been alrea
+dy used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.198 ...\emph{\bbletal{}}}]{hawkins2016fisheries}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.hayden20141}) has been already used, 
+duplicate ignored
+<to be read again> 
+                   \relax 
+l.206 \bibitem[{Hayden(2014)}]{hayden20141}
+                                           pdfTeX warning (ext4): destination w
+ith the same identifier (name{cite.hohenlohe2012extensive}) has been already us
+ed, duplicate ignored
+<to be read again> 
+                   \relax 
+l.211   Cresko}]{hohenlohe2012extensive}
+                                        pdfTeX warning (ext4): destination with
+ the same identifier (name{cite.huang2000analysis}) has been already used, dupl
+icate ignored
+<to be read again> 
+                   \relax 
+l.219   Hanna}]{huang2000analysis}
+                                  pdfTeX warning (ext4): destination with the s
+ame identifier (name{cite.Jonsson2016}) has been already used, duplicate ignore
+d
+<to be read again> 
+                   \relax 
+l.226   Moksnes}]{Jonsson2016}
+                              pdfTeX warning (ext4): destination with the same 
+identifier (name{cite.lam2012detecting}) has been already used, duplicate ignor
+ed
+<to be read again> 
+                   \relax 
+l.234   \emph{\bbletal{}}}]{lam2012detecting}
+                                             
+Underfull \hbox (badness 10000) in paragraph at lines 235--241
+\OT1/cmr/m/sc/10.95 (+20) P\OT1/cmr/m/n/10.95 (+20) , \OT1/cmr/m/sc/10.95 (+20)
+ Chen R\OT1/cmr/m/n/10.95 (+20) , \OT1/cmr/m/sc/10.95 (+20) Haraks-ingh R\OT1/c
+mr/m/n/10.95 (+20) ,
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{cite.latch200
+6relative}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.243   Rhodes~Jr}]{latch2006relative}
+                                      pdfTeX warning (ext4): destination with t
+he same identifier (name{cite.lighten2014aa}) has been already used, duplicate 
+ignored
+<to be read again> 
+                   \relax 
+l.251   Bentzen}]{lighten2014aa}
+                                 [35]pdfTeX warning (ext4): destination with th
+e same identifier (name{cite.luikart2003power}) has been already used, duplicat
+e ignored
+<to be read again> 
+                   \relax 
+l.257   Taberlet}]{luikart2003power}
+                                    pdfTeX warning (ext4): destination with the
+ same identifier (name{cite.Mannocci2012}) has been already used, duplicate ign
+ored
+<to be read again> 
+                   \relax 
+l.264   Dupuy, Barbraud \& Ridoux}]{Mannocci2012}
+                                                 pdfTeX warning (ext4): destina
+tion with the same identifier (name{cite.martinsohn2009fishpoptrace}) has been 
+already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.272 ...\bbletal{}}}]{martinsohn2009fishpoptrace}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.mastretta2015restriction}) has been a
+lready used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.280 ...ro \& Emerson}]{mastretta2015restriction}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.mccormack2013next}) has been already 
+used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.287 ...k \& Faircloth(2013)}]{mccormack2013next}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.mccusker2010positive}) has been alrea
+dy used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.292 ... \& Bentzen(2010)}]{mccusker2010positive}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.mcmahon2014and}) has been already use
+d, duplicate ignored
+<to be read again> 
+                   \relax 
+l.298   H{\"o}glund}]{mcmahon2014and}
+                                     pdfTeX warning (ext4): destination with th
+e same identifier (name{cite.mikheyev2014first}) has been already used, duplica
+te ignored
+<to be read again> 
+                   \relax 
+l.303 ...ikheyev \& Tin(2014)}]{mikheyev2014first}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.MK06a}) has been already used, duplic
+ate ignored
+<to be read again> 
+                   \relax 
+l.309   Miyamoto}]{MK06a}
+                         pdfTeX warning (ext4): destination with the same ident
+ifier (name{cite.MPA}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.315 \bibitem[{NAP(2001)}]{MPA}
+                                pdfTeX warning (ext4): destination with the sam
+e identifier (name{cite.newman2000stock}) has been already used, duplicate igno
+red
+<to be read again> 
+                   \relax 
+l.321   Lloyd}]{newman2000stock}
+                                pdfTeX warning (ext4): destination with the sam
+e identifier (name{cite.niu2010artificial}) has been already used, duplicate ig
+nored
+<to be read again> 
+                   \relax 
+l.328 ...0)Niu, Fu, Sun \& Li}]{niu2010artificial}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.novak2016predictive}) has been alread
+y used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.334 \bibitem[{Novak(2016)}]{novak2016predictive}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.o2015rare}) has been already used, du
+plicate ignored
+<to be read again> 
+                   \relax 
+l.341 ...th, Rieder \emph{\bbletal{}}}]{o2015rare}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.peterson2012double}) has been already
+ used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.350   Hoekstra}]{peterson2012double}
+                                      pdfTeX warning (ext4): destination with t
+he same identifier (name{cite.peyretaillade2011extreme}) has been already used,
+ duplicate ignored
+<to be read again> 
+                   \relax 
+l.358   Delbac}]{peyretaillade2011extreme}
+                                          pdfTeX warning (ext4): destination wi
+th the same identifier (name{cite.pimm2014aa}) has been already used, duplicate
+ ignored
+<to be read again> 
+                   \relax 
+l.366 ...a, Raven, Roberts \& Sexton}]{pimm2014aa}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.pogson1995genetic}) has been already 
+used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.374   Boutilier}]{pogson1995genetic}
+                                       [36]pdfTeX warning (ext4): destination w
+ith the same identifier (name{cite.pritchard2000inference}) has been already us
+ed, duplicate ignored
+<to be read again> 
+                   \relax 
+l.381   Donnelly}]{pritchard2000inference}
+                                          pdfTeX warning (ext4): destination wi
+th the same identifier (name{cite.rousset1997genetic}) has been already used, d
+uplicate ignored
+<to be read again> 
+                   \relax 
+l.386 ...item[{Rousset(1997)}]{rousset1997genetic}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.rousset2000genetic}) has been already
+ used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.391 ...item[{Rousset(2000)}]{rousset2000genetic}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.ryder1986species}) has been already u
+sed, duplicate ignored
+<to be read again> 
+                   \relax 
+l.395 \bibitem[{Ryder(1986)}]{ryder1986species}
+                                               pdfTeX warning (ext4): destinati
+on with the same identifier (name{cite.schipper2008status}) has been already us
+ed, duplicate ignored
+<to be read again> 
+                   \relax 
+l.402   \emph{\bbletal{}}}]{schipper2008status}
+                                               pdfTeX warning (ext4): destinati
+on with the same identifier (name{cite.selkoe2011marine}) has been already used
+, duplicate ignored
+<to be read again> 
+                   \relax 
+l.410 ...elkoe \& Toonen(2011)}]{selkoe2011marine}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.shafer2015genomics}) has been already
+ used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.417   \emph{\bbletal{}}}]{shafer2015genomics}
+                                               
+Underfull \hbox (badness 10000) in paragraph at lines 418--424
+\OT1/cmr/m/sc/10.95 (+20) Bergstr[]om L\OT1/cmr/m/n/10.95 (+20) , \OT1/cmr/m/sc
+/10.95 (+20) Bru-ford MW\OT1/cmr/m/n/10.95 (+20) ,
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{cite.shendure
+2008next}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.425 ...{Shendure \& Ji(2008)}]{shendure2008next}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.shokralla2012next}) has been already 
+used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.430   Hajibabaei}]{shokralla2012next}
+                                       pdfTeX warning (ext4): destination with 
+the same identifier (name{cite.spitz2011prey}) has been already used, duplicate
+ ignored
+<to be read again> 
+                   \relax 
+l.437   Ridoux}]{spitz2011prey}
+                               pdfTeX warning (ext4): destination with the same
+ identifier (name{cite.spitz2006diet}) has been already used, duplicate ignored
+
+<to be read again> 
+                   \relax 
+l.446   Ridoux}]{spitz2006diet}
+                               pdfTeX warning (ext4): destination with the same
+ identifier (name{cite.stapley2010adaptation}) has been already used, duplicate
+ ignored
+<to be read again> 
+                   \relax 
+l.453 ...ckerman \& Slate}]{stapley2010adaptation}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.steiner2013conservation}) has been al
+ready used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.461   Ryder}]{steiner2013conservation}
+                                        pdfTeX warning (ext4): destination with
+ the same identifier (name{cite.szulkin2016population}) has been already used, 
+duplicate ignored
+<to be read again> 
+                   \relax 
+l.467   Charmantier}]{szulkin2016population}
+                                            pdfTeX warning (ext4): destination 
+with the same identifier (name{cite.taberlet2012towards}) has been already used
+, duplicate ignored
+<to be read again> 
+                   \relax 
+l.474 ...mann \& Willerslev}]{taberlet2012towards}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.tajima1989effect}) has been already u
+sed, duplicate ignored
+<to be read again> 
+                   \relax 
+l.480 \bibitem[{Tajima(1989)}]{tajima1989effect}
+                                                pdfTeX warning (ext4): destinat
+ion with the same identifier (name{cite.templeton2013dna}) has been already use
+d, duplicate ignored
+<to be read again> 
+                   \relax 
+l.486 ...aak, Cooper \& Austin}]{templeton2013dna}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.waples1998separating}) has been alrea
+dy used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.493 ...tem[{Waples(1998)}]{waples1998separating}
+                                                   [37]pdfTeX warning (ext4): d
+estination with the same identifier (name{cite.wilson2003bayesian}) has been al
+ready used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.498 ...on \& Rannala(2003)}]{wilson2003bayesian}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.zielinski2014development}) has been a
+lready used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.504 ...czal \& Babik}]{zielinski2014development}
+                                                  )
+Overfull \hbox (1.58911pt too wide) in paragraph at lines 741--741
  []|\OT1/cmr/m/n/6 Longueur 
  []
 
 
-Overfull \hbox (11.62643pt too wide) in paragraph at lines 739--739
+Overfull \hbox (11.62643pt too wide) in paragraph at lines 741--741
  []|\OT1/cmr/m/n/6 (TG)13CT(TG)2CA(TG)2(TA)2(TG)4| 
  []
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 745.
+               Default added (so using `tbp') on input line 747.
 
-[30pdfTeX warning (ext4): destination with the same identifier (name{table.6}) 
+[38pdfTeX warning (ext4): destination with the same identifier (name{table.6}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.781 \newpage
-              ] [31] [0]
+l.783 \newpage
+              ] [39] [0]
 
-./Rapport.tex:805: LaTeX Error: \begin{otherlanguage} on input line 797 ended b
+./Rapport.tex:807: LaTeX Error: \begin{otherlanguage} on input line 799 ended b
 y \end{changemargin}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.805 \end{changemargin}
+l.807 \end{changemargin}
                         
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1938,18 +2289,21 @@ or  <return>  to continue without it.
 Package natbib Warning: There were undefined citations.
 
 
+Package natbib Warning: There were multiply defined citations.
+
+
 AED: lastpage setting LastPage
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.809 \end{document}
+l.811 \end{document}
                      [1]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 809.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 809.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 811.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 811.
  (./Rapport.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 809.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 809.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 811.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 811.
 Package rerunfilecheck Info: File `Rapport.out' has not changed.
 (rerunfilecheck)             Checksum: 600A4690BD2B63F635F1C20A8C708263;1222.
 
@@ -1958,13 +2312,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 12374 strings out of 493117
- 179384 string characters out of 6135434
- 350335 words of memory out of 5000000
- 15313 multiletter control sequences out of 15000+600000
- 22581 words of font info for 149 fonts, out of 8000000 for 9000
+ 12960 strings out of 493117
+ 188219 string characters out of 6135434
+ 356625 words of memory out of 5000000
+ 15532 multiletter control sequences out of 15000+600000
+ 33867 words of font info for 288 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,14n,43p,4875b,726s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,14n,43p,4875b,1014s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
@@ -1987,11 +2341,12 @@ e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive
 14/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2014/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2014/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Rapport.pdf (37 pages, 4280790 bytes).
+exmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2014/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on Rapport.pdf (45 pages, 4366540 bytes).
 PDF statistics:
- 567 PDF objects out of 1000 (max. 8388607)
- 475 compressed objects within 5 object streams
- 104 named destinations out of 1000 (max. 500000)
- 33484 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 906 PDF objects out of 1000 (max. 8388607)
+ 801 compressed objects within 9 object streams
+ 188 named destinations out of 1000 (max. 500000)
+ 39116 words of extra memory for PDF output out of 42996 (max. 10000000)
 
