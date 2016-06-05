@@ -69,16 +69,22 @@
 
 % -------------------- Page de présentation --------------------
 
+\thispagestyle{empty}
 
-    \textsc{\LARGE Université de La Rochelle}\\[2cm]
-
-    \textsc{\Large Rapport de stage de M2}\\[1.5cm]
-
-    % Title
-   % \HRule \\[0.4cm]
-   \rule[0.5ex]{\textwidth}{0.1mm}
+   \begin{figure}
+      \begin{minipage}[c]{.1\linewidth}
+         \includegraphics[scale=0.25, left]{GIS3Mlogo}
+      \end{minipage} \hfill
+	  \centering\textsc{\Large Université de La Rochelle}
+      \begin{minipage}[c]{.15\linewidth}
+         \includegraphics[scale=0.06, right]{logoU}
+      \end{minipage}
+   \end{figure}
    
+   \\[2cm]
    
+      \rule[0.5ex]{\textwidth}{0.1mm}
+
     { \huge Inférence de la structure de population \\des grands dauphins \\
 	\emph{Tursiops truncatus}, Montagu, 1821, \\
 	dans la Méditerranée Nord Occidentale\\[0.4cm] }
@@ -88,22 +94,19 @@
    \begin{figure}[htbp]
    	\centering
    		\includegraphics[width=\textwidth]{tursiops}
-   	\caption{C\emph{Tursiops truncatus} Frank E. Beddard, A Book of Whales (1900)}
+   	\small{Frank E. Beddard, A Book of Whales ($1900$)}
    \end{figure}
    
+    \textbf{\textsc{ Rapport de stage de M2}}\\[1cm]
+	
+\textrm{\Large{Pierre-Louis}} \textsc{\Large{Stenger}}\\[1cm]
 
-    % Author and supervisor
-    \begin{minipage}{0.4\textwidth}
-      \begin{flushleft} \large
-        Pierre-Louis \textsc{Stenger}\\
-        Promo 2016\\
-      \end{flushleft}
-    \end{minipage}
-    \begin{minipage}{0.4\textwidth}
-      \begin{flushright} \large
-        \emph{Maîtres de stage :} \textsc{Benoit Simon-Bouhet} & \textsc{Hélène Labach}\\
-      \end{flushright}
-    \end{minipage}
+        \emph{Maîtres de stage} : \\
+		
+		\textrm{\large{Benoit}} \textsc{\large{Simon-Bouhet}}
+		\& \\
+		\textrm{\large{Hélène}} \textsc{\large{Labach}}
+
 
     \vfill
 
