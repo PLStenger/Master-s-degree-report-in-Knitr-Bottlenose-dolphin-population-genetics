@@ -71,6 +71,8 @@
 % Création de 2 styles d'en-têtes et pieds de page : 1 pour le corps du texte et un pour la page de garde toc, etc
 \usepackage{etoolbox,lastpage,fancyhdr}
 
+
+
 \fancypagestyle{plain}{%
   \fancyhf{}%
   \fancyfoot{}%
@@ -762,12 +764,18 @@ Total:21 & \multicolumn{3}{|c|}{Total:58} & \multicolumn{2}{|c|}{Total:42} \\
 % \FloatBarrier
 
 \newpage
+\thispagestyle{empty}
+\setcounter{page}{0}
+%\addtolength{\hoffset}{cm}
+%\addtolength{\textwidth}{2cm}
+\addtolength{\leftmargin}{1cm}
+\addtolength{\rightmargin}{1cm}
 
 \begin{center}
 
 \begin{abstract}
 
-Bien que le grand dauphin \emph{Tursiops truncatus} soit une espèce patrimoniale, bien connue et protégée, elle aujourd'hui une espèce vulnérable selon l'Union internationale pour la conservation de la nature. Les eaux méditerranéennes françaises comprennent aujourd'hui 44 aires marines protégées, du fait que cette partie du globe soit un point chaud de la biodiversité. Néanmoins, de nombreuses menaces pèsent sur ce cétacé qui est victime de captures accidentelles, de collisions avec les bateaux, de pollutions multiples et de la dégradation de son habitat. Afin de pouvoir protéger au mieux cette espèce sociale et mobile, les plans de gestion des aires marines protégées se doivent d'avoir des informations sur la structure des population. Ainsi, l'inférence de la structure des populations des \emph{Tursiops truncatus} a été réalisé lors de cette étude à l'aide de marqueurs microsatellites (12 locus sur 121 individus) et d'ADN mitochondrial (Fragments de 682 paires de bases sur 138 individus). L'inférence des populations a été obtenue par trois méthodes distinctes, avec un logiciel prenant en compte le nombre de populations vraisemblables avec les données nucléaires, un autre ajoutant le critère de localisation des individus, et enfin en réalisant une Analyse Discriminante sur les Composantes Principales (DAPC) qui elle n'est pas influencée par la nature génétique des données. La caractérisation de ces populations s'est ensuite faite à l'aide d'indices de diversité génétique sur les données nucléaires et mitochondriales. Ainsi, trois populations ont été inférés lors de cette étude. Une population en Galice qui pourrait en comporter deux selon la littérature (une pélagique et une côtière), une population située à Gibraltar qui serait pélagique, et une autre en Méditerranée Nord Occidentale qui serait aussi pélagique. Il se pourrait qu'une quatrième population ne fusse pas détectée au sud de la Corse du fait du peu d'individus échantillonnée en ce lieu.
+Bien que le grand dauphin \emph{Tursiops truncatus} soit une espèce patrimoniale, bien connue et protégée, elle aujourd'hui une espèce vulnérable selon l'Union internationale pour la conservation de la nature. Les eaux méditerranéennes françaises comprennent aujourd'hui 44 aires marines protégées, du fait que cette partie du globe soit un point chaud de la biodiversité. Néanmoins, de nombreuses menaces pèsent sur ce cétacé qui est victime de captures accidentelles, de collisions avec les bateaux, de pollutions multiples et de la dégradation de son habitat. Afin de pouvoir protéger au mieux cette espèce sociale et mobile, les plans de gestion des aires marines protégées se doivent d'avoir des informations sur la structure des population. Ainsi, l'inférence de la structure des populations des \emph{Tursiops truncatus} a été réalisé lors de cette étude à l'aide de marqueurs microsatellites (12 loci sur 121 individus) et d'ADN mitochondrial (Fragments de 682 paires de bases sur 138 individus). L'inférence des populations a été obtenue par trois méthodes distinctes, avec un logiciel prenant en compte le nombre de populations vraisemblables avec les données nucléaires, un autre ajoutant le critère de localisation des individus, et enfin en réalisant une Analyse Discriminante sur les Composantes Principales (DAPC) qui elle n'est pas influencée par la nature génétique des données. La caractérisation de ces populations s'est ensuite faite à l'aide d'indices de diversité génétique sur les données nucléaires et mitochondriales. Ainsi, trois populations ont été inférés lors de cette étude. Une population en Galice qui pourrait en comporter deux selon la littérature (une pélagique et une côtière), une population située à Gibraltar qui serait pélagique, et une autre en Méditerranée Nord Occidentale qui serait aussi pélagique. Il se pourrait qu'une quatrième population ne fusse pas détectée au sud de la Corse du fait du peu d'individus échantillonnée en ce lieu.
 
 \end{abstract}
 
@@ -775,10 +783,11 @@ Bien que le grand dauphin \emph{Tursiops truncatus} soit une espèce patrimonial
 
 \begin{abstract}
 
-Blabla Anglais
+Although the dolphin \emph{Tursiops truncatus} is a patrimonial species, well known and protected, it is now registered as a vulnerable species by the International Union for the Conservation of Nature. Today, the French Mediterranean waters include 44 marines protected area. Because this part of the globe is a hot spot of biodiversity. Nevertheless, there are many threats on this cetacean, because it is a victim of accidental catches, collisions with ships, multiple pollution and habitat degradation by humans. In order to best protect this social and mobile species, management plans for marine protected areas will need to have information on the population structure. Thus, the inference of population structure of \emph{Tursiops truncatus} was performed in this study by using microsatellite markers (12 loci on 121 individuals) and mitochondrial DNA (Fragments of 682 bp of 138 individuals). The inference population was obtained by three differents methods, with software which taking into account the number of population with nuclear data, adding another software with the criterion of individual location, and finally by performing discriminant analysis on the Principal Components (DAPC), which is not influenced by the genetic nature of the data. The characterization of these populations is made using genetic diversity indices on nuclear and mitochondrial data. So, three populations have been inferred from this study. A population in Galicia, which could be two according to the literature (pelagic and coastal populations), a population located in Gibraltar would be pelagic and another in north-western Mediterranean, which would also be pelagic. It could be a fourth population which not detected on the south of Corsica because of the lack individuals sampled in this place.
 
 \end{abstract}
 
+\end{changemargin}
 
 \end{center}
 
