@@ -1,17 +1,21 @@
 \select@language {french}
 \contentsline {figure}{\numberline {1}{\ignorespaces \IeC {\'E}volution du co\IeC {\^u}t de s\IeC {\'e}quen\IeC {\c c}age d'un g\IeC {\'e}nome humain}}{5}{figure.1}
-\contentsline {figure}{\numberline {2}{\ignorespaces Localisation des \IeC {\'e}chantillons et concentrations d'ADN obtenues \IeC {\`a} l'issue des extractions}}{42}{figure.2}
-\contentsline {figure}{\numberline {3}{\ignorespaces Photographie d'un gel d'agarose plac\IeC {\'e} sur une plaque \IeC {\`a} UV}}{43}{figure.3}
-\contentsline {figure}{\numberline {4}{\ignorespaces Vraisemblance ($LnPD$) en fonction de $K$.}}{49}{figure.4}
-\contentsline {figure}{\numberline {5}{\ignorespaces Deviance Information Criterion (DIC) en fonction de $K$.}}{49}{figure.5}
-\contentsline {figure}{\numberline {6}{\ignorespaces Bayesian Information Criterion (BIC) en fonction de $K$.}}{50}{figure.6}
-\contentsline {figure}{\numberline {7}{\ignorespaces Probabilit\IeC {\'e}s d'assignations individuelles \IeC {\`a} chaque population inf\IeC {\'e}r\IeC {\'e}e par TESS}}{50}{figure.7}
-\contentsline {figure}{\numberline {8}{\ignorespaces Cartes de probabilit\IeC {\'e} d'appartenance aux populations inf\IeC {\'e}r\IeC {\'e}es.}}{51}{figure.8}
-\contentsline {figure}{\numberline {9}{\ignorespaces DAPC}}{52}{figure.9}
-\contentsline {figure}{\numberline {10}{\ignorespaces Vraisemblance ($LnPD$) en fonction de $K$.}}{53}{figure.10}
-\contentsline {figure}{\numberline {11}{\ignorespaces R\IeC {\'e}seau d'haplotypes.}}{55}{figure.11}
 \select@language {english}
 \select@language {french}
-\contentsline {figure}{\numberline {12}{\ignorespaces {Caract\IeC {\'e}ristiques des 25 marqueurs microsatellites utilis\IeC {\'e}s} }}{67}{figure.12}
+\contentsline {figure}{\numberline {2}{\ignorespaces Localisation des \IeC {\'e}chantillons et concentrations d'ADN obtenues \IeC {\`a} l'issue des extractions}}{16}{figure.2}
+\contentsline {figure}{\numberline {3}{\ignorespaces Photographie d'un gel d'agarose plac\IeC {\'e} sur une plaque \IeC {\`a} UV}}{17}{figure.3}
+\contentsline {figure}{\numberline {4}{\ignorespaces Vraisemblance ($LnPD$) en fonction de $K$.}}{23}{figure.4}
+\contentsline {figure}{\numberline {5}{\ignorespaces Deviance Information Criterion (DIC) en fonction de $K$.}}{23}{figure.5}
+\contentsline {figure}{\numberline {6}{\ignorespaces Bayesian Information Criterion (BIC) en fonction de $K$.}}{24}{figure.6}
+\contentsline {figure}{\numberline {7}{\ignorespaces Probabilit\IeC {\'e}s d'assignations individuelles \IeC {\`a} chaque population inf\IeC {\'e}r\IeC {\'e}e par TESS}}{24}{figure.7}
+\contentsline {figure}{\numberline {8}{\ignorespaces Cartes de probabilit\IeC {\'e} d'appartenance aux populations inf\IeC {\'e}r\IeC {\'e}es.}}{25}{figure.8}
+\contentsline {figure}{\numberline {9}{\ignorespaces DAPC}}{26}{figure.9}
+\contentsline {figure}{\numberline {10}{\ignorespaces Vraisemblance ($LnPD$) en fonction de $K$.}}{27}{figure.10}
+\contentsline {figure}{\numberline {11}{\ignorespaces R\IeC {\'e}seau d'haplotypes.}}{29}{figure.11}
+\select@language {english}
+\select@language {french}
+\contentsline {figure}{\numberline {12}{\ignorespaces {Caract\IeC {\'e}ristiques des 25 marqueurs microsatellites utilis\IeC {\'e}s} }}{41}{figure.12}
+\select@language {english}
+\select@language {french}
 \select@language {english}
 \select@language {french}

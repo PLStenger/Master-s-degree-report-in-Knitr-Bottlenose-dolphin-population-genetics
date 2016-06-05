@@ -23,7 +23,7 @@ aVnicefrac
 p11
 aVbabel
 p12
-aVsetspace
+aVSIunits
 p13
 aVbooktabs
 p14
@@ -51,7 +51,7 @@ aVgeometry
 p25
 aVplaceins
 p26
-aVSIunits
+aVsetspace
 p27
 atp28
 Rp29
@@ -59,11 +59,11 @@ sVfiles_with_guttermarks
 p30
 g4
 ((lp31
-V/Users/pierre-louisstenger/Desktop/Raport compile\u0301/Rapport.bbl (./babelbst.tex
+S'/Users/pierre-louisstenger/Desktop/Raport compile\xcc\x81/Rapport.Rnw'
 p32
-aS'/Users/pierre-louisstenger/Desktop/Raport compile\xcc\x81/Rapport.Rnw'
-p33
 aS'Rapport.Rnw'
+p33
+aV/Users/pierre-louisstenger/Desktop/Raport compile\u0301/bu1.bbl (./babelbst.tex
 p34
 aV/Users/pierre-louisstenger/Desktop/Raport compile\u0301/bu2.bbl (./babelbst.tex
 p35

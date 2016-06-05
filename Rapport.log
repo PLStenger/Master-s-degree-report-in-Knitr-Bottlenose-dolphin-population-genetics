@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.6.9)  5 JUN 2016 16:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.6.9)  5 JUN 2016 18:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -494,234 +494,7 @@ Package: bibunits 2004/05/12 v2.4 Multiple bibliographies in one document.
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 )
-(./Rapport.aux (./bu.aux) (./bu.aux
-
-Package natbib Warning: Citation `GSFLX' multiply defined.
-
-
-Package natbib Warning: Citation `iontorrent' multiply defined.
-
-
-Package natbib Warning: Citation `illumina' multiply defined.
-
-
-Package natbib Warning: Citation `baily1992detection' multiply defined.
-
-
-Package natbib Warning: Citation `baird2008aa' multiply defined.
-
-
-Package natbib Warning: Citation `bazin2006population' multiply defined.
-
-
-Package natbib Warning: Citation `beerli2001maximum' multiply defined.
-
-
-Package natbib Warning: Citation `bonin2004aa' multiply defined.
-
-
-Package natbib Warning: Citation `broquet2009molecular' multiply defined.
-
-
-Package natbib Warning: Citation `casiraghi2016' multiply defined.
-
-
-Package natbib Warning: Citation `corander2003bayesian' multiply defined.
-
-
-Package natbib Warning: Citation `crandall2000' multiply defined.
-
-
-Package natbib Warning: Citation `crutzen23ff' multiply defined.
-
-
-Package natbib Warning: Citation `davey2010radseq' multiply defined.
-
-
-Package natbib Warning: Citation `davey2011genome' multiply defined.
-
-
-Package natbib Warning: Citation `dewoody2000microsatellite' multiply defined.
-
-
-Package natbib Warning: Citation `drake1998rates' multiply defined.
-
-
-Package natbib Warning: Citation `ekblom2014field' multiply defined.
-
-
-Package natbib Warning: Citation `Ey06' multiply defined.
-
-
-Package natbib Warning: Citation `franccois2010spatially' multiply defined.
-
-
-Package natbib Warning: Citation `frost2016' multiply defined.
-
-
-Package natbib Warning: Citation `funk2012harnessing' multiply defined.
-
-
-Package natbib Warning: Citation `gagnaire2015aa' multiply defined.
-
-
-Package natbib Warning: Citation `galtsoff1930fecundity' multiply defined.
-
-
-Package natbib Warning: Citation `garner2015genomics' multiply defined.
-
-
-Package natbib Warning: Citation `gomez2009systematic' multiply defined.
-
-
-Package natbib Warning: Citation `guillot2012' multiply defined.
-
-
-Package natbib Warning: Citation `haas2011chimeric' multiply defined.
-
-
-Package natbib Warning: Citation `hallfors2015addressing' multiply defined.
-
-
-Package natbib Warning: Citation `hawkins2016fisheries' multiply defined.
-
-
-Package natbib Warning: Citation `hayden20141' multiply defined.
-
-
-Package natbib Warning: Citation `hohenlohe2012extensive' multiply defined.
-
-
-Package natbib Warning: Citation `huang2000analysis' multiply defined.
-
-
-Package natbib Warning: Citation `Jonsson2016' multiply defined.
-
-
-Package natbib Warning: Citation `lam2012detecting' multiply defined.
-
-
-Package natbib Warning: Citation `latch2006relative' multiply defined.
-
-
-Package natbib Warning: Citation `lighten2014aa' multiply defined.
-
-
-Package natbib Warning: Citation `luikart2003power' multiply defined.
-
-
-Package natbib Warning: Citation `Mannocci2012' multiply defined.
-
-
-Package natbib Warning: Citation `martinsohn2009fishpoptrace' multiply defined.
-
-
-
-Package natbib Warning: Citation `mastretta2015restriction' multiply defined.
-
-
-Package natbib Warning: Citation `mccormack2013next' multiply defined.
-
-
-Package natbib Warning: Citation `mccusker2010positive' multiply defined.
-
-
-Package natbib Warning: Citation `mcmahon2014and' multiply defined.
-
-
-Package natbib Warning: Citation `mikheyev2014first' multiply defined.
-
-
-Package natbib Warning: Citation `MK06a' multiply defined.
-
-
-Package natbib Warning: Citation `MPA' multiply defined.
-
-
-Package natbib Warning: Citation `newman2000stock' multiply defined.
-
-
-Package natbib Warning: Citation `niu2010artificial' multiply defined.
-
-
-Package natbib Warning: Citation `novak2016predictive' multiply defined.
-
-
-Package natbib Warning: Citation `o2015rare' multiply defined.
-
-
-Package natbib Warning: Citation `peterson2012double' multiply defined.
-
-
-Package natbib Warning: Citation `peyretaillade2011extreme' multiply defined.
-
-
-Package natbib Warning: Citation `pimm2014aa' multiply defined.
-
-
-Package natbib Warning: Citation `pogson1995genetic' multiply defined.
-
-
-Package natbib Warning: Citation `pritchard2000inference' multiply defined.
-
-
-Package natbib Warning: Citation `rousset1997genetic' multiply defined.
-
-
-Package natbib Warning: Citation `rousset2000genetic' multiply defined.
-
-
-Package natbib Warning: Citation `ryder1986species' multiply defined.
-
-
-Package natbib Warning: Citation `schipper2008status' multiply defined.
-
-
-Package natbib Warning: Citation `selkoe2011marine' multiply defined.
-
-
-Package natbib Warning: Citation `shafer2015genomics' multiply defined.
-
-
-Package natbib Warning: Citation `shendure2008next' multiply defined.
-
-
-Package natbib Warning: Citation `shokralla2012next' multiply defined.
-
-
-Package natbib Warning: Citation `spitz2011prey' multiply defined.
-
-
-Package natbib Warning: Citation `spitz2006diet' multiply defined.
-
-
-Package natbib Warning: Citation `stapley2010adaptation' multiply defined.
-
-
-Package natbib Warning: Citation `steiner2013conservation' multiply defined.
-
-
-Package natbib Warning: Citation `szulkin2016population' multiply defined.
-
-
-Package natbib Warning: Citation `taberlet2012towards' multiply defined.
-
-
-Package natbib Warning: Citation `tajima1989effect' multiply defined.
-
-
-Package natbib Warning: Citation `templeton2013dna' multiply defined.
-
-
-Package natbib Warning: Citation `waples1998separating' multiply defined.
-
-
-Package natbib Warning: Citation `wilson2003bayesian' multiply defined.
-
-
-Package natbib Warning: Citation `zielinski2014development' multiply defined.
-
-))
+(./Rapport.aux)
 \openout1 = `Rapport.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 114.
@@ -880,7 +653,7 @@ l.126 ...ludegraphics[scale=0.25, left]{GIS3Mlogo}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<GIS3Mlogo.jpg, id=76, 370.38374pt x 330.23375pt>
+<GIS3Mlogo.jpg, id=64, 370.38374pt x 330.23375pt>
 File: GIS3Mlogo.jpg Graphic file (type jpg)
  <use GIS3Mlogo.jpg>
 Package pdftex.def Info: GIS3Mlogo.jpg used on input line 126.
@@ -914,7 +687,7 @@ l.130 ...includegraphics[scale=0.06, right]{logoU}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<logoU.png, id=77, 1027.84pt x 1027.84pt>
+<logoU.png, id=65, 1027.84pt x 1027.84pt>
 File: logoU.png Graphic file (type png)
  <use logoU.png>
 Package pdftex.def Info: logoU.png used on input line 130.
@@ -938,7 +711,7 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <24.88> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 139.
 
 
-<tursiops.png, id=79, 909.3975pt x 382.42876pt>
+<tursiops.png, id=67, 909.3975pt x 382.42876pt>
 File: tursiops.png Graphic file (type png)
  <use tursiops.png>
 Package pdftex.def Info: tursiops.png used on input line 146.
@@ -1013,7 +786,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 237--240
 
  []
 
-[3]
+[3] (./bu1.aux)
+\openout3 = `bu1.aux'.
+
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1024,30 +800,30 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.266 
+l.268 
        [1]
 Package hyperref Info: bookmark level for unknown enca defaults to 0 on input l
-ine 268.
+ine 270.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
  [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 283--284
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
 
  []
 
 [4]
 
-LaTeX Warning: Reference `fig:moore' on page 5 undefined on input line 287.
+LaTeX Warning: Reference `fig:moore' on page 5 undefined on input line 289.
 
 
-Package xcolor Warning: Incompatible color definition on input line 290.
+Package xcolor Warning: Incompatible color definition on input line 292.
 
-<figure/moore-1.pdf, id=299, 505.89pt x 289.08pt>
+<figure/moore-1.pdf, id=287, 505.89pt x 289.08pt>
 File: figure/moore-1.pdf Graphic file (type pdf)
  <use figure/moore-1.pdf>
-Package pdftex.def Info: figure/moore-1.pdf used on input line 292.
+Package pdftex.def Info: figure/moore-1.pdf used on input line 294.
 (pdftex.def)             Requested size: 426.7973pt x 244.69139pt.
 
 [5pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
@@ -1055,1252 +831,404 @@ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.304 
+l.306 
        <./figure/moore-1.pdf>]
-<figure/lositan-1.pdf, id=346, 867.24pt x 433.62pt>
+<figure/lositan-1.pdf, id=334, 867.24pt x 433.62pt>
 File: figure/lositan-1.pdf Graphic file (type pdf)
  <use figure/lositan-1.pdf>
-Package pdftex.def Info: figure/lositan-1.pdf used on input line 310.
+Package pdftex.def Info: figure/lositan-1.pdf used on input line 312.
 (pdftex.def)             Requested size: 398.33977pt x 199.16988pt.
 
-[6 <./figure/lositan-1.pdf>]
-\openout3 = `bu.aux'.
-
- (./Rapport.bbl (./babelbst.tex (./Frenchbst.tex))
-[7] [8] [9] [10] [11]
-Underfull \hbox (badness 3108) in paragraph at lines 418--424
-[]\OT1/cmr/m/sc/12 Shafer AB\OT1/cmr/m/n/12 (+20) , \OT1/cmr/m/sc/12 Wolf JB\OT
-1/cmr/m/n/12 (+20) , \OT1/cmr/m/sc/12 Alves PC\OT1/cmr/m/n/12 (+20) , \OT1/cmr/
-m/sc/12 Berg-str[]om L\OT1/cmr/m/n/12 (+20) , \OT1/cmr/m/sc/12 Bru-ford MW\OT1/
-cmr/m/n/12 (+20) ,
+[6 <./figure/lositan-1.pdf>] [7] (./bu1.bbl (./babelbst.tex (./Frenchbst.tex))
+Underfull \hbox (badness 10000) in paragraph at lines 56--60
+\OT1/cmr/m/sc/12 desen P\OT1/cmr/m/n/12 (+20) , \OT1/cmr/m/sc/12 Pom-panon F\OT
+1/cmr/m/n/12 (+20) ,
  []
 
-[12]
-Overfull \hbox (1.69331pt too wide) in paragraph at lines 431--435
-\OT1/cmr/m/n/12 (-20) sequencing technologies for environmental dna research.  
-\OT1/cmr/m/it/12 (-20) Molecular ecology\OT1/cmr/m/n/12 (-20) , \OT1/cmr/bx/n/1
-2 21 \OT1/cmr/m/n/12 (-20) :1794--
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--60
+\OT1/cmr/m/n/12 (+20) geno-typ-ing er-rors in pop-u-la-tion
  []
 
-[13]) (./bu1.aux)
-\openout3 = `bu1.aux'.
 
- (./bu1.bbl (./babelbst.tex (./Frenchbst.tex))pdfTeX warning (ext4): destinatio
-n with the same identifier (name{cite.GSFLX}) has been already used, duplicate 
-ignored
-<to be read again> 
-                   \relax 
-l.17 \bibitem[{GSF(2011)}]{GSFLX}
-                                 pdfTeX warning (ext4): destination with the sa
-me identifier (name{cite.iontorrent}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.21 \bibitem[{ion(2014)}]{iontorrent}
-                                      pdfTeX warning (ext4): destination with t
-he same identifier (name{cite.illumina}) has been already used, duplicate ignor
-ed
-<to be read again> 
-                   \relax 
-l.28 \bibitem[{ill(2014)}]{illumina}
-                                     [14]pdfTeX warning (ext4): destination wit
-h the same identifier (name{cite.baily1992detection}) has been already used, du
-plicate ignored
-<to be read again> 
-                   \relax 
-l.90   Stoker}]{baily1992detection}
-                                   pdfTeX warning (ext4): destination with the 
-same identifier (name{cite.baird2008aa}) has been already used, duplicate ignor
-ed
-<to be read again> 
-                   \relax 
-l.98 ..., Selker, Cresko \& Johnson}]{baird2008aa}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.bazin2006population}) has been alread
-y used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.128   Galtier}]{bazin2006population}
-                                      pdfTeX warning (ext4): destination with t
-he same identifier (name{cite.beerli2001maximum}) has been already used, duplic
-ate ignored
-<to be read again> 
-                   \relax 
-l.133 ...\& Felsenstein(2001)}]{beerli2001maximum}
-                                                   [15]pdfTeX warning (ext4): d
-estination with the same identifier (name{cite.bonin2004aa}) has been already u
-sed, duplicate ignored
-<to be read again> 
-                   \relax 
-l.179 ...non, Brochmann \& Taberlet}]{bonin2004aa}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.broquet2009molecular}) has been alrea
-dy used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.185 ...et \& Petit(2009)}]{broquet2009molecular}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.casiraghi2016}) has been already used
-, duplicate ignored
-<to be read again> 
-                   \relax 
-l.192   Bruno \& Labra}]{casiraghi2016}
-                                       pdfTeX warning (ext4): destination with 
-the same identifier (name{cite.corander2003bayesian}) has been already used, du
-plicate ignored
-<to be read again> 
-                   \relax 
-l.219   Sillanp{\"a}{\"a}}]{corander2003bayesian}
-                                                  [16]pdfTeX warning (ext4): de
-stination with the same identifier (name{cite.crandall2000}) has been already u
-sed, duplicate ignored
-<to be read again> 
-                   \relax 
-l.234   Wayne}]{crandall2000}
-                             pdfTeX warning (ext4): destination with the same i
-dentifier (name{cite.crutzen23ff}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.248 \bibitem[{Crutzen(2002)}]{crutzen23ff}
-                                            pdfTeX warning (ext4): destination 
-with the same identifier (name{cite.davey2010radseq}) has been already used, du
-plicate ignored
-<to be read again> 
-                   \relax 
-l.261 ...Davey \& Blaxter(2010)}]{davey2010radseq}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.davey2011genome}) has been already us
-ed, duplicate ignored
-<to be read again> 
-                   \relax 
-l.274   \& Blaxter}]{davey2011genome}
-                                     pdfTeX warning (ext4): destination with th
-e same identifier (name{cite.dewoody2000microsatellite}) has been already used,
- duplicate ignored
-<to be read again> 
-                   \relax 
-l.280 ... Avise(2000)}]{dewoody2000microsatellite}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.drake1998rates}) has been already use
-d, duplicate ignored
-<to be read again> 
-                   \relax 
-l.286   Crow}]{drake1998rates}
-                              pdfTeX warning (ext4): destination with the same 
-identifier (name{cite.ekblom2014field}) has been already used, duplicate ignore
-d
-<to be read again> 
-                   \relax 
-l.304 ...[{Ekblom \& Wolf(2014)}]{ekblom2014field}
-                                                   [17]pdfTeX warning (ext4): d
-estination with the same identifier (name{cite.Ey06}) has been already used, du
-plicate ignored
-<to be read again> 
-                   \relax 
-l.333 \bibitem[{Eyre-Walker(2006)}]{Ey06}
-                                         pdfTeX warning (ext4): destination wit
-h the same identifier (name{cite.franccois2010spatially}) has been already used
-, duplicate ignored
-<to be read again> 
-                   \relax 
-l.360 ...\& Durand(2010)}]{franccois2010spatially}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.frost2016}) has been already used, du
-plicate ignored
-<to be read again> 
-                   \relax 
-l.376 ...on, Stoker \& Withers~Harvey}]{frost2016}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.funk2012harnessing}) has been already
- used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.385   Allendorf}]{funk2012harnessing}
-                                        [18]pdfTeX warning (ext4): destination 
-with the same identifier (name{cite.gagnaire2015aa}) has been already used, dup
-licate ignored
-<to be read again> 
-                   \relax 
-l.407 ... Arnaud-Haond \& Bierne}]{gagnaire2015aa}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.galtsoff1930fecundity}) has been alre
-ady used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.423 ...[{Galtsoff(1930)}]{galtsoff1930fecundity}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.garner2015genomics}) has been already
- used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.429   \emph{\bbletal{}}}]{garner2015genomics}
-                                               pdfTeX warning (ext4): destinati
-on with the same identifier (name{cite.gomez2009systematic}) has been already u
-sed, duplicate ignored
-<to be read again> 
-                   \relax 
-l.457   Schmidt}]{gomez2009systematic}
-                                       [19]pdfTeX warning (ext4): destination w
-ith the same identifier (name{cite.guillot2012}) has been already used, duplica
-te ignored
-<to be read again> 
-                   \relax 
-l.476   Claude}]{guillot2012}
-                             pdfTeX warning (ext4): destination with the same i
-dentifier (name{cite.haas2011chimeric}) has been already used, duplicate ignore
-d
-<to be read again> 
-                   \relax 
-l.484   \emph{\bbletal{}}}]{haas2011chimeric}
-                                             pdfTeX warning (ext4): destination
- with the same identifier (name{cite.hallfors2015addressing}) has been already 
-used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.493 ... Wu \& Hellmann}]{hallfors2015addressing}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.hawkins2016fisheries}) has been alrea
-dy used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.507 ...\emph{\bbletal{}}}]{hawkins2016fisheries}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.hayden20141}) has been already used, 
-duplicate ignored
-<to be read again> 
-                   \relax 
-l.515 \bibitem[{Hayden(2014)}]{hayden20141}
-                                            [20]pdfTeX warning (ext4): destinat
-ion with the same identifier (name{cite.hohenlohe2012extensive}) has been alrea
-dy used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.566   Cresko}]{hohenlohe2012extensive}
-                                        pdfTeX warning (ext4): destination with
- the same identifier (name{cite.huang2000analysis}) has been already used, dupl
-icate ignored
-<to be read again> 
-                   \relax 
-l.582   Hanna}]{huang2000analysis}
-                                  pdfTeX warning (ext4): destination with the s
-ame identifier (name{cite.Jonsson2016}) has been already used, duplicate ignore
-d
-<to be read again> 
-                   \relax 
-l.596   Moksnes}]{Jonsson2016}
-                               [21]pdfTeX warning (ext4): destination with the 
-same identifier (name{cite.lam2012detecting}) has been already used, duplicate 
-ignored
-<to be read again> 
-                   \relax 
-l.647   \emph{\bbletal{}}}]{lam2012detecting}
-                                             pdfTeX warning (ext4): destination
- with the same identifier (name{cite.latch2006relative}) has been already used,
- duplicate ignored
-<to be read again> 
-                   \relax 
-l.656   Rhodes~Jr}]{latch2006relative}
-                                      pdfTeX warning (ext4): destination with t
-he same identifier (name{cite.lighten2014aa}) has been already used, duplicate 
-ignored
-<to be read again> 
-                   \relax 
-l.672   Bentzen}]{lighten2014aa}
-                                 [22]pdfTeX warning (ext4): destination with th
-e same identifier (name{cite.luikart2003power}) has been already used, duplicat
-e ignored
-<to be read again> 
-                   \relax 
-l.699   Taberlet}]{luikart2003power}
-                                    pdfTeX warning (ext4): destination with the
- same identifier (name{cite.Mannocci2012}) has been already used, duplicate ign
-ored
-<to be read again> 
-                   \relax 
-l.728   Dupuy, Barbraud \& Ridoux}]{Mannocci2012}
-                                                 pdfTeX warning (ext4): destina
-tion with the same identifier (name{cite.martinsohn2009fishpoptrace}) has been 
-already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.767 ...\bbletal{}}}]{martinsohn2009fishpoptrace}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.mastretta2015restriction}) has been a
-lready used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.775 ...ro \& Emerson}]{mastretta2015restriction}
-                                                   [23]pdfTeX warning (ext4): d
-estination with the same identifier (name{cite.mccormack2013next}) has been alr
-eady used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.782 ...k \& Faircloth(2013)}]{mccormack2013next}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.mccusker2010positive}) has been alrea
-dy used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.787 ... \& Bentzen(2010)}]{mccusker2010positive}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.mcmahon2014and}) has been already use
-d, duplicate ignored
-<to be read again> 
-                   \relax 
-l.805   H{\"o}glund}]{mcmahon2014and}
-                                     pdfTeX warning (ext4): destination with th
-e same identifier (name{cite.mikheyev2014first}) has been already used, duplica
-te ignored
-<to be read again> 
-                   \relax 
-l.817 ...ikheyev \& Tin(2014)}]{mikheyev2014first}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.MK06a}) has been already used, duplic
-ate ignored
-<to be read again> 
-                   \relax 
-l.835   Miyamoto}]{MK06a}
-                         pdfTeX warning (ext4): destination with the same ident
-ifier (name{cite.MPA}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.850 \bibitem[{NAP(2001)}]{MPA}
-                                 [24]pdfTeX warning (ext4): destination with th
-e same identifier (name{cite.newman2000stock}) has been already used, duplicate
- ignored
-<to be read again> 
-                   \relax 
-l.856   Lloyd}]{newman2000stock}
-                                pdfTeX warning (ext4): destination with the sam
-e identifier (name{cite.niu2010artificial}) has been already used, duplicate ig
-nored
-<to be read again> 
-                   \relax 
-l.886 ...0)Niu, Fu, Sun \& Li}]{niu2010artificial}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.novak2016predictive}) has been alread
-y used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.906 \bibitem[{Novak(2016)}]{novak2016predictive}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.o2015rare}) has been already used, du
-plicate ignored
-<to be read again> 
-                   \relax 
-l.919 ...th, Rieder \emph{\bbletal{}}}]{o2015rare}
-                                                   [25]pdfTeX warning (ext4): d
-estination with the same identifier (name{cite.peterson2012double}) has been al
-ready used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.950   Hoekstra}]{peterson2012double}
-                                      pdfTeX warning (ext4): destination with t
-he same identifier (name{cite.peyretaillade2011extreme}) has been already used,
- duplicate ignored
-<to be read again> 
-                   \relax 
-l.958   Delbac}]{peyretaillade2011extreme}
-                                          pdfTeX warning (ext4): destination wi
-th the same identifier (name{cite.pimm2014aa}) has been already used, duplicate
- ignored
-<to be read again> 
-                   \relax 
-l.966 ...a, Raven, Roberts \& Sexton}]{pimm2014aa}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.pogson1995genetic}) has been already 
-used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.997   Boutilier}]{pogson1995genetic}
-                                       [26]pdfTeX warning (ext4): destination w
-ith the same identifier (name{cite.pritchard2000inference}) has been already us
-ed, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1028   Donnelly}]{pritchard2000inference}
-                                            [27]pdfTeX warning (ext4): destinat
-ion with the same identifier (name{cite.rousset1997genetic}) has been already u
-sed, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1101 ...tem[{Rousset(1997)}]{rousset1997genetic}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.rousset2000genetic}) has been already
- used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1106 ...tem[{Rousset(2000)}]{rousset2000genetic}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.ryder1986species}) has been already u
-sed, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1116 \bibitem[{Ryder(1986)}]{ryder1986species}
-                                                pdfTeX warning (ext4): destinat
-ion with the same identifier (name{cite.schipper2008status}) has been already u
-sed, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1132   \emph{\bbletal{}}}]{schipper2008status}
-                                                pdfTeX warning (ext4): destinat
-ion with the same identifier (name{cite.selkoe2011marine}) has been already use
-d, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1145 ...lkoe \& Toonen(2011)}]{selkoe2011marine}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.shafer2015genomics}) has been already
- used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1158   \emph{\bbletal{}}}]{shafer2015genomics}
-                                                
-Underfull \hbox (badness 3108) in paragraph at lines 1159--1165
-[]\OT1/cmr/m/sc/12 Shafer AB\OT1/cmr/m/n/12 (+20) , \OT1/cmr/m/sc/12 Wolf JB\OT
-1/cmr/m/n/12 (+20) , \OT1/cmr/m/sc/12 Alves PC\OT1/cmr/m/n/12 (+20) , \OT1/cmr/
-m/sc/12 Berg-str[]om L\OT1/cmr/m/n/12 (+20) , \OT1/cmr/m/sc/12 Bru-ford MW\OT1/
-cmr/m/n/12 (+20) ,
+Underfull \hbox (badness 10000) in paragraph at lines 109--112
+[]\OT1/cmr/m/sc/12 Drake JW\OT1/cmr/m/n/12 (+20) , \OT1/cmr/m/sc/12 Charleswort
+h B\OT1/cmr/m/n/12 (+20) ,
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{cite.shendure
-2008next}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1171 ...Shendure \& Ji(2008)}]{shendure2008next}
-                                                   [28]pdfTeX warning (ext4): d
-estination with the same identifier (name{cite.shokralla2012next}) has been alr
-eady used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1176   Hajibabaei}]{shokralla2012next}
-                                        
-Overfull \hbox (1.69331pt too wide) in paragraph at lines 1177--1181
-\OT1/cmr/m/n/12 (-20) sequencing technologies for environmental dna research.  
-\OT1/cmr/m/it/12 (-20) Molecular ecology\OT1/cmr/m/n/12 (-20) , \OT1/cmr/bx/n/1
-2 21 \OT1/cmr/m/n/12 (-20) :1794--
+[8]
+Underfull \hbox (badness 6825) in paragraph at lines 159--164
+[]\OT1/cmr/m/sc/12 Garner BA\OT1/cmr/m/n/12 (+20) , \OT1/cmr/m/sc/12 Hand BK\OT
+1/cmr/m/n/12 (+20) , \OT1/cmr/m/sc/12 Amish
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{cite.spitz201
-1prey}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1201   Ridoux}]{spitz2011prey}
-                                pdfTeX warning (ext4): destination with the sam
-e identifier (name{cite.spitz2006diet}) has been already used, duplicate ignore
-d
-<to be read again> 
-                   \relax 
-l.1210   Ridoux}]{spitz2006diet}
-                                pdfTeX warning (ext4): destination with the sam
-e identifier (name{cite.stapley2010adaptation}) has been already used, duplicat
-e ignored
-<to be read again> 
-                   \relax 
-l.1217 ...kerman \& Slate}]{stapley2010adaptation}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.steiner2013conservation}) has been al
-ready used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1232   Ryder}]{steiner2013conservation}
-                                          [29]pdfTeX warning (ext4): destinatio
-n with the same identifier (name{cite.szulkin2016population}) has been already 
-used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1259   Charmantier}]{szulkin2016population}
-                                             pdfTeX warning (ext4): destination
- with the same identifier (name{cite.taberlet2012towards}) has been already use
-d, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1266 ...ann \& Willerslev}]{taberlet2012towards}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.tajima1989effect}) has been already u
-sed, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1272 \bibitem[{Tajima(1989)}]{tajima1989effect}
-                                                 pdfTeX warning (ext4): destina
-tion with the same identifier (name{cite.templeton2013dna}) has been already us
-ed, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1278 ...ak, Cooper \& Austin}]{templeton2013dna}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.waples1998separating}) has been alrea
-dy used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1318 ...em[{Waples(1998)}]{waples1998separating}
-                                                   [30]pdfTeX warning (ext4): d
-estination with the same identifier (name{cite.wilson2003bayesian}) has been al
-ready used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1362 ...n \& Rannala(2003)}]{wilson2003bayesian}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.zielinski2014development}) has been a
-lready used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1388 ...zal \& Babik}]{zielinski2014development}
-                                                  ) (./bu1.aux) (./bu.aux)
-(./bu2.aux)
+
+Overfull \hbox (1.11192pt too wide) in paragraph at lines 212--217
+\OT1/cmr/m/it/12 (-20) Lon-don B: Bi-o-log-i-cal Sci-ences\OT1/cmr/m/n/12 (-20)
+ , \OT1/cmr/bx/n/12 367\OT1/cmr/m/n/12 (-20) :395--
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 235--241
+[]\OT1/cmr/m/sc/12 Lam HY\OT1/cmr/m/n/12 (+20) , \OT1/cmr/m/sc/12 Pan C\OT1/cmr
+/m/n/12 (+20) , \OT1/cmr/m/sc/12 Clark MJ\OT1/cmr/m/n/12 (+20) ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--302
+[]\OT1/cmr/m/sc/12 McMahon BJ\OT1/cmr/m/n/12 (+20) , \OT1/cmr/m/sc/12 Teel-ing 
+EC \OT1/cmr/m/n/12 (+20) &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--302
+\OT1/cmr/m/n/12 (+20) should we im-ple-ment ge-nomics
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--314
+[]\OT1/cmr/m/sc/12 Mulligan C\OT1/cmr/m/n/12 (+20) , \OT1/cmr/m/sc/12 Kitchen A
+ \OT1/cmr/m/n/12 (+20) &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--314
+\OT1/cmr/m/sc/12 Miyamoto M \OT1/cmr/m/n/12 (+20) (2006) Com-ment
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 362--367
+\OT1/cmr/m/sc/12 Brooks TM\OT1/cmr/m/n/12 (+20) , \OT1/cmr/m/sc/12 Git-tle-man 
+JL\OT1/cmr/m/n/12 (+20) ,
+ []
+
+
+Underfull \hbox (badness 7722) in paragraph at lines 413--419
+\OT1/cmr/m/sc/12 Bergstr[]om L\OT1/cmr/m/n/12 (+20) , \OT1/cmr/m/sc/12 Bru-ford
+ MW\OT1/cmr/m/n/12 (+20) ,
+ []
+
+[11]) (./bu1.aux) (./bu.aux) [12] (./bu2.aux)
 \openout3 = `bu2.aux'.
 
- (./bu2.bbl (./babelbst.tex (./Frenchbst.tex))
-Underfull \vbox (badness 1728) has occurred while \output is active []
-
- [31]
-[32] [33]pdfTeX warning (ext4): destination with the same identifier (name{cite
-.hawkins2016fisheries}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.204 ...\emph{\bbletal{}}}]{hawkins2016fisheries}
-                                                   [34]pdfTeX warning (ext4): d
-estination with the same identifier (name{cite.Jonsson2016}) has been already u
-sed, duplicate ignored
-<to be read again> 
-                   \relax 
-l.254   Moksnes}]{Jonsson2016}
-                               [35]pdfTeX warning (ext4): destination with the 
-same identifier (name{cite.MPA}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.340 \bibitem[{NAP(2001)}]{MPA}
-                                 [36]pdfTeX warning (ext4): destination with th
-e same identifier (name{cite.ryder1986species}) has been already used, duplicat
-e ignored
-<to be read again> 
-                   \relax 
-l.439 \bibitem[{Ryder(1986)}]{ryder1986species}
-                                               pdfTeX warning (ext4): destinati
-on with the same identifier (name{cite.schipper2008status}) has been already us
-ed, duplicate ignored
-<to be read again> 
-                   \relax 
-l.454   \emph{\bbletal{}}}]{schipper2008status}
-                                                [37]) (./bu2.aux) (./bu.aux)
-[38] [39]
-Overfull \hbox (2.36511pt too wide) in paragraph at lines 380--381
+ [13]
+Overfull \hbox (2.36511pt too wide) in paragraph at lines 357--358
 []\OT1/cmr/m/n/12 (-20) L'inf^^Serence de leur struc-ture de po-pu-la-tion \OT1
 /cmr/m/it/12 (-20) via \OT1/cmr/m/n/12 (-20) l'uti-li-sa-tion de mar-queurs g^^
 Sen^^Setiques
  []
 
-[40] <concentrations.png, id=909, 1354.05875pt x 895.345pt>
+[14] <concentrations.png, id=575, 1354.05875pt x 895.345pt>
 File: concentrations.png Graphic file (type png)
 
 <use concentrations.png>
-Package pdftex.def Info: concentrations.png used on input line 394.
+Package pdftex.def Info: concentrations.png used on input line 371.
 (pdftex.def)             Requested size: 426.79135pt x 282.19911pt.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 401.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 378.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 401.
- [41] [42pdfTeX warning (ext4): destination with the same identifier (name{figu
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 378.
+ [15] [16pdfTeX warning (ext4): destination with the same identifier (name{figu
 re.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.406 
-       <./concentrations.png>] <photo.png, id=935, 470.75874pt x 96.36pt>
+l.383 
+       <./concentrations.png>] <photo.png, id=604, 470.75874pt x 96.36pt>
 File: photo.png Graphic file (type png)
 
 <use photo.png>
-Package pdftex.def Info: photo.png used on input line 409.
+Package pdftex.def Info: photo.png used on input line 386.
 (pdftex.def)             Requested size: 298.75264pt x 61.1526pt.
- [43pdfTeX warning (ext4): destination with the same identifier (name{figure.3}
+ [17pdfTeX warning (ext4): destination with the same identifier (name{figure.3}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.422 
+l.399 
        <./photo.png>]
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <12> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 435.
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 412.
 
 Underfull \vbox (badness 2799) has occurred while \output is active []
 
- [44]
-[45]
-Underfull \hbox (badness 10000) in paragraph at lines 455--456
+ [18]
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 432--433
 
  []
 
-[46]
+[20]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 476.
+(Font)              <5> on input line 453.
 
 
-Package natbib Warning: Citation `tajima1989' on page 47 undefined on input lin
-e 476.
+Package natbib Warning: Citation `tajima1989' on page 21 undefined on input lin
+e 453.
 
-[47]
+[21]
 
-LaTeX Warning: Reference `fig:lnpd' on page 48 undefined on input line 494.
-
-
-LaTeX Warning: Reference `fig:dic' on page 48 undefined on input line 494.
+LaTeX Warning: Reference `fig:lnpd' on page 22 undefined on input line 471.
 
 
-LaTeX Warning: Reference `fig:bic' on page 48 undefined on input line 495.
+LaTeX Warning: Reference `fig:dic' on page 22 undefined on input line 471.
 
-[48] <figure/lnpd-1.pdf, id=1082, 433.62pt x 158.5925pt>
+
+LaTeX Warning: Reference `fig:bic' on page 22 undefined on input line 472.
+
+[22] <figure/lnpd-1.pdf, id=780, 433.62pt x 158.5925pt>
 File: figure/lnpd-1.pdf Graphic file (type pdf)
 
 <use figure/lnpd-1.pdf>
-Package pdftex.def Info: figure/lnpd-1.pdf used on input line 499.
+Package pdftex.def Info: figure/lnpd-1.pdf used on input line 476.
 (pdftex.def)             Requested size: 426.79135pt x 156.10197pt.
- <figure/dic-1.pdf, id=1087, 433.62pt x 158.5925pt>
+ <figure/dic-1.pdf, id=785, 433.62pt x 158.5925pt>
 File: figure/dic-1.pdf Graphic file (type pdf)
 
 <use figure/dic-1.pdf>
-Package pdftex.def Info: figure/dic-1.pdf used on input line 510.
+Package pdftex.def Info: figure/dic-1.pdf used on input line 487.
 (pdftex.def)             Requested size: 426.79135pt x 156.10197pt.
- <figure/bic-1.pdf, id=1092, 433.62pt x 158.5925pt>
+ <figure/bic-1.pdf, id=790, 433.62pt x 158.5925pt>
 File: figure/bic-1.pdf Graphic file (type pdf)
 
 <use figure/bic-1.pdf>
-Package pdftex.def Info: figure/bic-1.pdf used on input line 522.
+Package pdftex.def Info: figure/bic-1.pdf used on input line 499.
 (pdftex.def)             Requested size: 426.79135pt x 156.10197pt.
 
 
-LaTeX Warning: Reference `fig:barplot' on page 49 undefined on input line 531.
+LaTeX Warning: Reference `fig:barplot' on page 23 undefined on input line 508.
 
-<figure/barplot-1.pdf, id=1098, 578.16pt x 144.54pt>
+<figure/barplot-1.pdf, id=796, 578.16pt x 144.54pt>
 File: figure/barplot-1.pdf Graphic file (type pdf)
-
-<use figure/barplot-1.pdf>
-Package pdftex.def Info: figure/barplot-1.pdf used on input line 535.
+ <use figure/barplot-1.pdf>
+Package pdftex.def Info: figure/barplot-1.pdf used on input line 512.
 (pdftex.def)             Requested size: 426.79135pt x 106.69766pt.
- [49pdfTeX warning (ext4): destination with the same identifier (name{figure.4}
-) has been already used, duplicate ignored
+
+[23pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
+ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.540 \end{figure}
+l.517 \end{figure}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{figure.5}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.540 \end{figure}
+l.517 \end{figure}
                    <./figure/lnpd-1.pdf> <./figure/dic-1.pdf>]
 
-LaTeX Warning: Reference `fig:barplot' on page 50 undefined on input line 544.
+LaTeX Warning: Reference `fig:barplot' on page 24 undefined on input line 521.
 
-<map_clusters_3.png, id=1121, 427.5975pt x 531.9875pt>
+<map_clusters_3.png, id=819, 427.5975pt x 531.9875pt>
 File: map_clusters_3.png Graphic file (type png)
-
-<use map_clusters_3.png>
-Package pdftex.def Info: map_clusters_3.png used on input line 565.
+ <use map_clusters_3.png>
+Package pdftex.def Info: map_clusters_3.png used on input line 542.
 (pdftex.def)             Requested size: 384.1096pt x 477.88329pt.
- [50pdfTeX warning (ext4): destination with the same identifier (name{figure.6}
-) has been already used, duplicate ignored
+
+[24pdfTeX warning (ext4): destination with the same identifier (name{figure.6})
+ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.571 
+l.548 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 7}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.571 
-       <./figure/bic-1.pdf> <./figure/barplot-1.pdf>] [51pdfTeX warning (ext4):
+l.548 
+       <./figure/bic-1.pdf> <./figure/barplot-1.pdf>] [25pdfTeX warning (ext4):
  destination with the same identifier (name{figure.8}) has been already used, d
 uplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.571 
-       <./map_clusters_3.png>] <DAPC.png, id=1155, 702.625pt x 532.99126pt>
+l.548 
+       <./map_clusters_3.png>] <DAPC.png, id=851, 702.625pt x 532.99126pt>
 File: DAPC.png Graphic file (type png)
 
 <use DAPC.png>
-Package pdftex.def Info: DAPC.png used on input line 574.
+Package pdftex.def Info: DAPC.png used on input line 551.
 (pdftex.def)             Requested size: 298.75264pt x 226.62808pt.
- <figure/lnpd2-1.pdf, id=1156, 433.62pt x 158.5925pt>
+ <figure/lnpd2-1.pdf, id=852, 433.62pt x 158.5925pt>
 File: figure/lnpd2-1.pdf Graphic file (type pdf)
 
 <use figure/lnpd2-1.pdf>
-Package pdftex.def Info: figure/lnpd2-1.pdf used on input line 584.
+Package pdftex.def Info: figure/lnpd2-1.pdf used on input line 561.
 (pdftex.def)             Requested size: 426.79135pt x 156.10197pt.
 
 
-LaTeX Warning: Reference `fig:lnpd2' on page 52 undefined on input line 593.
+LaTeX Warning: Reference `fig:lnpd2' on page 26 undefined on input line 570.
 
-[52pdfTeX warning (ext4): destination with the same identifier (name{table.1}) 
+[26pdfTeX warning (ext4): destination with the same identifier (name{table.1}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.594 
+l.571 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 9}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.594 
-       <./DAPC.png>] [53pdfTeX warning (ext4): destination with the same identi
+l.571 
+       <./DAPC.png>] [27pdfTeX warning (ext4): destination with the same identi
 fier (name{figure.10}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.654 
+l.631 
       pdfTeX warning (ext4): destination with the same identifier (name{table.2
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.654 
+l.631 
       pdfTeX warning (ext4): destination with the same identifier (name{table.3
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.654 
+l.631 
        <./figure/lnpd2-1.pdf>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `!tbp') on input line 655.
+               Default added (so using `!tbp') on input line 632.
 
-<reseau.png, id=1187, 881.2925pt x 480.79625pt>
+<reseau.png, id=885, 881.2925pt x 480.79625pt>
 File: reseau.png Graphic file (type png)
  <use reseau.png>
-Package pdftex.def Info: reseau.png used on input line 678.
+Package pdftex.def Info: reseau.png used on input line 655.
 (pdftex.def)             Requested size: 352.51076pt x 192.31508pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[54pdfTeX warning (ext4): destination with the same identifier (name{table.4}) 
+[28pdfTeX warning (ext4): destination with the same identifier (name{table.4}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.681 \FloatBarrier
+l.658 \FloatBarrier
                    pdfTeX warning (ext4): destination with the same identifier 
 (name{table.5}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.681 \FloatBarrier
+l.658 \FloatBarrier
                    ]
-Overfull \hbox (10.81061pt too wide) in paragraph at lines 690--691
+Overfull \hbox (10.81061pt too wide) in paragraph at lines 667--668
 []\OT1/cmr/m/n/12 (-20) Les grands dau-phins ^^Sechantillonn^^Ses lors de cette
  ^^Setude et les in-di-vi-dus m^^Sediterran^^Seens
  []
 
-[55pdfTeX warning (ext4): destination with the same identifier (name{figure.11}
+[29pdfTeX warning (ext4): destination with the same identifier (name{figure.11}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.694 U
+l.671 U
        ne population en MNO, dans laquelle on ne retrouve qu'uniquement des ...
- <./reseau.png>] [56]
-
-Package natbib Warning: Citation `lowther2014' on page 57 undefined on input li
-ne 704.
-
-
-Package natbib Warning: Citation `lowther2014' on page 57 undefined on input li
-ne 704.
-
-
+ <./reseau.png>] [30]
 Underfull \vbox (badness 4266) has occurred while \output is active []
 
- [57]
-[58] [59]
-\openout3 = `bu.aux'.
+ [31]
+[32] [33] (./bu2.bbl (./babelbst.tex (./Frenchbst.tex))
+Underfull \hbox (badness 5189) in paragraph at lines 30--36
+[]\OT1/cmr/m/sc/12 Baker CS\OT1/cmr/m/n/12 (+20) , \OT1/cmr/m/sc/12 Fl[]orez-Go
+nz[]alez L\OT1/cmr/m/n/12 (+20) ,
+ []
 
- (./Rapport.bbl (./babelbst.tex (./Frenchbst.tex))pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.GSFLX}) has been already used, duplic
-ate ignored
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--82
+[]\OT1/cmr/m/sc/12 Carnabuci M\OT1/cmr/m/n/12 (+20) , \OT1/cmr/m/sc/12 Schi-avo
+n G\OT1/cmr/m/n/12 (+20) ,
+ []
+
+
+Underfull \hbox (badness 6173) in paragraph at lines 85--90
+[]\OT1/cmr/m/sc/12 Cassens I\OT1/cmr/m/n/12 (+20) , \OT1/cmr/m/sc/12 Van Waere-
+beek K\OT1/cmr/m/n/12 (+20) ,
+ []
+
+
+Underfull \hbox (badness 6641) in paragraph at lines 113--120
+[]\OT1/cmr/m/sc/12 Dalebout ML\OT1/cmr/m/n/12 (+20) , \OT1/cmr/m/sc/12 Robert-s
+on KM\OT1/cmr/m/n/12 (+20) ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--120
+\OT1/cmr/m/sc/12 Frantzis A\OT1/cmr/m/n/12 (+20) , \OT1/cmr/m/sc/12 En-gel-haup
+t D\OT1/cmr/m/n/12 (+20) ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--120
+\OT1/cmr/m/n/12 (+20) World-wide struc-ture of mtDNA
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--120
+\OT1/cmr/m/n/12 (+20) di-ver-sity among Cu-vier's beaked
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--120
+\OT1/cmr/m/it/12 (+20) Molec-u-lar Ecol-ogy\OT1/cmr/m/n/12 (+20) , \OT1/cmr/bx/
+n/12 14\OT1/cmr/m/n/12 (+20) :3353--3371.
+ []
+
+[34]pdfTeX warning (ext4): destination with the same identifier (name{cite.hawk
+ins2016fisheries}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.13 \bibitem[{GSF(2011)}]{GSFLX}
-                                 pdfTeX warning (ext4): destination with the sa
-me identifier (name{cite.iontorrent}) has been already used, duplicate ignored
+l.193 ...\emph{\bbletal{}}}]{hawkins2016fisheries}
+                                                   [35]pdfTeX warning (ext4): d
+estination with the same identifier (name{cite.Jonsson2016}) has been already u
+sed, duplicate ignored
 <to be read again> 
                    \relax 
-l.17 \bibitem[{ion(2014)}]{iontorrent}
-                                      pdfTeX warning (ext4): destination with t
-he same identifier (name{cite.illumina}) has been already used, duplicate ignor
-ed
-<to be read again> 
-                   \relax 
-l.21 \bibitem[{ill(2014)}]{illumina}
-                                    pdfTeX warning (ext4): destination with the
- same identifier (name{cite.baily1992detection}) has been already used, duplica
-te ignored
-<to be read again> 
-                   \relax 
-l.26   Stoker}]{baily1992detection}
-                                   pdfTeX warning (ext4): destination with the 
-same identifier (name{cite.baird2008aa}) has been already used, duplicate ignor
-ed
-<to be read again> 
-                   \relax 
-l.34 ..., Selker, Cresko \& Johnson}]{baird2008aa}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.bazin2006population}) has been alread
-y used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.42   Galtier}]{bazin2006population}
-                                     pdfTeX warning (ext4): destination with th
-e same identifier (name{cite.beerli2001maximum}) has been already used, duplica
-te ignored
-<to be read again> 
-                   \relax 
-l.47 ... \& Felsenstein(2001)}]{beerli2001maximum}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.bonin2004aa}) has been already used, 
-duplicate ignored
-<to be read again> 
-                   \relax 
-l.55 ...anon, Brochmann \& Taberlet}]{bonin2004aa}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.broquet2009molecular}) has been alrea
-dy used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.61 ...uet \& Petit(2009)}]{broquet2009molecular}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.casiraghi2016}) has been already used
-, duplicate ignored
-<to be read again> 
-                   \relax 
-l.68   Bruno \& Labra}]{casiraghi2016}
-                                      pdfTeX warning (ext4): destination with t
-he same identifier (name{cite.corander2003bayesian}) has been already used, dup
-licate ignored
-<to be read again> 
-                   \relax 
-l.74   Sillanp{\"a}{\"a}}]{corander2003bayesian}
-                                                pdfTeX warning (ext4): destinat
-ion with the same identifier (name{cite.crandall2000}) has been already used, d
-uplicate ignored
-<to be read again> 
-                   \relax 
-l.80   Wayne}]{crandall2000}
-                            pdfTeX warning (ext4): destination with the same id
-entifier (name{cite.crutzen23ff}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.86 \bibitem[{Crutzen(2002)}]{crutzen23ff}
-                                           pdfTeX warning (ext4): destination w
-ith the same identifier (name{cite.davey2010radseq}) has been already used, dup
-licate ignored
-<to be read again> 
-                   \relax 
-l.90 ...{Davey \& Blaxter(2010)}]{davey2010radseq}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.davey2011genome}) has been already us
-ed, duplicate ignored
-<to be read again> 
-                   \relax 
-l.96   \& Blaxter}]{davey2011genome}
-                                    pdfTeX warning (ext4): destination with the
- same identifier (name{cite.dewoody2000microsatellite}) has been already used, 
-duplicate ignored
-<to be read again> 
-                   \relax 
-l.102 ... Avise(2000)}]{dewoody2000microsatellite}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.drake1998rates}) has been already use
-d, duplicate ignored
-<to be read again> 
-                   \relax 
-l.108   Crow}]{drake1998rates}
+l.243   Moksnes}]{Jonsson2016}
                               
-Underfull \hbox (badness 10000) in paragraph at lines 109--112
-[]\OT1/cmr/m/sc/10.95 (+20) Drake JW\OT1/cmr/m/n/10.95 (+20) , \OT1/cmr/m/sc/10
-.95 (+20) Charlesworth B\OT1/cmr/m/n/10.95 (+20) ,
+Underfull \hbox (badness 10000) in paragraph at lines 258--263
+[]\OT1/cmr/m/sc/12 Kr[]utzen M\OT1/cmr/m/n/12 (+20) , \OT1/cmr/m/sc/12 Sher-win
+ WB\OT1/cmr/m/n/12 (+20) ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--112
-\OT1/cmr/m/sc/10.95 (+20) Charlesworth D \OT1/cmr/m/n/10.95 (+20) & \OT1/cmr/m/
-sc/10.95 (+20) Crow JF
+Underfull \hbox (badness 5939) in paragraph at lines 288--292
+\OT1/cmr/m/it/12 (+20) ^^Secologique et g^^Sen^^Setique du grand
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{cite.ekblom20
-14field}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.113 ...[{Ekblom \& Wolf(2014)}]{ekblom2014field}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.Ey06}) has been already used, duplica
-te ignored
-<to be read again> 
-                   \relax 
-l.118 \bibitem[{Eyre-Walker(2006)}]{Ey06}
-                                         pdfTeX warning (ext4): destination wit
-h the same identifier (name{cite.franccois2010spatially}) has been already used
-, duplicate ignored
-<to be read again> 
-                   \relax 
-l.123 ...\& Durand(2010)}]{franccois2010spatially}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.frost2016}) has been already used, du
-plicate ignored
-<to be read again> 
-                   \relax 
-l.129 ...on, Stoker \& Withers~Harvey}]{frost2016}
-                                                   [60]pdfTeX warning (ext4): d
-estination with the same identifier (name{cite.funk2012harnessing}) has been al
-ready used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.138   Allendorf}]{funk2012harnessing}
-                                       pdfTeX warning (ext4): destination with 
-the same identifier (name{cite.gagnaire2015aa}) has been already used, duplicat
-e ignored
-<to be read again> 
-                   \relax 
-l.144 ... Arnaud-Haond \& Bierne}]{gagnaire2015aa}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.galtsoff1930fecundity}) has been alre
-ady used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.152 ...[{Galtsoff(1930)}]{galtsoff1930fecundity}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.garner2015genomics}) has been already
- used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.158   \emph{\bbletal{}}}]{garner2015genomics}
-                                               pdfTeX warning (ext4): destinati
-on with the same identifier (name{cite.gomez2009systematic}) has been already u
-sed, duplicate ignored
-<to be read again> 
-                   \relax 
-l.166   Schmidt}]{gomez2009systematic}
-                                      
-Underfull \hbox (badness 6316) in paragraph at lines 167--170
-\OT1/cmr/m/sc/10.95 (+20) TM \OT1/cmr/m/n/10.95 (+20) (2009) Sys-tem-atic ar-ti
--facts in
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 342--346
+[]\OT1/cmr/m/sc/12 Natoli A\OT1/cmr/m/n/12 (+20) , \OT1/cmr/m/sc/12 Ped-de-mors
+ VM \OT1/cmr/m/n/12 (+20) &
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{cite.guillot2
-012}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{cite.ryder198
+6species}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.172   Claude}]{guillot2012}
-                             pdfTeX warning (ext4): destination with the same i
-dentifier (name{cite.haas2011chimeric}) has been already used, duplicate ignore
-d
-<to be read again> 
-                   \relax 
-l.180   \emph{\bbletal{}}}]{haas2011chimeric}
-                                             pdfTeX warning (ext4): destination
- with the same identifier (name{cite.hallfors2015addressing}) has been already 
-used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.189 ... Wu \& Hellmann}]{hallfors2015addressing}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.hawkins2016fisheries}) has been alrea
-dy used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.198 ...\emph{\bbletal{}}}]{hawkins2016fisheries}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.hayden20141}) has been already used, 
-duplicate ignored
-<to be read again> 
-                   \relax 
-l.206 \bibitem[{Hayden(2014)}]{hayden20141}
-                                           pdfTeX warning (ext4): destination w
-ith the same identifier (name{cite.hohenlohe2012extensive}) has been already us
-ed, duplicate ignored
-<to be read again> 
-                   \relax 
-l.211   Cresko}]{hohenlohe2012extensive}
-                                        pdfTeX warning (ext4): destination with
- the same identifier (name{cite.huang2000analysis}) has been already used, dupl
-icate ignored
-<to be read again> 
-                   \relax 
-l.219   Hanna}]{huang2000analysis}
-                                  pdfTeX warning (ext4): destination with the s
-ame identifier (name{cite.Jonsson2016}) has been already used, duplicate ignore
-d
-<to be read again> 
-                   \relax 
-l.226   Moksnes}]{Jonsson2016}
-                              pdfTeX warning (ext4): destination with the same 
-identifier (name{cite.lam2012detecting}) has been already used, duplicate ignor
-ed
-<to be read again> 
-                   \relax 
-l.234   \emph{\bbletal{}}}]{lam2012detecting}
-                                             
-Underfull \hbox (badness 10000) in paragraph at lines 235--241
-\OT1/cmr/m/sc/10.95 (+20) P\OT1/cmr/m/n/10.95 (+20) , \OT1/cmr/m/sc/10.95 (+20)
- Chen R\OT1/cmr/m/n/10.95 (+20) , \OT1/cmr/m/sc/10.95 (+20) Haraks-ingh R\OT1/c
-mr/m/n/10.95 (+20) ,
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{cite.latch200
-6relative}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.243   Rhodes~Jr}]{latch2006relative}
-                                      pdfTeX warning (ext4): destination with t
-he same identifier (name{cite.lighten2014aa}) has been already used, duplicate 
-ignored
-<to be read again> 
-                   \relax 
-l.251   Bentzen}]{lighten2014aa}
-                                 [61]pdfTeX warning (ext4): destination with th
-e same identifier (name{cite.luikart2003power}) has been already used, duplicat
-e ignored
-<to be read again> 
-                   \relax 
-l.257   Taberlet}]{luikart2003power}
-                                    pdfTeX warning (ext4): destination with the
- same identifier (name{cite.Mannocci2012}) has been already used, duplicate ign
-ored
-<to be read again> 
-                   \relax 
-l.264   Dupuy, Barbraud \& Ridoux}]{Mannocci2012}
-                                                 pdfTeX warning (ext4): destina
-tion with the same identifier (name{cite.martinsohn2009fishpoptrace}) has been 
-already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.272 ...\bbletal{}}}]{martinsohn2009fishpoptrace}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.mastretta2015restriction}) has been a
-lready used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.280 ...ro \& Emerson}]{mastretta2015restriction}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.mccormack2013next}) has been already 
-used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.287 ...k \& Faircloth(2013)}]{mccormack2013next}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.mccusker2010positive}) has been alrea
-dy used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.292 ... \& Bentzen(2010)}]{mccusker2010positive}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.mcmahon2014and}) has been already use
-d, duplicate ignored
-<to be read again> 
-                   \relax 
-l.298   H{\"o}glund}]{mcmahon2014and}
-                                     pdfTeX warning (ext4): destination with th
-e same identifier (name{cite.mikheyev2014first}) has been already used, duplica
-te ignored
-<to be read again> 
-                   \relax 
-l.303 ...ikheyev \& Tin(2014)}]{mikheyev2014first}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.MK06a}) has been already used, duplic
-ate ignored
-<to be read again> 
-                   \relax 
-l.309   Miyamoto}]{MK06a}
-                         pdfTeX warning (ext4): destination with the same ident
-ifier (name{cite.MPA}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.315 \bibitem[{NAP(2001)}]{MPA}
-                                pdfTeX warning (ext4): destination with the sam
-e identifier (name{cite.newman2000stock}) has been already used, duplicate igno
-red
-<to be read again> 
-                   \relax 
-l.321   Lloyd}]{newman2000stock}
-                                pdfTeX warning (ext4): destination with the sam
-e identifier (name{cite.niu2010artificial}) has been already used, duplicate ig
-nored
-<to be read again> 
-                   \relax 
-l.328 ...0)Niu, Fu, Sun \& Li}]{niu2010artificial}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.novak2016predictive}) has been alread
-y used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.334 \bibitem[{Novak(2016)}]{novak2016predictive}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.o2015rare}) has been already used, du
-plicate ignored
-<to be read again> 
-                   \relax 
-l.341 ...th, Rieder \emph{\bbletal{}}}]{o2015rare}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.peterson2012double}) has been already
- used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.350   Hoekstra}]{peterson2012double}
-                                      pdfTeX warning (ext4): destination with t
-he same identifier (name{cite.peyretaillade2011extreme}) has been already used,
- duplicate ignored
-<to be read again> 
-                   \relax 
-l.358   Delbac}]{peyretaillade2011extreme}
-                                          pdfTeX warning (ext4): destination wi
-th the same identifier (name{cite.pimm2014aa}) has been already used, duplicate
- ignored
-<to be read again> 
-                   \relax 
-l.366 ...a, Raven, Roberts \& Sexton}]{pimm2014aa}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.pogson1995genetic}) has been already 
-used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.374   Boutilier}]{pogson1995genetic}
-                                       [62]pdfTeX warning (ext4): destination w
-ith the same identifier (name{cite.pritchard2000inference}) has been already us
-ed, duplicate ignored
-<to be read again> 
-                   \relax 
-l.381   Donnelly}]{pritchard2000inference}
-                                          pdfTeX warning (ext4): destination wi
-th the same identifier (name{cite.rousset1997genetic}) has been already used, d
-uplicate ignored
-<to be read again> 
-                   \relax 
-l.386 ...item[{Rousset(1997)}]{rousset1997genetic}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.rousset2000genetic}) has been already
- used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.391 ...item[{Rousset(2000)}]{rousset2000genetic}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.ryder1986species}) has been already u
-sed, duplicate ignored
-<to be read again> 
-                   \relax 
-l.395 \bibitem[{Ryder(1986)}]{ryder1986species}
+l.397 \bibitem[{Ryder(1986)}]{ryder1986species}
                                                pdfTeX warning (ext4): destinati
 on with the same identifier (name{cite.schipper2008status}) has been already us
 ed, duplicate ignored
 <to be read again> 
                    \relax 
-l.402   \emph{\bbletal{}}}]{schipper2008status}
-                                               pdfTeX warning (ext4): destinati
-on with the same identifier (name{cite.selkoe2011marine}) has been already used
-, duplicate ignored
-<to be read again> 
-                   \relax 
-l.410 ...elkoe \& Toonen(2011)}]{selkoe2011marine}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.shafer2015genomics}) has been already
- used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.417   \emph{\bbletal{}}}]{shafer2015genomics}
-                                               
-Underfull \hbox (badness 10000) in paragraph at lines 418--424
-\OT1/cmr/m/sc/10.95 (+20) Bergstr[]om L\OT1/cmr/m/n/10.95 (+20) , \OT1/cmr/m/sc
-/10.95 (+20) Bru-ford MW\OT1/cmr/m/n/10.95 (+20) ,
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{cite.shendure
-2008next}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.425 ...{Shendure \& Ji(2008)}]{shendure2008next}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.shokralla2012next}) has been already 
-used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.430   Hajibabaei}]{shokralla2012next}
-                                       pdfTeX warning (ext4): destination with 
-the same identifier (name{cite.spitz2011prey}) has been already used, duplicate
- ignored
-<to be read again> 
-                   \relax 
-l.437   Ridoux}]{spitz2011prey}
-                               pdfTeX warning (ext4): destination with the same
- identifier (name{cite.spitz2006diet}) has been already used, duplicate ignored
-
-<to be read again> 
-                   \relax 
-l.446   Ridoux}]{spitz2006diet}
-                               pdfTeX warning (ext4): destination with the same
- identifier (name{cite.stapley2010adaptation}) has been already used, duplicate
- ignored
-<to be read again> 
-                   \relax 
-l.453 ...ckerman \& Slate}]{stapley2010adaptation}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.steiner2013conservation}) has been al
-ready used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.461   Ryder}]{steiner2013conservation}
-                                        pdfTeX warning (ext4): destination with
- the same identifier (name{cite.szulkin2016population}) has been already used, 
-duplicate ignored
-<to be read again> 
-                   \relax 
-l.467   Charmantier}]{szulkin2016population}
-                                            pdfTeX warning (ext4): destination 
-with the same identifier (name{cite.taberlet2012towards}) has been already used
-, duplicate ignored
-<to be read again> 
-                   \relax 
-l.474 ...mann \& Willerslev}]{taberlet2012towards}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.tajima1989effect}) has been already u
-sed, duplicate ignored
-<to be read again> 
-                   \relax 
-l.480 \bibitem[{Tajima(1989)}]{tajima1989effect}
-                                                pdfTeX warning (ext4): destinat
-ion with the same identifier (name{cite.templeton2013dna}) has been already use
-d, duplicate ignored
-<to be read again> 
-                   \relax 
-l.486 ...aak, Cooper \& Austin}]{templeton2013dna}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.waples1998separating}) has been alrea
-dy used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.493 ...tem[{Waples(1998)}]{waples1998separating}
-                                                   [63]pdfTeX warning (ext4): d
-estination with the same identifier (name{cite.wilson2003bayesian}) has been al
-ready used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.498 ...on \& Rannala(2003)}]{wilson2003bayesian}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.zielinski2014development}) has been a
-lready used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.504 ...czal \& Babik}]{zielinski2014development}
-                                                  ) [64] (./Rapport.lof)
+l.412   \emph{\bbletal{}}}]{schipper2008status}
+                                                [37]) (./bu2.aux) (./bu.aux)
+[38] (./Rapport.lof)
 \tf@lof=\write5
 \openout5 = `Rapport.lof'.
 
-
-(./Rapport.lot)
+ (./Rapport.lot)
 \tf@lot=\write6
 \openout6 = `Rapport.lot'.
 
@@ -2308,25 +1236,28 @@ l.504 ...czal \& Babik}]{zielinski2014development}
 \tf@zzz=\write7
 \openout7 = `Rapport.zzz'.
 
- [65]
+ [39]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 740.
+               Default added (so using `tbp') on input line 715.
+
+(./bu3.aux)
+\openout3 = `bu3.aux'.
 
 
-Overfull \hbox (1.58911pt too wide) in paragraph at lines 810--810
+Overfull \hbox (1.58911pt too wide) in paragraph at lines 785--785
  []|\OT1/cmr/m/n/6 Longueur 
  []
 
 
-Overfull \hbox (11.62643pt too wide) in paragraph at lines 810--810
+Overfull \hbox (11.62643pt too wide) in paragraph at lines 785--785
  []|\OT1/cmr/m/n/6 (TG)13CT(TG)2CA(TG)2(TA)2(TG)4| 
  []
 
-./Rapport.tex:810: Undefined control sequence.
+./Rapport.tex:785: Undefined control sequence.
 <argument> ...ing 0.2 & \centering 55 & \centerin 
                                                   & \centering GATTGTGCAAATG...
-l.810  \end{tabular}}
+l.785  \end{tabular}}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2334,29 +1265,29 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./Rapport.tex:810: Extra alignment tab has been changed to \cr.
+./Rapport.tex:785: Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
-l.810  \end{tabular}}
+l.785  \end{tabular}}
                      
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
 
-Overfull \hbox (44.14433pt too wide) in paragraph at lines 810--810
+Overfull \hbox (44.14433pt too wide) in paragraph at lines 785--785
  []|\OT1/cmr/m/n/6 GATTGTGCAAATGGAGACA 
  []
 
 
-Overfull \hbox (7.86052pt too wide) in paragraph at lines 810--810
+Overfull \hbox (7.86052pt too wide) in paragraph at lines 785--785
  \OT1/cmr/m/n/6 GACTCCTGTGGG| 
  []
 
-./Rapport.tex:810: Undefined control sequence.
+./Rapport.tex:785: Undefined control sequence.
 <argument> ...ing 0.2 & \centering 55 & \centerin 
                                                   & \centering TGCACTGTAGGGT...
-l.810  \end{tabular}}
+l.785  \end{tabular}}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2364,55 +1295,72 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./Rapport.tex:810: Extra alignment tab has been changed to \cr.
+./Rapport.tex:785: Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
-l.810  \end{tabular}}
+l.785  \end{tabular}}
                      
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
 
-Overfull \hbox (60.66553pt too wide) in paragraph at lines 810--810
+Overfull \hbox (60.66553pt too wide) in paragraph at lines 785--785
  []|\OT1/cmr/m/n/6 TGCACTGTAGGGTGTTCAGCAG 
  []
 
 
-Overfull \hbox (2.81099pt too wide) in paragraph at lines 810--810
+Overfull \hbox (2.81099pt too wide) in paragraph at lines 785--785
  \OT1/cmr/m/n/6 TAATTGGGGGC- 
  []
 
 
-Overfull \hbox (7.29176pt too wide) in paragraph at lines 781--812
+Overfull \hbox (7.29176pt too wide) in paragraph at lines 756--787
 [][]
  []
 
 
-LaTeX Warning: Float too large for page by 12.83162pt on input line 814.
+LaTeX Warning: Float too large for page by 12.83162pt on input line 789.
 
-[66pdfTeX warning (ext4): destination with the same identifier (name{table.6}) 
+[40pdfTeX warning (ext4): destination with the same identifier (name{table.6}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.815 \FloatBarrier
-                   ] [67pdfTeX warning (ext4): destination with the same identi
+l.790 \FloatBarrier
+                   ] [41pdfTeX warning (ext4): destination with the same identi
 fier (name{figure.12}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.815 \FloatBarrier
-                   ] [0]
+l.790 \FloatBarrier
+                   ] (./bu3.bbl (./babelbst.tex (./Frenchbst.tex))pdfTeX warnin
+g (ext4): destination with the same identifier (name{cite.hoelzel1998genetic}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.14   Best}]{hoelzel1998genetic}
+                                 pdfTeX warning (ext4): destination with the sa
+me identifier (name{cite.phdLouis2014}) has been already used, duplicate ignore
+d
+<to be read again> 
+                   \relax 
+l.28 \bibitem[{Louis(2014)}]{phdLouis2014}
+                                          
+Underfull \hbox (badness 5939) in paragraph at lines 29--33
+\OT1/cmr/m/it/12 (+20) ^^Secologique et g^^Sen^^Setique du grand
+ []
 
-./Rapport.tex:843: LaTeX Error: \begin{otherlanguage} on input line 834 ended b
+) (./bu3.aux) (./bu.aux) [42] [0]
+
+./Rapport.tex:826: LaTeX Error: \begin{otherlanguage} on input line 819 ended b
 y \end{center}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.843 \end{center}
+l.826 \end{center}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2422,37 +1370,34 @@ or  <return>  to continue without it.
 Package natbib Warning: There were undefined citations.
 
 
-Package natbib Warning: There were multiply defined citations.
-
-
 AED: lastpage setting LastPage
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.845 \end{document}
+l.835 \end{document}
                      [1]
 
-./Rapport.tex:845: LaTeX Error: \begin{center} on input line 826 ended by \end{
+./Rapport.tex:835: LaTeX Error: \begin{center} on input line 811 ended by \end{
 document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.845 \end{document}
+l.835 \end{document}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 845.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 845.
-(./Rapport.aux (./bu.aux) (./bu.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 845.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 845.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 835.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 835.
+(./Rapport.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 835.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 835.
 Package rerunfilecheck Info: File `Rapport.out' has not changed.
-(rerunfilecheck)             Checksum: AA061AACDB9E69264560D18393F17428;1275.
+(rerunfilecheck)             Checksum: E127B5149B9E49386316DD64461774FA;1108.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2466,16 +1411,16 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
  )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 826 (\begingroup)
+### semi simple group (level 1) entered at line 811 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 13755 strings out of 493117
- 207104 string characters out of 6135434
- 373949 words of memory out of 5000000
- 16138 multiletter control sequences out of 15000+600000
- 31777 words of font info for 247 fonts, out of 8000000 for 9000
+ 13049 strings out of 493117
+ 192488 string characters out of 6135434
+ 364646 words of memory out of 5000000
+ 15735 multiletter control sequences out of 15000+600000
+ 26123 words of font info for 177 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,14n,43p,4875b,1013s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,14n,47p,4875b,1030s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/c
@@ -2500,12 +1445,11 @@ ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/loc
 al/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/loca
 l/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local
 /texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/t
-exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/te
-xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Rapport.pdf (73 pages, 4500556 bytes).
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on Rapport.pdf (48 pages, 4386213 bytes).
 PDF statistics:
- 1597 PDF objects out of 1728 (max. 8388607)
- 1448 compressed objects within 15 object streams
- 416 named destinations out of 1000 (max. 500000)
- 37084 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 1288 PDF objects out of 1440 (max. 8388607)
+ 1168 compressed objects within 12 object streams
+ 257 named destinations out of 1000 (max. 500000)
+ 34500 words of extra memory for PDF output out of 35830 (max. 10000000)
 
