@@ -22,8 +22,6 @@
 % Création de 2 styles d'en-têtes et pieds de page : 1 pour le corps du texte et un pour la page de garde toc, etc
 \usepackage{etoolbox,lastpage,fancyhdr}
 
-
-
 \fancypagestyle{plain}{%
   \fancyhf{}%
   \fancyfoot{}%
@@ -37,7 +35,7 @@
   \fancyhead[R]{\emph{Master SPE}}
   \fancyfoot[L]{\emph{Pierre-Louis Stenger}}
   \fancyfoot[C]{}
-  \fancyfoot[R]{\thepage\ / \pageref{LastPage}}
+  \fancyfoot[R]{\thepage\ / 43}
   \renewcommand{\headrulewidth}{0.4pt}
   \renewcommand{\footrulewidth}{0.4pt}
 }
@@ -60,22 +58,26 @@
 \newfloat{enca}{htpb}{zzz}
 \floatname{enca}{Encadré}
 
+% Bibliographie multiple
+\usepackage{bibunits}
+
+\usepackage{changepage}
 
 \begin{document}
+
+% -------------------- Page de présentation --------------------
 
 \begin{titlepage}
   \begin{sffamily}
   \begin{center}
-
-% -------------------- Page de présentation --------------------
-
+	  
 \thispagestyle{empty}
 
    \begin{figure}
       \begin{minipage}[c]{.1\linewidth}
          \includegraphics[scale=0.25, left]{GIS3Mlogo}
       \end{minipage} \hfill
-	  \centering\textsc{\Large Université de La Rochelle}
+	  \centering\textsc{\Large Université de La Rochelle}\hspace{1cm}
       \begin{minipage}[c]{.15\linewidth}
          \includegraphics[scale=0.06, right]{logoU}
       \end{minipage}
@@ -107,15 +109,14 @@
 		\& \\
 		\textrm{\large{Hélène}} \textsc{\large{Labach}}
 
-
     \vfill
-
     % Bottom of the page
     {\large Janvier 2016 — Juin 2016}
 
   \end{center}
   \end{sffamily}
 \end{titlepage}
+
 
 % -------------------- Remerciements--------------------
 
@@ -125,9 +126,9 @@
  \textsc{\LARGE Remerciements}\\[2cm]
 \end{center}
 
-Je voudrais en premier lieu te remercier chaleureusement Benoit, tout d'abord pour ce stage que tu as rendu possible, dans ce domaine pour lequel tu m'as fait prendre goût en écoutant tes cours de Génétique des Populations sur les bancs de la fac, mais aussi pour la pédagogie et la patience dont tu as fait preuve devant mes questions et mes interrogations chaque fois que ce fût nécessaire. Entre le méli-mélo de fichiers, les codes incorrects ou les heures de débuggages sur le Li-Cor, il en aura fallut de la patience ! Je n'aurai jamais autant appris en si peu de temps. Encore merci.
+Je voudrais en premier lieu te remercier chaleureusement Benoit, tout d'abord pour ce stage que tu as rendu possible, dans ce domaine pour lequel tu m'as fait prendre goût en écoutant tes cours de Génétique des Populations sur les bancs de la fac, mais aussi pour la pédagogie et la patience dont tu as fait preuve devant mes questions et mes interrogations chaque fois que ce fût nécessaire. Entre le méli-mélo de fichiers, les codes incorrects ou les heures de débuggages sur le Li-Cor, il en aura fallut de la patience ! Je n'aurais jamais autant appris en si peu de temps. Encore merci.
  
-Un grand merci à toi Hélène, qui sans toi non plus, ce stage n'aurait pas pu ce réaliser. Malgré la distance tu as su être présente quand il le fallait, que cela soit par mail, téléphone ou Skype. Encore merci pour ces quelques jours passés sur Marseille où j'ai pu assister au déroulement du Workshop et rencontrer toutes ces personnes extraordinaires !
+Un grand merci à toi Hélène, qui sans toi non plus, ce stage n'aurait pas pu se réaliser. Malgré la distance tu as su être présente quand il le fallait, que cela soit par mail, téléphone ou Skype. Encore merci pour ces quelques jours passés à Marseille où j'ai pu assister au déroulement du Workshop et rencontrer toutes ces personnes extraordinaires !
 
 Encore un grand merci à vous deux.
 
@@ -142,18 +143,27 @@ Un merci tout particulier à mes collègues stagiaires de bureau, et collègues 
 Et enfin merci à mes parents, qui ont permis la réalisation de mes études, qui ont toujours étaient là pour moi et sans qui je n'aurais pas pu faire ce qui me plait aujourd'hui.
 
 \newpage
+\tableofcontents
+
+
+\newpage
+\listoffigures  % table des figures
+\listoftables   % table des tableaux
+\listof{enca}{Liste des encadrés}
+
+\newpage
 
 % -------------------- Description de la structure d'acceuil--------------------
 
 \begin{center}
- \textsc{\LARGE Description de la structure d'acceuil}\\[2cm]
+ \textsc{\LARGE Description de la structure d'accueil}\\[2cm]
 \end{center}
+\pagenumbering{arabic} \setcounter{page}{1} 
+\addcontentsline{toc}{section}{Description de la structure d'accueil}
 
-Le LIENSs (LIttoral ENvironnement et Sociétés - UMR 7266) est une Unité Mixte de Recherche (CNRS / Université de La Rochelle) qui met en avant sa pluridisciplinarité afin de répondre aux enjeux du développement durable en lien avec le littoral.
+La structure d'accueil de ce stage fut le Centre d’Études Biologiques de Chizé qui est une unité mixte de recherche (UMR 7372 – CNRS (Centre National de Recherche Scientifique) – Université de La Rochelle). Ce centre est composé de trois équipes de recherche. Ce stage a été fait au sein de l’équipe « Prédateurs marins » qui recherche notamment les conséquences de la variabilité climatique et océanique sur la distribution des ressources ainsi que sur la démographie des prédateurs marins.
 
-J’ai été accueilli par l’équipe AMARE (Réponses des Animaux MARins à la variabilité Environnementale) du LIENSs. Leurs activités de recherche permettent une meilleure description et compréhension des réponses physiologiques comportementales ainsi que des capacités adaptatives des organismes des milieux littoraux soumis à des contraintes forçantes (climatiques & anthropiques). 
-
-C'est ici que j'ai pu réaliser toutes les analyses génétiques (en laboratoire et sur logiciels) avec le Dr Benoit Simon-Bouhet.
+Le laboratoire d'accueil fût LIENSs (LIttoral ENvironnement et Sociétés - UMR 7266) est une Unité Mixte de Recherche (CNRS / Université de La Rochelle) qui met en avant sa pluridisciplinarité afin de répondre aux enjeux du développement durable en lien avec le littoral. C'est ici que j'ai pu réaliser toutes les analyses génétiques (en laboratoire et sur logiciels) avec le Dr Benoit Simon-Bouhet.
 
 ~~\\
 
@@ -163,45 +173,29 @@ L’objectif du GIS3M est de favoriser l'association des compétences dans le do
 
 Je n'ai pas pu être sur le site de l'association du GIS3M à Sausset-les-Pins, mais j'ai eu l'occasion de me déplacer sur Marseille du 29 novembre au 3 décembre 2015 afin de pouvoir rencontrer les membres de l'association, de participer à une réunion des partenaires du projet GDEGeM (Grand Dauphin Etude et Gestion en Méditerranée) dans lequel s'est inscrit ce stage. Cette réunion s'est déroulée à la DREAL (Direction Régionale de l'Environnement, de l'Aménagement et du Logement) de Marseille. J'ai aussi pu assister et aider à la mise en place de l'``International Workshop Bottlenose dolphin conservation and monitoring in the North-Western Mediterranean Sea'' qui s'est déroulé à la Villa Méditerranée de Marseille les 1 et 2 décembre.
 
+
 \newpage
 
 \title{{\Huge État de l'art}\\[3pc]Séquençage haut débit et inférences de la structure de populations : perspectives nouvelles et limites}
 \author{Pierre-Louis \textsc{Stenger}}
 \date{}
-%\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-%\begin{document}
+
 \frontmatter
 
 \maketitle 
 
-
-
-%\begin{BCouleur}  % Début fond gris
-
-%\begin{abstract}
-%Résumé
-%\end{abstract}
-
-
-%\end{BCouleur} % Fin fond gris
 ~~\\
-\textbf{Mots clés:} \emph{NGS, Population, Génétique, Conservation}
+\textbf{Mots clés:} \emph{NGS, Population, Génétique, Conservation, Structure de population}
 ~~\\
 
 \newpage
 
-% \tableofcontents
-\listoffigures  % table des figures
-\listoftables   % table des tableaux
-\listof{enca}{Liste des encadrés}
-
 \mainmatter
 
-v
-\pagenumbering{arabic} \setcounter{page}{1} 
+%\pagenumbering{arabic} \setcounter{page}{1} 
 
-%\secounter{page}{1} 
-
+\begin {bibunit} [newbst]
+\addcontentsline{toc}{section}{État de l'art} 
 Le taux d'extinction des espèces animales à la surface du globe est actuellement 1000 fois supérieur au taux normal supposé \citep{pimm2014aa}. Les conséquences des actions anthropiques sur l'environnement en général et sur la biodiversité en particulier sont telles que certains auteurs n'hésitent pas à parler d'anthropocène pour caractériser l'ère géologique dans laquelle l'Homme semble avoir fait entrer la Terre depuis la fin du XIX\ieme{}~siècle \citep{crutzen23ff}. Dans ce contexte, les efforts de protection de la biodiversité et de conservation des espèces sont plus que jamais d'actualité.\footnote{Google Scholar indique par exemple que 398 articles publiés en 2015 contiennent, dans leur titre, l'expression ``biodiversity conservation''.} Depuis le milieu du XX\ieme{}~siècle, la prise de conscience de l'impact des activités humaines sur le milieu marin a conduit le législateur à créer des zones de protection en mer comme avec le double objectif de maintenir les activités humaines tout en protégeant la biodiversité \citep{frost2016} L'efficacité des aires marines protégées repose sur la détermination préalable de la structure des populations, qui est très difficile à déterminer en milieu marin \citep{Jonsson2016} pour deux raisons principales:
 
 \begin{enumerate}
@@ -306,21 +300,23 @@ Les NGS présentent aussi des difficultés liées à la puissance de calcul néc
 
 Malgré ces nombreuses difficultés, la puissance des NGS permet aujourd'hui d'envisager des avancées rapides en terme de conservation \citep{shafer2015genomics}. L'identification de structure de populations à très fine échelle \citep{o2015rare} ou l'obtention de très grandes quantité de données génétiques sur des espèces difficiles à observer et échantilloner sur le terrain (e.g. le grand dauphin \emph{Tursiops truncatus}, \citealp{schipper2008status}) sont autant de facteurs clés pour l'identification d'ESU (Evolutionary Significant Unit, \citealp{ryder1986species}) et la mise en place de MU (Management Unit, \citealp{hawkins2016fisheries}) indispensables à la conservation des espèces \citep{casiraghi2016}.
 
-\begin{otherlanguage}{english}
-	\singlespacing
-	\begin{multicols}{2}[\section*{Références bibliographiques}]
-		\begingroup
-		\def\chapter*#1{}
-		\small
-		\footnotesize
-		\bibliographystyle{newbst}
-		\bibliography{BibliographieEA}
-		\endgroup
+
+\newpage
+	\begin{otherlanguage}{english}
+		\singlespacing
+		\begin{multicols}{2}[]
+		\putbib [BibliographieEA]
 	\end{multicols}
 \end{otherlanguage}
 
+\end {bibunit}
+
+
 \newpage
 
+
+\begin {bibunit} [newbst]
+\addcontentsline{toc}{section}{Rapport}
 \section{Introduction}
 
 Dans les eaux méditerranéennes françaises, les aires marines protégées incluant 2 parcs nationaux, 1 parc marin, 36 (ZSC) Zones Spéciales de Conservation ou ZPS (Zones de Protection Spéciales) et 5 ASPIM (Aire Spécialement Protégée d’Importance Méditerranéenne), couvrent 34\% de la ZEE (Zone Économique Exclusive) \citep{workshop}. Ce réseau de protection est justifié par le fait que la mer Méditerranée est un point chaud de la biodiversité marine \citep{coll2010biodiversity}. Néanmoins, les tendances temporelles indiquent que la surexploitation et que la destruction de l'habitat ont été les principaux facteurs humains impliquants des changements historiques dans la biodiversité \citep{danovaro2003pollution, coll2010biodiversity}. Tous ces impacts devraient croître en importance à l'avenir, en particulier avec le changement climatique et la dégradation de l'habitat \citep{coll2012mediterranean}. 
@@ -329,13 +325,13 @@ L’inférence de la structure des populations est capitale pour la mise en plac
 
 Les populations sont aussi définies comme des unités d'organismes avec des dynamiques autonomes et le recrutement d'individus permettant des métissages \citep{krutzen2004population}. Définir les limites d'une population donnée est une condition préalable non seulement à des fins de gestion tels que la définition des unités significatives de l'évolution (ESU\footnote{Une ESU est une population d'organismes qui est considérée comme distincte à des fins de conservation .}) \citep{hoelzel1998genetic, carnabuci2016} ou dans le management de ces unités (MU\footnote{Les MU sont définis comme des populations qui ont des fréquences différentes d'allèles , mais ne montrent pas nécessairement des différences fixes entre les populations}) \citep{ryder1986species, hawkins2016fisheries}, mais aussi pour étudier l'évolution de la structure au sein d'une population \citep{carnabuci2016}. Cependant, la détermination préalable de la structure des populations est très difficile à déterminer en milieu marin \citep{Jonsson2016}. De plus, 23\% des espèces de mammifères marins sont actuellement menacées d’extinction \citep{schipper2008status}. 
 
-Cependant, en dépit de leur capacité de nage développées, les mammifères marins montrent souvent une structure de population à petite échelle, bien que la mesure varie selon les espèces \citep{hoelzel2002low}. Dans cette étude, nous étudions la structure de la population pour une espèce marine sociale avec une grande mobilité: le grand dauphin \emph{Tursiops truncatus}, Montagu, 1821.
+Cependant, en dépit de leur capacité de nage développée, les mammifères marins montrent souvent une structure de population à petite échelle, bien que la mesure varie selon les espèces \citep{hoelzel2002low}. Dans cette étude, nous étudions la structure de la population pour une espèce marine sociale avec une grande mobilité: le grand dauphin \emph{Tursiops truncatus}, Montagu, 1821.
 
 Bien que les \emph{Tursiops truncatus} sont parmi les cétacés les plus connus dans la Mer Méditerranée, les études de ce cétacé n'ont commencé qu'à la fin des années $1980$ \citep{bearzi2009ecology}. Les enjeux de conservation sont pourtant importants pour cette espèce patrimoniale. 
 
-Un réel besoin de connaissances sur leur structure de population se fait ressentir. De plus, ces dauphins ont été qualifiés comme ``vulnérable'' selon l'Union Internationale pour la Conservation de la Nature selon les critères de la Liste rouge \citep{bearzi2006common}. Cette espèce a aussi été inscrite sur l'annexe II de la directive Habitats de l'UE dans la région méditerranéenne \citep{Laran2016}. L'objectif général est de maintenir (ou de restaurer) l'espèce à un état de conservation favorable \citep{evans2004monitoring}. Cela nécessite des informations sur la structure des populations.
+Un réel besoin de connaissances sur leur structure de population se fait ressentir. De plus, ces dauphins ont été qualifiés comme ``vulnérables'' selon l'Union Internationale pour la Conservation de la Nature selon les critères de la Liste rouge \citep{bearzi2006common}. Cette espèce a aussi été inscrite sur l'annexe II de la directive Habitats de l'UE dans la région méditerranéenne \citep{Laran2016}. L'objectif général est de maintenir (ou de restaurer) l'espèce à un état de conservation favorable \citep{evans2004monitoring}. Cela nécessite des informations sur la structure des populations.
 
-L'inférence de leur structure de population \emph{via} l'utilisation de marqueurs génétiques comme les microsatellites et mitochondriaux s'avère être pertinent pour ce cas d'étude \citep{natoli2004molecular}. En effet, malgré l'absence de barrière environnementales au flux de gènes, les processus environnementaux historiques et spécialisations écologiques peuvent conduire à une différenciation génétique chez les animaux très mobiles \citep{natoli2005habitat, louis2014}. Les microsatellites sont des marqueurs d'ADN\footnote{Acide désoxyribonucléique} nucléaires avec une héridité bi-parentale \citep{jarne1996microsatellites}. Les microsatellites sont des séquences nucléotidiques courtes de deux à quatre paires de bases répétées en tandem, largement intercalés dans le génome eucaryote\footnote{Organismes uni- ou pluricellulaires qui se caractérisent par la présence d'un noyau} dans les parties non codantes \citep{estoup2002homoplasy}. Les microsatellites sont des marqueurs hautement informatifs car ils ont un polymorphisme\footnote{Désigne la coexistence de plusieurs allèles pour un gène ou locus donné} extrêmement variable et sont généralement considérés comme neutres (ne subissant pas la sélection) \citep{jarne1996microsatellites}. L'ADN mitochondrial est une molécule circulaire et haploïde \citep{avise1987intraspecific}. Chez les mammifères, il est maternellement hérité et non soumis à la recombinaison. L'absence de recombinaison permet la détection d'événements évolutifs passés tels que les migrations, les goulots d'étranglement, les isolements de la population dans les différentes lignées maternelles \citep{avise1987intraspecific, excoffier1992analysis}. L'analyse combinée de ces marqueurs est particulièrement utile dans les espèces ayant un comportement social complexe \citep{natoli2004molecular}. En raison de mode d'évolution contrastés suivant leur héritage, il est possible d'avoir un aperçu de la structure des espèces \citep{natoli2005habitat}.
+L'inférence de leur structure de population \emph{via} l'utilisation de marqueurs génétiques comme les microsatellites et mitochondriaux s'avère être pertinents pour ce cas d'étude \citep{natoli2004molecular}. En effet, malgré l'absence de barrières environnementales au flux de gènes, les processus environnementaux historiques et spécialisations écologiques peuvent conduire à une différenciation génétique chez les animaux très mobiles \citep{natoli2005habitat, louis2014}. Les microsatellites sont des marqueurs d'ADN\footnote{Acide désoxyribonucléique} nucléaires avec une héridité bi-parentale \citep{jarne1996microsatellites}. Les microsatellites sont des séquences nucléotidiques courtes de deux à quatre paires de bases répétées en tandem, largement intercalés dans le génome eucaryote\footnote{Organismes uni- ou pluricellulaires qui se caractérisent par la présence d'un noyau} dans les parties non codantes \citep{estoup2002homoplasy}. Les microsatellites sont des marqueurs hautement informatifs car ils ont un polymorphisme\footnote{Désigne la coexistence de plusieurs allèles pour un gène ou locus donné} extrêmement variable et sont généralement considérés comme neutres (ne subissant pas la sélection) \citep{jarne1996microsatellites}. L'ADN mitochondrial est une molécule circulaire et haploïde \citep{avise1987intraspecific}. Chez les mammifères, il est maternellement hérité et non soumis à la recombinaison. L'absence de recombinaison permet la détection d'événements évolutifs passés tels que les migrations, les goulots d'étranglement, les isolements de la population dans les différentes lignées maternelles \citep{avise1987intraspecific, excoffier1992analysis}. L'analyse combinée de ces marqueurs est particulièrement utile dans les espèces ayant un comportement social complexe \citep{natoli2004molecular}. En raison de mode d'évolution contrasté suivant leur héritage, il est possible d'avoir un aperçu de la structure des espèces \citep{natoli2005habitat}.
 
 Ainsi, un échantillonnage de tissus d'individus trouvés échoués sur les côtes méditerranéennes ainsi que l'obtention de biopsies réalisées lors de campagnes en mer ont permis d'obtenir un jeu de données d'individus des côtes languedociennes, de Corse et d’Italie. Les données générées lors de cette étude ont été analysées conjointement avec des données générées par Marie Louis lors de son doctorat \citep{phdLouis2014}, notamment celles concernant la Méditerranée et la façade Atlantique de la Péninsule Ibérique. Les inférences de structure de populations ont été réalisées sur la base de ce jeu de données étendu. Pour caractériser ces populations, des indices de diversité génétique ont été calculés pour les données microsatellites et mitochondriales.
 
@@ -345,7 +341,7 @@ Ces résultats permettront d'apporter de nouvelles informations sur la distribut
 \section{Matériel et méthodes} 
 
 \subsection{Collecte des échantillons} 
-Au cours de cette étude, 122 échantillons de tissus (peau, $N= 60$, muscle, $N= 37$, rein, $N= 21$, foie, $N= 1$, gencive, $N= 3$) issus de 67 individus des côtes languedociennes, de Corse et d'Italie (voir figure~\ref{fig:concentration}) ont été analysés. Ces échantillons sont en partie issus de la banque de réseau national d'échouage français ($N= 46$, individus échoués entre 2001 et 2015) géré par l'Unité Mixte de Recherche PELAGIS (UMS 3462) et d'une part issus de programmes de biopsies ($N= 16$, biopsies collectées par l'association GIS3M (Groupement d'Intérêt Scientifique pour les Mammifères Marins de Méditerranée), l'association GECEM (Groupe d'Etude des Cétacés de Méditerranée) et l'association BREACH (Des voiles pour les cétacés, étudier, protéger et connaitre les mammifères marins aux Antilles et en Méditerranée). Enfin, 5 échantillons d'individus échoués en Italie ont été fournis par le Dr Marco Ballardini\footnote{MSc, Sezione di Medicina Legale e Scienze Forensi A. Fornari, via Forlanini 12, 27100 Pavia}. La plupart des échantillons est conservée dans l'éthanol (70\%) et les biopsies les plus récentes ont été congelées. Pour chaque échantillon, un morceau de tissu de 0.5 cm$^3$ a été prélevé en vue des extractions d'ADN.
+Au cours de cette étude, 122 échantillons de tissus (peau, $N= 60$, muscle, $N= 37$, rein, $N= 21$, foie, $N= 1$, gencive, $N= 3$) issus de 67 individus des côtes languedociennes, de Corse et d'Italie (voir figure~\ref{fig:concentration}) ont été analysés. Ces échantillons sont en partie issus de la banque de réseau national d'échouage français ($N= 46$, individus échoués entre 2001 et 2015) géré par l'Unité Mixte de Recherche PELAGIS (UMS 3462) et d'une part issus de programmes de biopsies ($N= 16$), biopsies collectées par l'association GIS3M (Groupement d'Intérêt Scientifique pour les Mammifères Marins de Méditerranée), l'association GECEM (Groupe d'Etude des Cétacés de Méditerranée) et l'association BREACH (Des voiles pour les cétacés, étudier, protéger et connaitre les mammifères marins aux Antilles et en Méditerranée). Enfin, 5 échantillons d'individus échoués en Italie ont été fournis par le Dr Marco Ballardini\footnote{MSc, Sezione di Medicina Legale e Scienze Forensi A. Fornari, via Forlanini 12, 27100 Pavia}. La plupart des échantillons est conservée dans l'éthanol (70\%) et les biopsies les plus récentes ont été congelées. Pour chaque échantillon, un morceau de tissu de 0.5 cm$^3$ a été prélevé en vue des extractions d'ADN.
 
 \begin{figure}[htbp]
 	\centering
@@ -525,7 +521,7 @@ Enfin, les regroupements produits par la DAPC sont tout à fait cohérents avec 
 \begin{figure}[htbp]
 	\centering
 		\includegraphics[width=.7\textwidth]{DAPC}
-	\caption{La DAPC présente bien les trois clusters distinctement. Le cluster 1 (rose) correspond à la population des individus de la Méditerranée Nord Occidentale (MNO), le cluster 2 (bleu) à la population des individus de Gibraltar et le cluster 3 (violet) à la population des individus de Galice. Le graphique des ``DA eigenvalues'' correspond au pourcentage d'information porté par les axes. L'axe un (horizontal) porte environ 90 pour-cent d'information, et l'axe deux (vertical) en porte environ 10. Les composantes principales sont elles mêmes des combinaisons linéaires des variables de départ, c'est à dire des loci. Les individus proches sont alors ceux qui ont des allèles comparables}
+	\caption[DAPC]{La DAPC présente bien les trois clusters distinctement. Le cluster 1 (rose) correspond à la population des individus de la Méditerranée Nord Occidentale (MNO), le cluster 2 (bleu) à la population des individus de Gibraltar et le cluster 3 (violet) à la population des individus de Galice. Le graphique des ``DA eigenvalues'' correspond au pourcentage d'information porté par les axes. L'axe un (horizontal) porte environ 90 pour-cent d'information, et l'axe deux (vertical) en porte environ 10. Les composantes principales sont elles mêmes des combinaisons linéaires des variables de départ, c'est à dire des loci. Les individus proches sont alors ceux qui ont des allèles comparables.}
 	\label{fig:DAPC}
 \end{figure}
 
@@ -629,95 +625,57 @@ Le taux de migrants entre population a aussi était calculé, avec 2.605 migrant
 Pour ce réseau, basé sur les données mitochondriales, cinq individus provenant d'Italie ont été volontairement coloriés (en marron). Ces individus non pas pu être exploités pour les données microsatellites.
 Ce réseau de 32 haplotypes (réalisé à partir des données placées sous Network) démontre que la population de Galice (Haplotypes 13 et 32) est relativement à part. Les individus italiens sont relativement bien répartis dans ce réseau, comme les deux autres populations (de MNO et de Gibraltar). Ce qui démontrent un échange d'individus entre ces trois populations, mais un échange faible avec la population galicienne.
 
-\section*{Discussion} 
+\section{Discussion} 
 
-Les résultats de cette étude ont révélé différents degrés de différenciation génétique dans la zone d'étude de la Méditerranée étendue à la Galice. Un schéma global de structuration de la population a été détectée par DAPC et les cartes de krigeage, et, dans une moindre mesure, par une approche de classification bayésienne. Les données d'ADN mitochondrial et microsatellites ont révélé une plus forte divergence entre les sites d'échantillonnage géographiquement éloignés (e.g. Galice et Méditerranée Nord Occidentale (MNO)).
+Les résultats de cette étude ont révélé différents degrés de différenciation génétique dans la zone d'étude de la Méditerranée étendue à la Galice. Un schéma global de structuration de la population a été détecté par DAPC et les cartes de krigeage, et, dans une moindre mesure, par une approche de classification bayésienne. Les données d'ADN mitochondrial et microsatellite ont fait ressortir une plus forte divergence entre les sites d'échantillonnage géographiquement éloignés (e.g. Galice et Méditerranée Nord Occidentale (MNO)).
 
 Les grands dauphins échantillonnés lors de cette étude et les individus méditerranéens collectés par Marie Louis seraient répartis en trois populations dans la Méditerranée étendue à la Galice: 
 
-Une population galicienne, présentant majoritairement des individus autochtones à cette région, exception faite pour deux individus appartenant à cette population retrouvés en MNO. 
+Une population galicienne, présentant majoritairement des individus autochtones à cette région, exception faite pour deux individus retrouvés en MNO et appartenant à cette population . 
 
-Une population en MNO, dans laquelle on ne retrouve qu'uniquement des individus de ce milieu ci. Aucun autre individu rattaché à une autre population n'y a été échantillonnés. 
+Une population en MNO, dans laquelle on retrouve uniquement des individus de ce milieu ci. Aucun autre individu rattaché à une autre population n'y a été échantillonné. 
 
-Et enfin une population provenant de Gibraltar, qui présente essentiellement des individus échantillonnés en Andalousie, mais aussi des individus retrouvés en Galice et en MNO. 
+Enfin une population provenant de Gibraltar, présentant essentiellement des individus échantillonnés en Andalousie, mais aussi des individus retrouvés en Galice et en MNO. 
 
-Les cartes de krigeage ont montrées que des individus du sud de la Corse sont rattachés à la population de Gibraltar. L'étude de la sous-structure de population en MNO n'a pourtant démontrée la présence que d'une seule population dans cette région. Les individus provenant d'Italie n'ont pas pu être intégrés aux données microsatellites, ainsi il n'a pas était possible d'établir si ils faisaient partis uniquement de l'ensemble de MNO, ou au contraire, si ils se serraient rattachés à ces individus du sud de la Corse, et peut-être démontré la présence d'une sous-population. Néanmoins, les données des individus italiens ont pu être utilisés via l'ADN mitochondrial. Celles-ci ont démontré avec le réseau d'haplotypes que les individus italiens présentent des haplotypes partagés avec l'ensemble des populations de MNO et de Gibraltar. Les individus italiens seraient alors bien intégrés à l'ensemble d'une seule et même population en MNO, du fait des haplotypes échangés, et donc d'échanges d'individus. Un échantillonnage plus intense, et couvrant une zone plus large permettrait concrètement de lever le doute sur la présence d'une sous-population avec des individus du sud de la Corse. \citet{carnabuci2016} ont réalisé une étude des réseaux de \emph{Tursiops truncatus} dans le sanctuaire Pelagos à partir de données de photo-identifications. Il semblerait qu'il y ait cinq groupes vivant dans ce sanctuaire. Un groupe Alpha vivant au Nord de la Méditerranée le long des côtes italiennes, un groupe Beta vivant au nord ouest de la corse, un groupe Epsilon vivant dans le sud de la France et au nord est de la Corse, un groupe Delta vivant dans l'archipel toscan, et enfin un groupe Gamma vivant au sud de la Corse. Ce groupe Gamma pourrait être celui des individus retrouvés au sud de la Corse dans notre étude et qui ne faisaient pas parti du cluster MNO selon les cartes de krigeage.
+Les cartes de krigeage ont montré que des individus du sud de la Corse sont rattachés à la population de Gibraltar. L'étude de la sous-structure de population en MNO n'a pourtant démontré la présence que d'une seule population dans cette région. Les individus provenant d'Italie n'ont pas pu être intégrés aux données microsatellites. Ainsi il n'a pas été possible d'établir s'ils faisaient partis uniquement de l'ensemble de MNO, ou au contraire, s'ils se serraient rattachés à ces individus du sud de la Corse, et peut-être démontreraient la présence d'une sous-population. Néanmoins, les données des individus italiens ont pu être utilisées \emph{via} l'ADN mitochondrial. Celles-ci ont démontré avec le réseau d'haplotypes que les individus italiens présentent des haplotypes partagés avec l'ensemble des populations de MNO et de Gibraltar. Les individus italiens seraient alors bien intégrés à l'ensemble d'une seule et même population en MNO, du fait des haplotypes échangés, et donc d'échanges d'individus. Un échantillonnage plus intense, et couvrant une zone plus large permettrait concrètement de lever le doute sur la présence d'une sous-population avec des individus du sud de la Corse. \citet{carnabuci2016} ont réalisé une étude des réseaux de \emph{Tursiops truncatus} dans le sanctuaire Pelagos à partir de données de photo-identifications. Il semblerait qu'il y ait cinq groupes vivant dans ce sanctuaire. Un groupe Alpha vivant au Nord de la Méditerranée le long des côtes italiennes, un groupe Beta vivant au nord ouest de la Corse, un groupe Epsilon vivant dans le sud de la France et au nord est de la Corse, un groupe Delta vivant dans l'archipel toscan, et enfin un groupe Gamma vivant au sud de la Corse. Ce groupe Gamma pourrait être celui des individus retrouvés au sud de la Corse dans notre étude et qui ne faisait pas parti du cluster MNO selon les cartes de krigeage.
 
-\citet{natoli2005habitat} ont aussi utilisé des microsatellites pour différencier les différentes populations des \emph{Tursiops} sur certaines régions de Méditerranée, et ils ont trouvé une divergence entre les populations de la Mer Tyrrhénienne et d'Espagne. Cependant, des individus de la Mer Tyrrhénienne appartenaient à la population de la Mer Adriatique. Nos individus italiens ayant été échantillonnés en Mer Tyrrhénienne mais semblant faire parti de la population de MNO, il se pourrait qu'il y ait une population plus large regroupant la MNO, la Mer Tyrrhénienne et la Mer Adriatique. Néanmoins, les individus du sud de la Corse sèment le doute. Soit ils font partis d'une petite population, soit ils s'inscrivent dans un sous ensemble bien plus grand mais non échantillonnés (e.g. Sardaigne, côtes de l'Afrique du Nord..). Il faudrait pouvoir acquérir des données microsatellites pour des individus d'Italie et plus d'individus du sud de la Corse afin de pouvoir trancher.
+\citet{natoli2005habitat} ont aussi utilisé des microsatellites pour différencier les populations des \emph{Tursiops} sur certaines régions de Méditerranée, et ils ont trouvé une divergence entre les populations de la Mer Tyrrhénienne et d'Espagne. Cependant, des individus de la Mer Tyrrhénienne appartenaient à la population de la Mer Adriatique. Nos individus italiens ayant été échantillonnés en Mer Tyrrhénienne mais semblant faire partis de la population de MNO, il se pourrait qu'il y ait une population plus large regroupant la MNO, la Mer Tyrrhénienne et la Mer Adriatique. Néanmoins, les individus du sud de la Corse sèment le doute. Soit ils font partis d'une petite population, soit ils s'inscrivent dans un sous-ensemble bien plus grand mais non échantillonné (e.g. Sardaigne, côtes de l'Afrique du Nord..). Il faudrait pouvoir acquérir des données microsatellites pour des individus d'Italie et plus d'individus du sud de la Corse afin de pouvoir trancher.
 
-Les individus de la Mer Méditerranée ont été considérés comme vivant dans des zones côtières dans les études précédentes \citep{natoli2004population, natoli2005habitat}, ce qui contraste avec le niveau élevé de diversité génétique trouvé dans cette étude et qui indiquent des populations pélagiques. Selon \citet{gnone2011distribution}, certains groupes côtiers seraient résidents mais des mouvements ont été signalés entre la Corse et la France, ce qui indique que les individus ont traversé les eaux pélagiques. De plus, l'utilisation de l'habitat pélagique a été confirmée par des relevés aériens menés pendant l'hiver 2011/2012 où les dauphins étaient principalement vus en eau profonde ($> 200$ mètres) \citep{louis2014}.
+Les individus de la Mer Méditerranée ont été considérés comme vivant dans des zones côtières dans les études précédentes \citep{natoli2004population, natoli2005habitat}, ce qui contraste avec le niveau élevé de diversité génétique trouvé dans cette étude et qui indique des populations pélagiques. Selon \citet{gnone2011distribution}, certains groupes côtiers seraient résidents mais des mouvements ont été signalés entre la Corse et la France, ce qui suppose que les individus ont traversé les eaux pélagiques. De plus, l'utilisation de l'habitat pélagique a été confirmée par des relevés aériens menés pendant l'hiver 2011/2012 où les dauphins étaient principalement vus en eau profonde ($> 200$ mètres) \citep{louis2014}.
 
-Le réseau d'haplotypes présente les individus galiciens comme étant en marge des autres populations, car les deux haplotypes présents (H13 et H32) sont en bout de branche du réseau, ce qui pourrait signifier une divergence évolutive. De plus, la population galicienne présente un nombre de sites polymorphiques deux fois moins important que les deux autres populations (16 sites polymorphes pour la Galice, contre 30 pour Gibraltar et 28 pour la MNO), ce qui pourrait signifier un brassage génétique avec des individus proches. En outre, les indices de diversité haplotypiques et nucléotidiques sont les plus faibles pour cette population, ce qui démontre une population avec une faible diversité génétique, donc avec peu d'échanges inter-populationnels. Un équilibre mutation/dérive génétique se fait au sein des populations, et est mesuré par cet indice de diversité nucléotidique. Cet indice est le facteur du taux de mutation et de la taille de population par quatre. Le taux de mutation est ici plus faible que les autres populations (nombre de sites polymorphiques) mais la taille de cette population est aussi bien plus faible que les deux autres (18 contre 52 et 39 individus). Ceci pourrait expliquer ce faible taux de diversité. Le D de Tajima est quant à lui très faible (même négatif) pour la population galicienne, ce qui démontre que les individus ont beaucoup d'allèles en commun. De plus, le $F_\textrm{IS}$ calculé avec les données microsatellites pour la population galicienne prouve un taux de consanguinité certes faible ($0.1433$, pvalue: $0.092$), et comparable avec des valeurs similaires dans la littérature \citep{louis2014, phdLouis2014}, mais qui est de loin le plus fort en comparaison avec les autres populations (sept fois plus important que Gibraltar, et 14 fois plus que la MNO). La population galicienne serait donc bien en marge des autres populations et présenterait peu d'échanges avec les autres populations. Cependant, des individus échantillonnés en Galice appartiennent à la population de Gibraltar. L'explication de ce cas pourrait être apporté par le fait que la Galice présenterai deux populations selon \citet{louis2014}. Une population serait pélagique et une autre côtière. \citet{lowther2014} présentent des indices de diversités nucléotidiques ($Pi$ = $0.005$) similaires pour leurs individus côtiers comparés aux individus Galiciens ($Pi$ = $0.006$), et des indices de diversités nucléotidiques similaires pour leurs individus pélagiques ($Pi$ = $0.022$) comparés aux individus de Gibraltar ($Pi$ = $0.012$) et de MNO ($Pi$ = $0.011$) de notre étude. De plus, dans leur étude, \citet{lowther2014} présentent aussi des richesses alléliques supérieures pour les populations pélagiques, et inférieures pour les populations côtières. La population de notre étude présentant la richesse allélique la plus faible est la population de Galice ($6$, contre $7.6205$ pour Gibraltar et $8.1162$ pour la MNO). La population côtière pourrait être celle qui échange peu d'individus avec les autres populations, ce qui expliquerait les faibles taux des indices de diversité trouvé dans la population galicienne. Les individus pélagiques pourraient donc former une population à part entière, et du fait de leur pélagicité rencontrer différentes populations comme celles de Gibraltar. En d'autres termes, des individus de la population pélagique de Gibraltar pourraient se mélanger occasionnellement à la population pélagique galicienne. La population pélagique galicienne et la population côtière galicienne n'aurait pas ou peu d'échanges d'individus selon \citet{louis2014}. \citep{duffield1983hematology} ont comparé l'hématocrite\footnote{ Pourcentage relatif du volume des cellules circulant dans le sang par rapport au volume total du sang} de populations côtières et pélagiques de \emph{Tursiops} de Floride. Les dauphins du large présentent des valeurs d'hématocrite plus fortes par rapport aux côtiers. Des croisements en captivité de dauphins des deux écotypes ont produits des animaux avec des profils hématologiques intermédiaires, ce qui indique que des facteurs génétiques sont en grande partie responsables des différences entre les deux écotypes. Des populations de grands dauphins vivant sur une même zone géographique mais avec deux comportements différents peuvent donc bien être séparés génétiquement. Cette différence de niche écologique pourrait s'être orchestré selon une préférence alimentaire. Mais selon l'étude de \citet{gaspari2015population}, l'analyse des isotopes stables des individus dans l'Adriatique centrale montre que les grands dauphins changent facilement de proie, dépendant probablement de la disponibilité des proies \citep{holcer2012ecology}.
+Le réseau d'haplotypes présente les individus galiciens comme étant en marge des autres populations, car les deux haplotypes présents (H13 et H32) sont en bout de branche du réseau. Cela qui pourrait signifier une divergence évolutive. De plus, la population galicienne présente un nombre de sites polymorphiques deux fois moins importants que les deux autres populations (16 sites polymorphes pour la Galice, contre 30 pour Gibraltar et 28 pour la MNO), ce qui pourrait signifier un brassage génétique avec des individus proches. En outre, les indices de diversité haplotypiques et nucléotidiques sont les plus faibles pour cette population, ce qui démontre une population avec une faible diversité génétique, donc avec peu d'échanges inter-populationnels. Un équilibre mutation/dérive génétique se fait au sein des populations, et est mesuré par cet indice de diversité nucléotidique. Cet indice est le facteur du taux de mutation et de la taille de population par quatre. Le taux de mutation est ici plus faible que les autres populations (nombre de sites polymorphiques) mais la taille de cette population est aussi bien plus faible que les deux autres (18 contre 52 et 39 individus). Ceci pourrait expliquer ce faible taux de diversité. Le D de Tajima est quant à lui très faible (même négatif) pour la population galicienne, démontrant ainsi que les individus ont beaucoup d'allèles en commun. De plus, le $F_\textrm{IS}$ calculé avec les données microsatellites pour la population galicienne fait émerger un taux de consanguinité faible ($0.1433$, pvalue: $0.092$), et comparable avec des valeurs similaires dans la littérature \citep{louis2014, phdLouis2014}. Toutefois il est de loin le plus fort en comparaison avec les autres populations (sept fois plus important que Gibraltar, et 14 fois plus que la MNO). La population galicienne serait donc bien en marge des autres populations et présenterait peu d'échanges avec les autres populations. Cependant, des individus échantillonnés en Galice appartiennent à la population de Gibraltar. L'explication de ce cas pourrait être apportée par le fait que la Galice présenterait deux populations selon \citet{louis2014}. Une population serait pélagique et une autre côtière. \citet{lowther2014} présentent des indices de diversités nucléotidiques ($Pi$ = $0.005$) similaires pour leurs individus côtiers comparés aux individus Galiciens ($Pi$ = $0.006$), et des indices de diversités nucléotidiques similaires pour leurs individus pélagiques ($Pi$ = $0.022$) comparés aux individus de Gibraltar ($Pi$ = $0.012$) et de MNO ($Pi$ = $0.011$) de notre étude. De plus, dans leur étude, \citet{lowther2014} exposent aussi des richesses alléliques supérieures pour les populations pélagiques, et inférieures pour les populations côtières. La population de notre étude présentant la richesse allélique la plus faible est la population de Galice ($6$, contre $7.6205$ pour Gibraltar et $8.1162$ pour la MNO). La population côtière pourrait être celle qui échange peu d'individus avec les autres populations, ce qui expliquerait les faibles taux des indices de diversité trouvés dans la population galicienne. Les individus pélagiques pourraient donc former une population à part entière, et du fait de leur pélagicité, rencontrer différentes populations comme celles de Gibraltar. En d'autres termes, des individus de la population pélagique de Gibraltar pourraient se mélanger occasionnellement à la population pélagique galicienne. Cette dernière ainsi que la population côtière galicienne n'auraient pas ou peu d'échanges d'individus selon \citet{louis2014}. \citet{duffield1983hematology} ont comparé l'hématocrite\footnote{ Pourcentage relatif du volume des cellules circulant dans le sang par rapport au volume total du sang} de populations côtières et pélagiques de \emph{Tursiops} de Floride. Les dauphins du large présentent des valeurs d'hématocrite plus fortes par rapport aux côtiers. Des croisements en captivité de dauphins des deux écotypes ont produit des animaux avec des profils hématologiques intermédiaires, ce qui indique que des facteurs génétiques sont en grande partie responsables des différences entre les deux écotypes. Des populations de grands dauphins vivant sur une même zone géographique mais avec deux comportements différents peuvent donc bien être séparées génétiquement. Cette différence de niche écologique pourrait s'être orchestrée selon une préférence alimentaire. Mais selon l'étude de \citet{gaspari2015population}, l'analyse des isotopes stables des individus dans l'Adriatique centrale montre que les grands dauphins changent facilement de proies, dépendant probablement de la disponibilité des celles-ci \citep{holcer2012ecology}.
 
-Cependant l'effet saisonnier ne pas être estimé avec les méthodes génétiques. Il se peut que des individus, voir des populations, changent de milieu au cours des saisons. En effet, cela serait le cas de populations de \emph{Tursiops} en MNO selon \citep{Laran2016}. Leur modélisation montre le passage d'une distribution clairement côtière en été, à une répartition plus pélagique pendant l'hiver, à l'exception de l'archipel toscan, où les grands dauphins sont présents dans les deux saisons.
+Cependant l'effet saisonnier ne peut pas être estimé avec les méthodes génétiques. Il se peut que des individus, voire des populations, changent de milieu au cours des saisons. En effet, cela serait le cas de populations de \emph{Tursiops} en MNO selon \citep{Laran2016}. Leur modélisation montre le passage d'une distribution clairement côtière en été à une répartition plus pélagique pendant l'hiver, à l'exception de l'archipel toscan, où les grands dauphins sont présents dans les deux saisons.
 
-Il se pourrait que les \emph{Tursiops} est une structure génétique populationnelle à une petite échelle géographique. Ceci a été suggéré par \citep{krutzen2004population} à Shark Bay, en Australie , par \citep{sellas2005mitochondrial} dans l'Atlantique Nord-Ouest (au Mexique), et plus récemment par \citep{ansmann2012dolphins} pour les grands dauphins côtiers (\emph{Tursiops aduncus}) à Moreton Bay, en Australie. Ces études et nos données impliquent la possibilité d'un modèle globale d'une différenciation à petite échelle pour ce genre.
+Il se pourrait que les \emph{Tursiops} aient une structure génétique populationnelle à une petite échelle géographique. Ceci a été suggéré par \citet{krutzen2004population} à Shark Bay, en Australie, par \citet{sellas2005mitochondrial} dans l'Atlantique Nord-Ouest (au Mexique), et plus récemment par \citet{ansmann2012dolphins} pour les grands dauphins côtiers (\emph{Tursiops aduncus}) à Moreton Bay, en Australie. Ces études et nos données impliquent la possibilité d'un modèle global d'une différenciation à petite échelle pour ce genre.
 
-Selon \citet{gaspari2015population}, lorsque l'on considère les écarts entre l'ADN nucléaire et mitochondrial les données peuvent être influencées par les flux de gènes sexuels. En effet, la dispersion différentielle des mâles et des femelles peut avoir une influence majeure sur la distribution des gènes maternels et bi-parentataux hérités des populations de grands dauphins \citep{hoelzel1998genetic}. Dans certaines populations, les dauphins mâles se dispersent plus souvent et plus loin que les femelles (\citep{krutzen2004population, moller2004genetic}. Alors que dans d'autres populations, il n'y a pas de différences significatives dans la dispersion entre les sexes \citep{natoli2005habitat}. Dans l'étude de \citet{gaspari2015population} sur les \emph{Tursiops} en Mer Tyrrhénienne et Adriatique, contrairement aux données d'ADN nucléaire, les séquences d'ADN mitochondrial ne montraient aucune différence entre les sites d'échantillonnages, ce qui suggère que les grands dauphins femelles peuvent avoir un rôle important dans la médiation de flux de gènes à travers le bassin. Voilà pourquoi il serait intéressant de pouvoir coupler les données du sexage obtenues lors de cette étude avec les données microsatellites et mitochondriales afin de connaitre la dispersion différentielle en fonction du sexe.
+Selon \citet{gaspari2015population}, lorsque l'on considère les écarts entre l'ADN nucléaire et mitochondrial, les données peuvent être influencées par les flux de gènes sexuels. En effet, la dispersion différentielle des mâles et des femelles peut avoir une influence majeure sur la distribution des gènes maternels et bi-parentaux hérités des populations de grands dauphins \citep{hoelzel1998genetic}. Dans certaines populations, les dauphins mâles se dispersent plus souvent et plus loin que les femelles (\citep{krutzen2004population, moller2004genetic}. Alors que dans d'autres populations, il n'y a pas de différence significative dans la dispersion entre les sexes \citep{natoli2005habitat}. Dans l'étude de \citet{gaspari2015population} sur les \emph{Tursiops} en Mer Tyrrhénienne et Adriatique, contrairement aux données d'ADN nucléaire, les séquences d'ADN mitochondrial ne montraient aucune différence entre les sites d'échantillonnages. Ce qui suggère que les grands dauphins femelles peuvent avoir un rôle important dans la médiation de flux de gènes à travers le bassin. Voilà pourquoi il serait intéressant de pouvoir coupler les données du sexage obtenues lors de cette étude avec les données microsatellites et mitochondriales afin de connaître la dispersion différentielle en fonction du sexe.
 
-Il faut néanmoins garder à l'esprit que la majorité des individus échantillonnés provient de cétacés échoués, et parfois en état de putréfaction. Il peut alors s'écouler quelques jours, voir quelques semaines avant que le mammifère marin ne vienne s'échouer sur une côte (communication personnelle; Fabien Demaret\footnote{Observatoire PELAGIS - UMS 3462, Université de La Rochelle / CNRS - 5 allée de l’Océan - 17 000 La Rochelle}). Son lieu de découverte ne correspond pas à son lieu de mort, et donc de vie. Aucun modèle de courantologie en Mer Méditerranée n'a pu être couplé à cette étude, ne permettant donc pas d'interpoler le véritable lieu de vie des individus trouvés échoués. Il se peut alors que l'appartenance à une zone géographique d'individus soit biaisé par ce critère qui n'a pu être étudié.
+Il faut néanmoins garder à l'esprit que la majorité des individus échantillonnés provient de cétacés échoués, et parfois en état de putréfaction. Il peut alors s'écouler quelques jours, voire quelques semaines avant que le mammifère marin ne vienne s'échouer sur une côte (communication personnelle; Fabien Demaret\footnote{Observatoire PELAGIS - UMS 3462, Université de La Rochelle / CNRS - 5 allée de l’Océan - 17 000 La Rochelle}). Son lieu de découverte ne correspond pas à son lieu de mort, et donc de vie. Aucun modèle de courantologie en Mer Méditerranée n'a pu être couplé à cette étude, ne permettant donc pas d'interpoler le véritable lieu de vie des individus trouvés échoués. Il se peut alors que l'appartenance à une zone géographique d'individus soit biaisée par ce critère qui n'a pu être étudié.
 
 Ces résultats permettent d'apporter de nouvelles informations sur la distribution et la structuration de cette espèce de cétacé en Mer Méditerranée. Les informations de cette étude aideront donc à la prise de décisions politiques pour la protection de cette espèce dans les plans de gestion des aires marines protégées de la Mer Méditerranée, et par conséquent, sur les écosystèmes englobés dans leurs habitats.
 
 
-\FloatBarrier
 \newpage
-\begin{otherlanguage}{english}
-	\singlespacing
-	\begin{multicols}{2}[\section*{Références bibliographiques}]
-		\begingroup
-		\def\section*#1{}
-		\small
-		\bibliographystyle{newbst}
-		\bibliography{Bibliographie}
-		\endgroup
+	\begin{otherlanguage}{english}
+		\singlespacing
+		\begin{multicols}{2}[]
+		\putbib [Bibliographie]
 	\end{multicols}
 \end{otherlanguage}
 
+\end {bibunit}
+
+
+\newpage
 \section{Annexes}
-\subsection{Caractéristiques des 25 marqueurs microsatellites utilisés}\label{microsats}
 
-\begin{figure}
- \begin{tiny}
-\rotatebox{90}{
- \begin{tabular}{ p{2cm} p{3cm} p{5cm} p{4cm} p{2cm} p{2cm} p{1.5cm} p{1cm}}
- 	\centering
- Marqueurs & \centering	Référence & \centering Primers 5'-3' (R et F) & \centering Motif & \centering Taille des allèles & \centering Concentrations des primers (Tous ou R/F/F* or R/F*) en µM & \centering T° annealing en °C & \centering Longueur d'onde \tabularnewline
- EV37 & \centering Valsecchi et Amos 1996 - Vollmer 2011 & \centering AGCTTGATTTGGAAGTCATGA GTTTTAGTAGAGCCGTGATAAAGTGC  & \centering (AC)24	& \centering 196-250 & \centering 0.24	& \centering 55	& \centering 800  \tabularnewline
- KMW12a & \centering Hoelzel et al. 1998 & \centering CCATACAATCCAGCAGTC CACTGCAGAATGATGACC	& \centering (CA)n & \centering 144-168	& \centering 0.125/0.075/0.05 & \centering 46 & \centering 800  \tabularnewline
- MK5 & \centering Krutzen et al. 2001 - Vollmer 2011 & \centering CTCAGAGGGAAATGAGGCTG GTTTTGTCTAGAGGTCAAAGCCTTCC & \centering (TG)13CT(TG)2CA(TG)2(TA)2(TG)4 & \centering	205-243 & \centering 0.2 & \centering 55 & \centering 700 \tabularnewline
- MK6 & \centering Krutzen et al. 2001 - Vollmer 2011 & \centering GTCCTCTTTCCAGGTGTAGCC GCCCACTAAGTATGTTGCAGC & \centering (GT)17 & \centering 145-191 & \centering 0.2 & \centering	55 & \centering	700  \tabularnewline
- MK8 & \centering Krutzen et al. 2001 - Vollmer 2011 & \centering TCCTGGAGCATCTTATAGTGGC GTTTCTCTTTGACATGCCCTCACC	& \centering (CA)23	& \centering 87-117	& \centering 0.2 & \centering	55	& \centering 800 \tabularnewline
- MK9 & \centering Krutzen et al. 2001 - Vollmer 2011 & \centering CATAACAAAGTGGGATGACTCC GTTTTTATCCTGTTGGCTGCAGTG & \centering (CA)17 & \centering 166-182 & \centering 0.4 & \centering 55 & \centering 800  \tabularnewline
- Tur4-87 & \centering Nater et al. 2009	& \centering CCCCATATGATGCCTTTGTAAGTCC AATTCCTTGTAACAAACCTCTTTATCT	& \centering (GATA)8 & \centering 182-202 & \centering 0.225/0.225	& \centering 61	& \centering 800  \tabularnewline
- Tur4-98 & \centering Nater et al. 2009	& \centering GTCCCCAGAACTTAGCACACTGTC CAACTGGGGTCCAAAGAAAGAAG & \centering (GATG)10 & \centering 172-204 & \centering 0.225/0.225 & \centering 63 & \centering 800  \tabularnewline
- Tur4-128 & \centering Nater et al. 2009 & \centering ACGTGCGCATGTCTTTGTCTTAT CTTTGGACGGGGAGTAGAACCTA & \centering	(GATA)11 & \centering 280-304 & \centering 0.225/0.225	& \centering 62	& \centering 800  \tabularnewline
- Tur4-142 & \centering Nater et al. 2009 & \centering GGCCCCCTTTTCCATCCTCA CCAGCCCCCAAAATCACGAGT & \centering (GATA)9 & \centering 320-340 & \centering 0.225/0.225	& \centering 61	& \centering 800  \tabularnewline
- TexVet5 & \centering Rooney et al. 1999 - Vollmer 2011	& \centering GATTGTGCAAATGGAGACA GTTTTTGAGATGACTCCTGTGGG & \centering (CA)24 & \centering 201-223 & \centering 0.125/0.075/0.05	& \centering 55	& \centering 800  \tabularnewline
- TexVet7 & \centering Rooney et al. 1999 - Vollmer 2011	& \centering TGCACTGTAGGGTGTTCAGCAG CTTAATTGGGGGCGATTTCAC & \centering (CA)12 & \centering 162-178 & \centering 0.2	& \centering 55	& \centering 800  \tabularnewline
- Ttr04 & \centering Rosel et al. 2005 & \centering CTGACCAGGCACTTTCCAC GTTTGTTTCCCAGGATTTTAGTGC	& \centering (CA)25	& \centering 106-128 & \centering 0.125/0.075/0.05	& \centering 60	& \centering 700 \tabularnewline
- Ttr11 & \centering Rosel et al. 2005 & \centering CTTTCAACCTGGCCTTTCTG GTTTGGCCACTACAAGGGAGTGAA & \centering	(CA)21 & \centering	194-226 & \centering 0.125/0.075/0.05 & \centering	62	& \centering 700 \tabularnewline
- Ttr19 & \centering Rosel et al. 2005 & \centering TGGGTGGACCTCATCAAATC GTTTAAGGGCTGTAAGAGG	& \centering (CA)17	& \centering 174-202 & \centering 0.125/0.075/0.05 & \centering	60	& \centering 700 \tabularnewline
- Ttr34 & \centering Rosel et al. 2005 & \centering GCACATGAGTATGTGGACAGG GTTTCCTCCTTGGGAGTGTCCTCT & \centering (CA)19 & \centering 182-204 & \centering 0.125/0.075/0.05 & \centering	58	& \centering 700 \tabularnewline
- Ttr48	& \centering Rosel et al. 2005 & \centering AAGAGGATGCAAATGGCAAG GTTTGGTAAGAAAATACCAAAGTCC & \centering (CA)18 & \centering 132-144 & \centering 0.125/0.075/0.05	& \centering 58	& \centering 700 \tabularnewline
- Ttr58	& \centering Rosel et al. 2005 & \centering TGGGTCTTGAGGGGTCTG GTTTGCTGAGGCTCCTTGTTGG	& \centering (CA)17	& \centering 168-196 & \centering 0.125/0.075/0.05	& \centering 60	& \centering 700 \tabularnewline
- Ttr63	& \centering Rosel et al. 2005 & \centering CAGCTTACAGCCAAATGAGAG GTTTCTCCATGGCTGAGTCATCA	& \centering (CA)34	& \centering 86-140	& \centering 0.125/0.075/0.05	& \centering 60	& \centering 800 \tabularnewline
- TtrFF6	& \centering Rosel et al. 2005 & \centering AAGTAAGTGCTCCTTTGACTGG GTTTGGCAGAGAGATATTAGGACAGC	& \centering (CA)20	& \centering 134-174 & \centering 0.125/0.075/0.05 & \centering 54	& \centering 800 \tabularnewline
- Tut01	& \centering Marie Louis 2014 & \centering CTGTTGTTGCCTCAATTTGC CCCATAGGACATATCCCACA & \centering (TG)11 & \centering 117-125 & \centering 0.125/0.075/0.05 & \centering 56 & \centering 700 \tabularnewline
- Tut02	& \centering Marie Louis 2014 & \centering CATTTGTTGGGAAGCTGTTG AGTGGGTTGACACATTCCCT & \centering (AC)11 & \centering 181-209 & \centering 0.125/0.075/0.05 & \centering 56 & \centering 700 \tabularnewline
- Tut05	& \centering Marie Louis 2014 & \centering GTATGCCTTGCTTTTGGTGC TGGGAGGTATGTCTGCAATAA & \centering (AC)13 & \centering 154-166 & \centering 0.125/0.075/0.05 & \centering 56 & \centering 700 \tabularnewline
- Tut08	& \centering Marie Louis 2014 & \centering AAGTTCCTAATTTCCCACCCA ACTTGTGTTTGCCTGCCTGT & \centering (AC)15 & \centering 149-175 & \centering 0.125/0.075/0.05 & \centering 56 & \centering 800 \tabularnewline
- Tut09	& \centering Marie Louis 2014 & \centering TAGGCTGGCAGAACACAAAG TGATTGTTTTCCTTCCTCGTG & \centering (AC)15 & \centering 149-167 & \centering 0.125/0.075/0.05 & \centering 56 & \centering 800 \tabularnewline
- \end{tabular}}
-\end{tiny}
-\end{figure}
+\begin {bibunit} [newbst]
 
-
-
-\begin{table}[]
+\begin{table}[h]
 \centering
 \caption{Table des individus par population}
-\label{my-label}
+\label{indpop}
 \begin{tabular}{|l|lll|ll|}
 \hline
 Galice & \multicolumn{3}{|c|}{Gibraltar} & \multicolumn{2}{|c|}{Méditerranée} \\
@@ -748,16 +706,73 @@ Total:21 & \multicolumn{3}{|c|}{Total:58} & \multicolumn{2}{|c|}{Total:42} \\
 \hline
 \end{tabular}
 \end{table}
-% \FloatBarrier
+\FloatBarrier
+
+La table \ref{indpop} présente l'assignation des individus à leur population selon l'inférence réalisé à l'aide des logiciels \texttt{Structure}, \citet{pritchard2000inference}, et \texttt{TESS}, \citet{franccois2010spatially}. Les individus commençant par ttr\_ correspondent à ceux échantillonnés pour cette étude, les autres proviennent de la base de données construite et utilisé par Marie Louis lors de sa thèse \citep{phdLouis2014}.
+
+
+\begin{figure}
+ \begin{tiny}
+\rotatebox{90}{
+ \begin{tabular}{ p{2cm} p{3cm} p{5cm} p{4cm} p{2cm} p{2cm} p{1.5cm} p{1cm}p{1cm}}
+ 	\centering
+ Marqueurs & \centering	Référence & \centering Primers 5'-3' (R et F) & \centering Motif & \centering Taille des allèles & \centering Concentrations des primers (Tous ou R/F/F* or R/F*) en µM & \centering T° annealing en °C & \centering Longueur d'onde & \centering Supprimé \tabularnewline
+ EV37 & \centering \citep{valsecchi1996microsatellite} - \citep{vollmer2012developing} & \centering AGCTTGATTTGGAAGTCATGA GTTTTAGTAGAGCCGTGATAAAGTGC  & \centering (AC)24	& \centering 196-250 & \centering 0.24	& \centering 55	& \centering 800 & \centering Oui \tabularnewline
+ KMW12a & \centering \citep{hoelzel1998genetic} & \centering CCATACAATCCAGCAGTC CACTGCAGAATGATGACC	& \centering (CA)n & \centering 144-168	& \centering 0.125/0.075/0.05 & \centering 46 & \centering 800  & \centering Non \tabularnewline
+ MK5 & \centering \citep{krutzen2001characterization} - \citep{vollmer2012developing}& \centering CTCAGAGGGAAATGAGGCTG GTTTTGTCTAGAGGTCAAAGCCTTCC & \centering (TG)13CT(TG)2CA(TG)2(TA)2(TG)4 & \centering	205-243 & \centering 0.2 & \centering 55 & \centering 700 & \centering Oui \tabularnewline
+ MK6 & \centering \citep{krutzen2001characterization} - \citep{vollmer2012developing} & \centering GTCCTCTTTCCAGGTGTAGCC GCCCACTAAGTATGTTGCAGC & \centering (GT)17 & \centering 145-191 & \centering 0.2 & \centering	55 & \centering	700 & \centering Non \tabularnewline
+ MK8 & \centering \citep{krutzen2001characterization} - \citep{vollmer2012developing} & \centering TCCTGGAGCATCTTATAGTGGC GTTTCTCTTTGACATGCCCTCACC	& \centering (CA)23	& \centering 87-117	& \centering 0.2 & \centering	55	& \centering 800 & \centering Oui \tabularnewline
+ MK9 & \centering \citep{krutzen2001characterization} -\citep{vollmer2012developing} & \centering CATAACAAAGTGGGATGACTCC GTTTTTATCCTGTTGGCTGCAGTG & \centering (CA)17 & \centering 166-182 & \centering 0.4 & \centering 55 & \centering 800 & \centering Oui \tabularnewline
+ Tur4-87 & \centering \citep{nater2009new}	& \centering CCCCATATGATGCCTTTGTAAGTCC AATTCCTTGTAACAAACCTCTTTATCT	& \centering (GATA)8 & \centering 182-202 & \centering 0.225/0.225	& \centering 61	& \centering 800  & \centering Oui \tabularnewline
+ Tur4-98 & \centering \citep{nater2009new}	& \centering GTCCCCAGAACTTAGCACACTGTC CAACTGGGGTCCAAAGAAAGAAG & \centering (GATG)10 & \centering 172-204 & \centering 0.225/0.225 & \centering 63 & \centering 800 & \centering Oui \tabularnewline
+ Tur4-128 & \centering \citep{nater2009new} & \centering ACGTGCGCATGTCTTTGTCTTAT CTTTGGACGGGGAGTAGAACCTA & \centering	(GATA)11 & \centering 280-304 & \centering 0.225/0.225	& \centering 62	& \centering 800 & \centering Oui \tabularnewline
+ Tur4-142 & \centering \citep{nater2009new} & \centering GGCCCCCTTTTCCATCCTCA CCAGCCCCCAAAATCACGAGT & \centering (GATA)9 & \centering 320-340 & \centering 0.225/0.225	& \centering 61	& \centering 800  & \centering Oui \tabularnewline
+ TexVet5 & \centering \citep{rooney1999microsatellite} -\citep{vollmer2012developing} 	& \centering GATTGTGCAAATGGAGACA GTTTTTGAGATGACTCCTGTGGG & \centering (CA)24 & \centering 201-223 & \centering 0.125/0.075/0.05	& \centering 55	& \centering 800 & \centering Non \tabularnewline
+ TexVet7 & \centering \citep{rooney1999microsatellite} -\citep{vollmer2012developing} 	& \centering TGCACTGTAGGGTGTTCAGCAG CTTAATTGGGGGCGATTTCAC & \centering (CA)12 & \centering 162-178 & \centering 0.2	& \centering 55	& \centering 800 & \centering Oui \tabularnewline
+ Ttr04 & \centering \citep{rosel2005isolation} & \centering CTGACCAGGCACTTTCCAC GTTTGTTTCCCAGGATTTTAGTGC	& \centering (CA)25	& \centering 106-128 & \centering 0.125/0.075/0.05	& \centering 60	& \centering 700 & \centering Non \tabularnewline
+ Ttr11 & \centering \citep{rosel2005isolation} & \centering CTTTCAACCTGGCCTTTCTG GTTTGGCCACTACAAGGGAGTGAA & \centering	(CA)21 & \centering	194-226 & \centering 0.125/0.075/0.05 & \centering	62	& \centering 700 & \centering Oui \tabularnewline
+ Ttr19 & \centering \citep{rosel2005isolation} & \centering TGGGTGGACCTCATCAAATC GTTTAAGGGCTGTAAGAGG	& \centering (CA)17	& \centering 174-202 & \centering 0.125/0.075/0.05 & \centering	60	& \centering 700 & \centering Non \tabularnewline
+ Ttr34 & \centering \citep{rosel2005isolation} & \centering GCACATGAGTATGTGGACAGG GTTTCCTCCTTGGGAGTGTCCTCT & \centering (CA)19 & \centering 182-204 & \centering 0.125/0.075/0.05 & \centering	58	& \centering 700 & \centering Non \tabularnewline
+ Ttr48	& \centering \citep{rosel2005isolation} & \centering AAGAGGATGCAAATGGCAAG GTTTGGTAAGAAAATACCAAAGTCC & \centering (CA)18 & \centering 132-144 & \centering 0.125/0.075/0.05	& \centering 58	& \centering 700 & \centering Oui \tabularnewline
+ Ttr58	& \centering \citep{rosel2005isolation} & \centering TGGGTCTTGAGGGGTCTG GTTTGCTGAGGCTCCTTGTTGG	& \centering (CA)17	& \centering 168-196 & \centering 0.125/0.075/0.05	& \centering 60	& \centering 700& \centering Oui \tabularnewline
+ Ttr63	& \centering \citep{rosel2005isolation} & \centering CAGCTTACAGCCAAATGAGAG GTTTCTCCATGGCTGAGTCATCA	& \centering (CA)34	& \centering 86-140	& \centering 0.125/0.075/0.05	& \centering 60	& \centering 800 & \centering Oui \tabularnewline
+ TtrFF6	& \centering \citep{rosel2005isolation} & \centering AAGTAAGTGCTCCTTTGACTGG GTTTGGCAGAGAGATATTAGGACAGC	& \centering (CA)20	& \centering 134-174 & \centering 0.125/0.075/0.05 & \centering 54	& \centering 800 & \centering Non \tabularnewline
+ Tut01	& \centering \citep{phdLouis2014} 2014 & \centering CTGTTGTTGCCTCAATTTGC CCCATAGGACATATCCCACA & \centering (TG)11 & \centering 117-125 & \centering 0.125/0.075/0.05 & \centering 56 & \centering 700 & \centering Oui \tabularnewline
+ Tut02	& \centering \citep{phdLouis2014} 2014 & \centering CATTTGTTGGGAAGCTGTTG AGTGGGTTGACACATTCCCT & \centering (AC)11 & \centering 181-209 & \centering 0.125/0.075/0.05 & \centering 56 & \centering 700 & \centering Non \tabularnewline
+ Tut05	& \centering \citep{phdLouis2014} 2014 & \centering GTATGCCTTGCTTTTGGTGC TGGGAGGTATGTCTGCAATAA & \centering (AC)13 & \centering 154-166 & \centering 0.125/0.075/0.05 & \centering 56 & \centering 700 & \centering  Non\tabularnewline
+ Tut08	& \centering \citep{phdLouis2014} 2014 & \centering AAGTTCCTAATTTCCCACCCA ACTTGTGTTTGCCTGCCTGT & \centering (AC)15 & \centering 149-175 & \centering 0.125/0.075/0.05 & \centering 56 & \centering 800 & \centering Non \tabularnewline
+ Tut09	& \centering \citep{phdLouis2014} & \centering TAGGCTGGCAGAACACAAAG TGATTGTTTTCCTTCCTCGTG & \centering (AC)15 & \centering 149-167 & \centering 0.125/0.075/0.05 & \centering 56 & \centering 800 & \centering Non \tabularnewline
+ \end{tabular}}
+ \caption{{Caractéristiques des 25 marqueurs microsatellites utilisés}\label{microsats}
+ }
+\end{tiny}
+\end{figure}
+\FloatBarrier
+
+\newpage
+	\begin{otherlanguage}{english}
+		\singlespacing
+		\begin{multicols}{2}[]
+		\putbib [Bibliographie]
+	\end{multicols}
+\end{otherlanguage}
+
+\end {bibunit}
+
 
 \newpage
 \thispagestyle{empty}
 \setcounter{page}{0}
 %\addtolength{\hoffset}{cm}
 %\addtolength{\textwidth}{2cm}
-\addtolength{\leftmargin}{1cm}
-\addtolength{\rightmargin}{1cm}
+%\addtolength{\leftmargin}{1cm}
+%\addtolength{\rightmargin}{1cm}
 
+%\begin{changemargin}{1cm}{1cm} 
+
+\newpage
+\newgeometry{top=1.5cm, bottom=0.5cm}
+\begin{adjustwidth}{-1.5cm}{-1cm}
 \begin{center}
 
 \begin{abstract}
@@ -765,17 +780,25 @@ Total:21 & \multicolumn{3}{|c|}{Total:58} & \multicolumn{2}{|c|}{Total:42} \\
 Bien que le grand dauphin \emph{Tursiops truncatus} soit une espèce patrimoniale, bien connue et protégée, elle aujourd'hui une espèce vulnérable selon l'Union internationale pour la conservation de la nature. Les eaux méditerranéennes françaises comprennent aujourd'hui 44 aires marines protégées, du fait que cette partie du globe soit un point chaud de la biodiversité. Néanmoins, de nombreuses menaces pèsent sur ce cétacé qui est victime de captures accidentelles, de collisions avec les bateaux, de pollutions multiples et de la dégradation de son habitat. Afin de pouvoir protéger au mieux cette espèce sociale et mobile, les plans de gestion des aires marines protégées se doivent d'avoir des informations sur la structure des population. Ainsi, l'inférence de la structure des populations des \emph{Tursiops truncatus} a été réalisé lors de cette étude à l'aide de marqueurs microsatellites (12 loci sur 121 individus) et d'ADN mitochondrial (Fragments de 682 paires de bases sur 138 individus). L'inférence des populations a été obtenue par trois méthodes distinctes, avec un logiciel prenant en compte le nombre de populations vraisemblables avec les données nucléaires, un autre ajoutant le critère de localisation des individus, et enfin en réalisant une Analyse Discriminante sur les Composantes Principales (DAPC) qui elle n'est pas influencée par la nature génétique des données. La caractérisation de ces populations s'est ensuite faite à l'aide d'indices de diversité génétique sur les données nucléaires et mitochondriales. Ainsi, trois populations ont été inférés lors de cette étude. Une population en Galice qui pourrait en comporter deux selon la littérature (une pélagique et une côtière), une population située à Gibraltar qui serait pélagique, et une autre en Méditerranée Nord Occidentale qui serait aussi pélagique. Il se pourrait qu'une quatrième population ne fusse pas détectée au sud de la Corse du fait du peu d'individus échantillonnée en ce lieu.
 
 \end{abstract}
+\end{center}
+\end{adjustwidth}
+
 
 \begin{otherlanguage}{english}
 
+%\newgeometry{top=0.5cm, bottom=0.5cm}
+\begin{adjustwidth}{-1.5cm}{-1cm}
+\begin{center}
 \begin{abstract}
 
 Although the dolphin \emph{Tursiops truncatus} is a patrimonial species, well known and protected, it is now registered as a vulnerable species by the International Union for the Conservation of Nature. Today, the French Mediterranean waters include 44 marines protected area. Because this part of the globe is a hot spot of biodiversity. Nevertheless, there are many threats on this cetacean, because it is a victim of accidental catches, collisions with ships, multiple pollution and habitat degradation by humans. In order to best protect this social and mobile species, management plans for marine protected areas will need to have information on the population structure. Thus, the inference of population structure of \emph{Tursiops truncatus} was performed in this study by using microsatellite markers (12 loci on 121 individuals) and mitochondrial DNA (Fragments of 682 bp of 138 individuals). The inference population was obtained by three differents methods, with software which taking into account the number of population with nuclear data, adding another software with the criterion of individual location, and finally by performing discriminant analysis on the Principal Components (DAPC), which is not influenced by the genetic nature of the data. The characterization of these populations is made using genetic diversity indices on nuclear and mitochondrial data. So, three populations have been inferred from this study. A population in Galicia, which could be two according to the literature (pelagic and coastal populations), a population located in Gibraltar would be pelagic and another in north-western Mediterranean, which would also be pelagic. It could be a fourth population which not detected on the south of Corsica because of the lack individuals sampled in this place.
 
 \end{abstract}
-
-\end{changemargin}
-
 \end{center}
+
+\end{adjustwidth}
+%\thispagestyle{empty}
+
+%\end{changemargin}
 
 \end{document}
