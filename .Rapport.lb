@@ -1,7 +1,7 @@
 (dp0
 Vengine
 p1
-Vxelatex
+S'pdflatex'
 p2
 sVpackages
 p3
@@ -17,71 +17,73 @@ aVetoolbox
 p8
 aVfloat
 p9
-aVframed
-p10
-aValltt
-p11
 aVmulticol
-p12
+p10
 aVnicefrac
-p13
+p11
 aVbabel
-p14
+p12
 aVsetspace
-p15
+p13
 aVbooktabs
-p16
-aVupquote
-p17
+p14
 aVfrcursive
-p18
+p15
 aVmicrotype
-p19
+p16
 aVgraphicx
-p20
+p17
 aVinputenc
-p21
+p18
 aVbreakcites
-p22
+p19
 aVnatbib
-p23
+p20
 aVlastpage
-p24
+p21
 aVbibunits
-p25
+p22
 aVchangepage
-p26
+p23
 aVspacecites
-p27
+p24
 aVhyperref
-p28
+p25
 aVgeometry
-p29
+p26
 aVchngcntr
-p30
+p27
 aVplaceins
-p31
+p28
 aVSIunits
-p32
-atp33
-Rp34
+p29
+atp30
+Rp31
 sVfiles_with_guttermarks
-p35
+p32
 g4
-((lp36
-V/Users/bsimonbo/Dropbox/In Progress/_Stage Pierre-Louis Stenger/Raport-compile-/babelbst.tex
-p37
-aV/Users/bsimonbo/Dropbox/In Progress/_Stage Pierre-Louis Stenger/Raport-compile-/Rapport.tex
-p38
-aV/Users/bsimonbo/Dropbox/In Progress/_Stage Pierre-Louis Stenger/Raport-compile-/./Rapport.tex
-p39
-aV/Users/bsimonbo/Dropbox/In Progress/_Stage Pierre-Louis Stenger/Raport-compile-/bu2.bbl (./babelbst.tex
-p40
+((lp33
+V/Users/bsimonbo/Dropbox/In Progress/_Stage Pierre-Louis Stenger/Raport-compile-/bu2.bbl (./babelbst.tex
+p34
 aS'Rapport.Rnw'
+p35
+aV/Users/pierre-louisstenger/Desktop/Raport compile\u0301/bu1.bbl (./babelbst.tex
+p36
+aV/Users/bsimonbo/Dropbox/In Progress/_Stage Pierre-Louis Stenger/Raport-compile-/./Rapport.tex
+p37
+aV/Users/pierre-louisstenger/Desktop/Raport compile\u0301/bu2.bbl (./babelbst.tex
+p38
+aV/Users/pierre-louisstenger/Desktop/Raport compile\u0301/./Rapport.Rnw
+p39
+aV/Users/bsimonbo/Dropbox/In Progress/_Stage Pierre-Louis Stenger/Raport-compile-/babelbst.tex
+p40
+aV/Users/bsimonbo/Dropbox/In Progress/_Stage Pierre-Louis Stenger/Raport-compile-/Rapport.tex
 p41
-atp42
-Rp43
+aS'/Users/pierre-louisstenger/Desktop/Raport compile\xcc\x81/Rapport.Rnw'
+p42
+atp43
+Rp44
 sVsynctex
-p44
+p45
 I01
 s.
