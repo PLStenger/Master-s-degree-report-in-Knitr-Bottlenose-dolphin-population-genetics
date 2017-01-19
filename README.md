@@ -1,3 +1,3 @@
-# Resultats_rapport_PL
+# Rapport compilé et corrigé, adapté à l'impression
 
 Readme
